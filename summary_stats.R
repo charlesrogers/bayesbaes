@@ -78,36 +78,3 @@ df.summary.short <- create_serieA_summary(list(df.serieA_summary.2019, df.serieA
   select(team,starts_with("points"),starts_with("total_goals"), starts_with("total_xg"))
 
 
-# Create data frame for linear regression
-df.predict <- df.summary.short %>%
-  mutate(year = as.numeric(year)) %>%
-  filter(year < 2023) %>%
-  select(team, year, starts_with("total_xg"), starts_with("total_goals")) %>%
-  pivot_longer(cols = -c(team, year), names_to = "statistic", values_to = "value") %>%
-  mutate(year = year + 1)
-
-# Linear regression to predict next year's points from xg
-fit_xg <- lm(points.2023 ~ total_xg.for.2022 + total_xg.against.2022, data = df.summary.short)
-summary(fit_xg)
-
-# Linear regression to predict next year's points from goals scored
-fit_goals <- lm(points.2023 ~ total_goals.for.2022 + total_goals.against.2022, data = df.summary.short)
-summary(fit_goals)
-
-fit_goals.merged <- lm(points.2023 ~ total_xg.for.2022 + total_xg.against.2022+total_goals.for.2022 + total_goals.against.2022, data = df.summary.short)
-summary(fit_goals.merged)
-
-
-# Predict next year's points
-df.predict <- df.summary.short %>%
-  mutate(predicted_points_xg = predict(fit_xg, .),
-         predicted_points_goals = predict(fit_goals, .))
-
-# Plot actual points against predicted points
-ggplot(df.predict, aes(x = points.2023, y = predicted_points_xg, color = "xg")) +
-  geom_point() +
-  geom_abline(intercept = 0, slope = 1) +
-  geom_point(aes(y = predicted_points_goals, color = "goals")) +
-  labs(x = "Actual Points", y = "Predicted Points", color = "Statistic") +
-  theme(legend.position = "bottom")
-
