@@ -1,0 +1,1311 @@
+"","X","gameID","date","away_team","home_team","away_even","home_even","away_powerplay","home_powerplay","away_shorthanded","home_shorthanded","away_OT","home_OT","away_SO","home_SO"
+"1",1,"45209-CHI@PIT","2023-10-10","Chicago Blackhawks","Pittsburgh Penguins",4,2,0,0,0,0,0,0,0,0
+"2",2,"45209-NSH@TB","2023-10-10","Nashville Predators","Tampa Bay Lightning",2,3,0,2,1,0,0,0,0,0
+"3",3,"45209-SEA@VGS","2023-10-10","Seattle Kraken","Vegas Golden Knights",1,4,0,0,0,0,0,0,0,0
+"4",4,"45210-CHI@BOS","2023-10-11","Chicago Blackhawks","Boston Bruins",1,3,0,0,0,0,0,0,0,0
+"5",5,"45210-COL@LA","2023-10-11","Colorado Avalanche","Los Angeles Kings",4,2,0,0,1,0,0,0,0,0
+"6",6,"45210-EDM@VAN","2023-10-11","Edmonton Oilers","Vancouver Canucks",0,5,0,3,1,0,0,0,0,0
+"7",7,"45210-MTL@TOR","2023-10-11","Montreal Canadiens","Toronto Maple Leafs",4,3,0,2,1,0,0,0,0,1
+"8",8,"45210-OTT@CAR","2023-10-11","Ottawa Senators","Carolina Hurricanes",2,3,1,1,0,1,0,0,0,0
+"9",9,"45210-WPG@CGY","2023-10-11","Winnipeg Jets","Calgary Flames",3,3,0,1,0,1,0,0,0,0
+"10",10,"45211-DET@NJ","2023-10-12","Detroit Red Wings","New Jersey Devils",1,3,0,1,2,0,0,0,0,0
+"11",11,"45211-FLA@MIN","2023-10-12","Florida Panthers","Minnesota Wild",0,1,0,1,0,0,0,0,0,0
+"12",12,"45211-NYR@BUF","2023-10-12","New York Rangers","Buffalo Sabres",3,1,1,0,1,0,0,0,0,0
+"13",13,"45211-PHI@CBJ","2023-10-12","Philadelphia Flyers","Columbus Blue Jackets",4,2,0,0,0,0,0,0,0,0
+"14",14,"45211-SEA@NSH","2023-10-12","Seattle Kraken","Nashville Predators",0,2,0,0,0,1,0,0,0,0
+"15",15,"45211-STL@DAL","2023-10-12","St. Louis Blues","Dallas Stars",1,1,0,0,0,0,0,0,0,1
+"16",16,"45211-VGS@SJ","2023-10-12","Vegas Golden Knights","San Jose Sharks",4,1,0,0,0,0,0,0,0,0
+"17",17,"45212-ARI@NJ","2023-10-13","Arizona Coyotes","New Jersey Devils",1,1,0,2,2,0,0,0,1,0
+"18",18,"45212-PIT@WSH","2023-10-13","Pittsburgh Penguins","Washington Capitals",2,0,0,0,2,0,0,0,0,0
+"19",19,"45213-ANA@VGS","2023-10-14","Anaheim Ducks","Vegas Golden Knights",1,2,0,2,0,0,0,0,0,0
+"20",20,"45213-BUF@NYI","2023-10-14","Buffalo Sabres","New York Islanders",2,3,0,0,0,0,0,0,0,0
+"21",21,"45213-CAR@LA","2023-10-14","Carolina Hurricanes","Los Angeles Kings",3,3,2,2,0,0,0,0,1,0
+"22",22,"45213-CGY@PIT","2023-10-14","Calgary Flames","Pittsburgh Penguins",1,5,0,0,1,0,0,0,0,0
+"23",23,"45213-CHI@MTL","2023-10-14","Chicago Blackhawks","Montreal Canadiens",2,2,0,0,0,1,0,0,0,0
+"24",24,"45213-COL@SJ","2023-10-14","Colorado Avalanche","San Jose Sharks",1,1,0,0,0,0,0,0,1,0
+"25",25,"45213-FLA@WPG","2023-10-14","Florida Panthers","Winnipeg Jets",3,3,0,2,1,1,0,0,0,0
+"26",26,"45213-MIN@TOR","2023-10-14","Minnesota Wild","Toronto Maple Leafs",4,5,0,2,0,0,0,0,0,0
+"27",27,"45213-NSH@BOS","2023-10-14","Nashville Predators","Boston Bruins",2,1,0,2,0,0,0,0,0,0
+"28",28,"45213-NYR@CBJ","2023-10-14","New York Rangers","Columbus Blue Jackets",2,4,0,1,1,0,0,0,0,0
+"29",29,"45213-PHI@OTT","2023-10-14","Philadelphia Flyers","Ottawa Senators",1,2,0,3,1,0,0,0,0,0
+"30",30,"45213-SEA@STL","2023-10-14","Seattle Kraken","St. Louis Blues",0,1,0,0,1,0,0,0,0,1
+"31",31,"45213-TB@DET","2023-10-14","Tampa Bay Lightning","Detroit Red Wings",3,6,0,0,1,0,0,0,0,0
+"32",32,"45213-VAN@EDM","2023-10-14","Vancouver Canucks","Edmonton Oilers",3,1,0,2,1,0,0,0,0,0
+"33",33,"45214-CAR@ANA","2023-10-15","Carolina Hurricanes","Anaheim Ducks",1,6,0,0,2,0,0,0,0,0
+"34",34,"45214-TB@OTT","2023-10-15","Tampa Bay Lightning","Ottawa Senators",2,5,0,0,0,0,0,0,0,0
+"35",35,"45215-ARI@NYR","2023-10-16","Arizona Coyotes","New York Rangers",0,1,0,1,1,0,0,0,0,0
+"36",36,"45215-CGY@WSH","2023-10-16","Calgary Flames","Washington Capitals",1,2,0,0,1,0,0,0,0,1
+"37",37,"45215-CHI@TOR","2023-10-16","Chicago Blackhawks","Toronto Maple Leafs",2,1,1,0,1,0,0,0,0,0
+"38",38,"45215-DET@CBJ","2023-10-16","Detroit Red Wings","Columbus Blue Jackets",2,0,0,0,2,0,0,0,0,0
+"39",39,"45215-FLA@NJ","2023-10-16","Florida Panthers","New Jersey Devils",3,1,0,2,1,0,0,0,0,0
+"40",40,"45216-ARI@NYI","2023-10-17","Arizona Coyotes","New York Islanders",0,0,0,1,0,0,0,0,0,0
+"41",41,"45216-CAR@SJ","2023-10-17","Carolina Hurricanes","San Jose Sharks",2,1,1,2,3,0,0,0,0,0
+"42",42,"45216-COL@SEA","2023-10-17","Colorado Avalanche","Seattle Kraken",3,1,1,0,0,0,0,0,0,0
+"43",43,"45216-DAL@VGS","2023-10-17","Dallas Stars","Vegas Golden Knights",2,2,0,0,0,0,0,0,0,1
+"44",44,"45216-EDM@NSH","2023-10-17","Edmonton Oilers","Nashville Predators",4,0,0,1,2,0,0,0,0,0
+"45",45,"45216-LA@WPG","2023-10-17","Los Angeles Kings","Winnipeg Jets",4,1,0,0,1,0,0,0,0,0
+"46",46,"45216-MIN@MTL","2023-10-17","Minnesota Wild","Montreal Canadiens",0,2,2,0,3,0,0,0,0,0
+"47",47,"45216-TB@BUF","2023-10-17","Tampa Bay Lightning","Buffalo Sabres",2,2,0,0,0,0,0,1,0,0
+"48",48,"45216-VAN@PHI","2023-10-17","Vancouver Canucks","Philadelphia Flyers",0,2,0,0,0,0,0,0,0,0
+"49",49,"45217-PIT@DET","2023-10-18","Pittsburgh Penguins","Detroit Red Wings",3,4,0,2,0,0,0,0,0,0
+"50",50,"45217-WSH@OTT","2023-10-18","Washington Capitals","Ottawa Senators",1,5,0,1,0,0,0,0,0,0
+"51",51,"45218-ARI@STL","2023-10-19","Arizona Coyotes","St. Louis Blues",3,2,0,0,3,0,0,0,0,0
+"52",52,"45218-BOS@SJ","2023-10-19","Boston Bruins","San Jose Sharks",3,1,0,0,0,0,0,0,0,0
+"53",53,"45218-CAR@SEA","2023-10-19","Carolina Hurricanes","Seattle Kraken",3,4,0,2,1,1,0,0,0,0
+"54",54,"45218-CGY@BUF","2023-10-19","Calgary Flames","Buffalo Sabres",4,2,0,1,0,0,0,0,0,0
+"55",55,"45218-CHI@COL","2023-10-19","Chicago Blackhawks","Colorado Avalanche",0,2,0,1,0,1,0,0,0,0
+"56",56,"45218-DAL@ANA","2023-10-19","Dallas Stars","Anaheim Ducks",1,2,0,0,2,0,0,0,0,0
+"57",57,"45218-EDM@PHI","2023-10-19","Edmonton Oilers","Philadelphia Flyers",1,3,0,0,0,1,0,0,0,0
+"58",58,"45218-LA@MIN","2023-10-19","Los Angeles Kings","Minnesota Wild",6,3,1,0,0,0,0,0,0,0
+"59",59,"45218-NSH@NYR","2023-10-19","Nashville Predators","New York Rangers",2,0,0,1,2,0,0,0,0,0
+"60",60,"45218-TOR@FLA","2023-10-19","Toronto Maple Leafs","Florida Panthers",0,2,0,0,1,1,0,0,0,0
+"61",61,"45218-VAN@TB","2023-10-19","Vancouver Canucks","Tampa Bay Lightning",3,2,0,2,0,0,0,0,0,0
+"62",62,"45218-VGS@WPG","2023-10-19","Vegas Golden Knights","Winnipeg Jets",3,2,0,1,2,0,0,0,0,0
+"63",63,"45219-CGY@CBJ","2023-10-20","Calgary Flames","Columbus Blue Jackets",0,3,1,0,0,0,0,0,0,0
+"64",64,"45219-NJ@NYI","2023-10-20","New Jersey Devils","New York Islanders",0,4,0,0,4,0,1,0,0,0
+"65",65,"45220-ANA@ARI","2023-10-21","Anaheim Ducks","Arizona Coyotes",0,1,0,1,1,0,0,0,0,0
+"66",66,"45220-BOS@LA","2023-10-21","Boston Bruins","Los Angeles Kings",3,1,0,1,1,0,0,0,0,0
+"67",67,"45220-CAR@COL","2023-10-21","Carolina Hurricanes","Colorado Avalanche",3,2,0,3,1,1,0,0,0,0
+"68",68,"45220-CBJ@MIN","2023-10-21","Columbus Blue Jackets","Minnesota Wild",3,4,0,0,1,0,1,0,0,0
+"69",69,"45220-DET@OTT","2023-10-21","Detroit Red Wings","Ottawa Senators",2,1,0,1,3,0,0,0,0,0
+"70",70,"45220-NYI@BUF","2023-10-21","New York Islanders","Buffalo Sabres",1,3,0,0,0,0,0,0,0,0
+"71",71,"45220-NYR@SEA","2023-10-21","New York Rangers","Seattle Kraken",4,1,0,0,0,0,0,0,0,0
+"72",72,"45220-PHI@DAL","2023-10-21","Philadelphia Flyers","Dallas Stars",1,4,3,0,0,0,0,1,0,0
+"73",73,"45220-PIT@STL","2023-10-21","Pittsburgh Penguins","St. Louis Blues",2,4,0,0,0,0,0,0,0,0
+"74",74,"45220-SJ@NSH","2023-10-21","San Jose Sharks","Nashville Predators",1,3,0,2,0,0,0,0,0,0
+"75",75,"45220-TOR@TB","2023-10-21","Toronto Maple Leafs","Tampa Bay Lightning",3,1,0,2,0,0,1,0,0,0
+"76",76,"45220-VAN@FLA","2023-10-21","Vancouver Canucks","Florida Panthers",3,3,0,0,2,0,0,0,0,0
+"77",77,"45220-VGS@CHI","2023-10-21","Vegas Golden Knights","Chicago Blackhawks",3,2,0,1,2,0,0,0,0,0
+"78",78,"45220-WPG@EDM","2023-10-21","Winnipeg Jets","Edmonton Oilers",0,1,1,1,1,0,1,0,0,0
+"79",79,"45220-WSH@MTL","2023-10-21","Washington Capitals","Montreal Canadiens",2,1,0,1,0,0,0,1,0,0
+"80",80,"45221-BOS@ANA","2023-10-22","Boston Bruins","Anaheim Ducks",3,1,0,0,0,0,0,0,0,0
+"81",81,"45221-CGY@DET","2023-10-22","Calgary Flames","Detroit Red Wings",2,6,0,0,0,0,0,0,0,0
+"82",82,"45222-MTL@BUF","2023-10-23","Montreal Canadiens","Buffalo Sabres",2,0,0,1,1,0,0,0,0,0
+"83",83,"45223-ANA@CBJ","2023-10-24","Anaheim Ducks","Columbus Blue Jackets",2,1,0,1,0,0,1,0,0,0
+"84",84,"45223-ARI@LA","2023-10-24","Arizona Coyotes","Los Angeles Kings",2,5,0,1,1,0,0,0,0,0
+"85",85,"45223-BOS@CHI","2023-10-24","Boston Bruins","Chicago Blackhawks",3,0,0,0,0,0,0,0,0,0
+"86",86,"45223-BUF@OTT","2023-10-24","Buffalo Sabres","Ottawa Senators",4,3,1,1,1,0,0,0,0,0
+"87",87,"45223-CAR@TB","2023-10-24","Carolina Hurricanes","Tampa Bay Lightning",0,2,0,1,0,0,0,0,0,0
+"88",88,"45223-COL@NYI","2023-10-24","Colorado Avalanche","New York Islanders",6,3,0,1,1,0,0,0,0,0
+"89",89,"45223-DAL@PIT","2023-10-24","Dallas Stars","Pittsburgh Penguins",4,1,0,0,0,0,0,0,0,0
+"90",90,"45223-EDM@MIN","2023-10-24","Edmonton Oilers","Minnesota Wild",3,7,0,0,1,0,0,0,0,0
+"91",91,"45223-NJ@MTL","2023-10-24","New Jersey Devils","Montreal Canadiens",3,1,0,1,2,0,0,0,0,0
+"92",92,"45223-NYR@CGY","2023-10-24","New York Rangers","Calgary Flames",1,1,0,0,2,0,0,0,0,0
+"93",93,"45223-PHI@VGS","2023-10-24","Philadelphia Flyers","Vegas Golden Knights",2,3,0,0,0,0,0,0,0,0
+"94",94,"45223-SEA@DET","2023-10-24","Seattle Kraken","Detroit Red Wings",2,1,0,3,2,0,1,0,0,0
+"95",95,"45223-SJ@FLA","2023-10-24","San Jose Sharks","Florida Panthers",0,2,0,1,1,0,0,0,0,0
+"96",96,"45223-STL@WPG","2023-10-24","St. Louis Blues","Winnipeg Jets",1,4,0,0,1,0,0,0,0,0
+"97",97,"45223-TOR@WSH","2023-10-24","Toronto Maple Leafs","Washington Capitals",2,0,0,1,2,0,0,0,0,0
+"98",98,"45223-VAN@NSH","2023-10-24","Vancouver Canucks","Nashville Predators",3,2,0,0,0,0,0,0,0,0
+"99",99,"45224-WSH@NJ","2023-10-25","Washington Capitals","New Jersey Devils",5,4,0,0,1,0,0,0,0,0
+"100",100,"45225-ANA@BOS","2023-10-26","Anaheim Ducks","Boston Bruins",3,2,0,1,0,0,1,0,0,0
+"101",101,"45225-CBJ@MTL","2023-10-26","Columbus Blue Jackets","Montreal Canadiens",1,1,0,2,2,0,0,1,0,0
+"102",102,"45225-COL@PIT","2023-10-26","Colorado Avalanche","Pittsburgh Penguins",0,4,0,0,0,0,0,0,0,0
+"103",103,"45225-MIN@PHI","2023-10-26","Minnesota Wild","Philadelphia Flyers",2,4,0,2,0,0,0,0,0,0
+"104",104,"45225-NYR@EDM","2023-10-26","New York Rangers","Edmonton Oilers",2,0,0,0,1,0,0,0,0,0
+"105",105,"45225-OTT@NYI","2023-10-26","Ottawa Senators","New York Islanders",1,2,0,1,1,0,0,0,0,0
+"106",106,"45225-SEA@CAR","2023-10-26","Seattle Kraken","Carolina Hurricanes",2,2,0,0,0,0,0,1,0,0
+"107",107,"45225-SJ@TB","2023-10-26","San Jose Sharks","Tampa Bay Lightning",0,5,0,1,0,0,0,0,0,0
+"108",108,"45225-STL@CGY","2023-10-26","St. Louis Blues","Calgary Flames",2,0,1,0,0,0,0,0,0,0
+"109",109,"45225-TOR@DAL","2023-10-26","Toronto Maple Leafs","Dallas Stars",3,1,0,0,1,0,0,0,0,0
+"110",110,"45225-WPG@DET","2023-10-26","Winnipeg Jets","Detroit Red Wings",4,1,0,0,0,0,0,0,0,0
+"111",111,"45226-BUF@NJ","2023-10-27","Buffalo Sabres","New Jersey Devils",4,3,0,1,0,1,0,0,0,0
+"112",112,"45226-CHI@VGS","2023-10-27","Chicago Blackhawks","Vegas Golden Knights",3,3,0,0,0,0,1,0,0,0
+"113",113,"45226-LA@ARI","2023-10-27","Los Angeles Kings","Arizona Coyotes",4,4,0,0,1,0,0,0,0,0
+"114",114,"45226-MIN@WSH","2023-10-27","Minnesota Wild","Washington Capitals",2,0,0,1,0,1,0,0,0,1
+"115",115,"45226-SJ@CAR","2023-10-27","San Jose Sharks","Carolina Hurricanes",0,2,0,1,0,0,0,0,0,0
+"116",116,"45226-STL@VAN","2023-10-27","St. Louis Blues","Vancouver Canucks",0,4,0,0,0,1,0,0,0,0
+"117",117,"45227-ANA@PHI","2023-10-28","Anaheim Ducks","Philadelphia Flyers",4,3,1,1,2,0,0,0,0,0
+"118",118,"45227-DET@BOS","2023-10-28","Detroit Red Wings","Boston Bruins",1,3,0,1,0,0,0,0,0,0
+"119",119,"45227-NYI@CBJ","2023-10-28","New York Islanders","Columbus Blue Jackets",2,0,0,0,0,0,0,0,0,0
+"120",120,"45227-NYR@VAN","2023-10-28","New York Rangers","Vancouver Canucks",0,1,0,1,3,1,1,0,0,0
+"121",121,"45227-OTT@PIT","2023-10-28","Ottawa Senators","Pittsburgh Penguins",4,2,0,0,1,0,0,0,0,0
+"122",122,"45227-SEA@FLA","2023-10-28","Seattle Kraken","Florida Panthers",2,2,0,1,0,0,0,0,0,0
+"123",123,"45227-TOR@NSH","2023-10-28","Toronto Maple Leafs","Nashville Predators",1,0,0,2,1,0,0,1,0,0
+"124",124,"45227-VGS@LA","2023-10-28","Vegas Golden Knights","Los Angeles Kings",2,3,0,0,1,0,0,0,1,0
+"125",125,"45227-WPG@MTL","2023-10-28","Winnipeg Jets","Montreal Canadiens",3,2,0,1,0,0,0,0,0,1
+"126",126,"45228-CGY@EDM","2023-10-29","Calgary Flames","Edmonton Oilers",0,5,0,0,2,0,0,0,0,0
+"127",127,"45228-COL@BUF","2023-10-29","Colorado Avalanche","Buffalo Sabres",0,4,0,0,0,0,0,0,0,0
+"128",128,"45228-MIN@NJ","2023-10-29","Minnesota Wild","New Jersey Devils",2,2,0,2,1,0,0,0,0,0
+"129",129,"45228-SJ@WSH","2023-10-29","San Jose Sharks","Washington Capitals",1,3,0,0,0,0,0,0,0,0
+"130",130,"45229-ANA@PIT","2023-10-30","Anaheim Ducks","Pittsburgh Penguins",2,1,1,2,1,0,0,0,0,0
+"131",131,"45229-CAR@PHI","2023-10-30","Carolina Hurricanes","Philadelphia Flyers",2,2,0,0,1,0,0,0,0,0
+"132",132,"45229-CBJ@DAL","2023-10-30","Columbus Blue Jackets","Dallas Stars",3,5,0,0,0,0,0,0,0,0
+"133",133,"45229-CHI@ARI","2023-10-30","Chicago Blackhawks","Arizona Coyotes",1,7,0,1,0,0,0,0,0,0
+"134",134,"45229-DET@NYI","2023-10-30","Detroit Red Wings","New York Islanders",3,1,0,1,0,1,1,0,0,0
+"135",135,"45229-FLA@BOS","2023-10-30","Florida Panthers","Boston Bruins",2,2,0,0,0,0,0,1,0,0
+"136",136,"45229-MTL@VGS","2023-10-30","Montreal Canadiens","Vegas Golden Knights",1,1,1,1,0,0,0,0,0,1
+"137",137,"45229-NYR@WPG","2023-10-30","New York Rangers","Winnipeg Jets",1,2,0,0,1,0,1,0,0,0
+"138",138,"45229-SEA@TB","2023-10-30","Seattle Kraken","Tampa Bay Lightning",2,2,0,1,1,0,1,0,0,0
+"139",139,"45230-LA@TOR","2023-10-31","Los Angeles Kings","Toronto Maple Leafs",3,0,0,1,1,0,0,0,0,0
+"140",140,"45230-NSH@VAN","2023-10-31","Nashville Predators","Vancouver Canucks",2,4,0,1,0,0,0,0,0,0
+"141",141,"45231-ARI@ANA","2023-11-01","Arizona Coyotes","Anaheim Ducks",3,1,0,2,0,0,0,1,0,0
+"142",142,"45231-BUF@PHI","2023-11-01","Buffalo Sabres","Philadelphia Flyers",5,2,0,0,0,0,0,0,0,0
+"143",143,"45231-DAL@CGY","2023-11-01","Dallas Stars","Calgary Flames",3,2,1,1,0,0,0,0,0,0
+"144",144,"45231-STL@COL","2023-11-01","St. Louis Blues","Colorado Avalanche",1,3,0,1,0,0,0,0,0,0
+"145",145,"45232-CAR@NYR","2023-11-02","Carolina Hurricanes","New York Rangers",0,1,0,1,1,0,0,0,0,0
+"146",146,"45232-DAL@EDM","2023-11-02","Dallas Stars","Edmonton Oilers",3,3,0,0,1,0,0,0,0,0
+"147",147,"45232-FLA@DET","2023-11-02","Florida Panthers","Detroit Red Wings",2,0,0,0,0,0,0,0,0,0
+"148",148,"45232-LA@OTT","2023-11-02","Los Angeles Kings","Ottawa Senators",2,1,0,1,1,0,0,0,0,0
+"149",149,"45232-MTL@ARI","2023-11-02","Montreal Canadiens","Arizona Coyotes",1,2,0,1,1,0,0,0,0,0
+"150",150,"45232-NJ@MIN","2023-11-02","New Jersey Devils","Minnesota Wild",2,2,0,1,3,0,0,0,0,0
+"151",151,"45232-NSH@SEA","2023-11-02","Nashville Predators","Seattle Kraken",0,3,0,1,2,0,0,0,0,0
+"152",152,"45232-NYI@WSH","2023-11-02","New York Islanders","Washington Capitals",3,0,0,0,0,0,0,0,0,0
+"153",153,"45232-TB@CBJ","2023-11-02","Tampa Bay Lightning","Columbus Blue Jackets",2,4,0,0,0,0,0,0,0,0
+"154",154,"45232-TOR@BOS","2023-11-02","Toronto Maple Leafs","Boston Bruins",2,2,0,0,0,0,0,0,0,1
+"155",155,"45232-VAN@SJ","2023-11-02","Vancouver Canucks","San Jose Sharks",6,0,0,1,4,0,0,0,0,0
+"156",156,"45232-WPG@VGS","2023-11-02","Winnipeg Jets","Vegas Golden Knights",1,3,0,2,1,0,0,0,0,0
+"157",157,"45233-NJ@STL","2023-11-03","New Jersey Devils","St. Louis Blues",1,4,0,0,0,0,0,0,0,0
+"158",158,"45233-PHI@BUF","2023-11-03","Philadelphia Flyers","Buffalo Sabres",5,1,0,0,0,0,0,0,0,0
+"159",159,"45234-BOS@DET","2023-11-04","Boston Bruins","Detroit Red Wings",3,3,0,2,1,0,0,0,0,0
+"160",160,"45234-BUF@TOR","2023-11-04","Buffalo Sabres","Toronto Maple Leafs",4,3,1,1,1,0,0,0,0,0
+"161",161,"45234-CAR@NYI","2023-11-04","Carolina Hurricanes","New York Islanders",2,2,0,0,1,1,1,0,0,0
+"162",162,"45234-CBJ@WSH","2023-11-04","Columbus Blue Jackets","Washington Capitals",1,2,0,0,0,0,0,0,0,0
+"163",163,"45234-CGY@SEA","2023-11-04","Calgary Flames","Seattle Kraken",5,2,0,1,1,0,0,0,0,0
+"164",164,"45234-COL@VGS","2023-11-04","Colorado Avalanche","Vegas Golden Knights",0,4,0,1,0,2,0,0,0,0
+"165",165,"45234-DAL@VAN","2023-11-04","Dallas Stars","Vancouver Canucks",0,2,0,0,0,0,0,0,0,0
+"166",166,"45234-FLA@CHI","2023-11-04","Florida Panthers","Chicago Blackhawks",1,4,0,1,1,0,0,0,0,0
+"167",167,"45234-LA@PHI","2023-11-04","Los Angeles Kings","Philadelphia Flyers",4,0,0,0,1,0,0,0,0,0
+"168",168,"45234-MTL@STL","2023-11-04","Montreal Canadiens","St. Louis Blues",2,5,0,0,1,1,0,0,0,0
+"169",169,"45234-NSH@EDM","2023-11-04","Nashville Predators","Edmonton Oilers",4,0,0,2,1,0,0,0,0,0
+"170",170,"45234-NYR@MIN","2023-11-04","New York Rangers","Minnesota Wild",4,4,0,0,0,0,0,0,0,1
+"171",171,"45234-PIT@SJ","2023-11-04","Pittsburgh Penguins","San Jose Sharks",8,0,0,2,2,0,0,0,0,0
+"172",172,"45234-TB@OTT","2023-11-04","Tampa Bay Lightning","Ottawa Senators",5,3,0,1,1,0,0,0,0,0
+"173",173,"45234-WPG@ARI","2023-11-04","Winnipeg Jets","Arizona Coyotes",4,2,0,1,1,0,0,0,0,0
+"174",174,"45235-NJ@CHI","2023-11-05","New Jersey Devils","Chicago Blackhawks",3,2,0,0,1,0,0,0,0,0
+"175",175,"45235-VGS@ANA","2023-11-05","Vegas Golden Knights","Anaheim Ducks",2,3,0,1,0,0,0,0,0,0
+"176",176,"45236-BOS@DAL","2023-11-06","Boston Bruins","Dallas Stars",2,2,0,0,1,0,0,0,0,0
+"177",177,"45236-CBJ@FLA","2023-11-06","Columbus Blue Jackets","Florida Panthers",3,4,0,0,1,0,0,1,0,0
+"178",178,"45236-EDM@VAN","2023-11-06","Edmonton Oilers","Vancouver Canucks",1,3,0,3,1,0,0,0,0,0
+"179",179,"45236-TB@TOR","2023-11-06","Tampa Bay Lightning","Toronto Maple Leafs",3,5,0,0,2,0,0,1,0,0
+"180",180,"45237-BUF@CAR","2023-11-07","Buffalo Sabres","Carolina Hurricanes",1,1,0,1,1,0,0,1,0,0
+"181",181,"45237-DET@NYR","2023-11-07","Detroit Red Wings","New York Rangers",3,3,0,2,0,0,0,0,0,0
+"182",182,"45237-MIN@NYI","2023-11-07","Minnesota Wild","New York Islanders",3,1,0,1,1,0,0,0,0,0
+"183",183,"45237-NJ@COL","2023-11-07","New Jersey Devils","Colorado Avalanche",1,4,0,1,2,1,0,0,0,0
+"184",184,"45237-NSH@CGY","2023-11-07","Nashville Predators","Calgary Flames",2,4,0,0,0,0,0,0,0,0
+"185",185,"45237-PHI@SJ","2023-11-07","Philadelphia Flyers","San Jose Sharks",1,1,0,1,0,0,0,0,0,0
+"186",186,"45237-PIT@ANA","2023-11-07","Pittsburgh Penguins","Anaheim Ducks",2,0,0,0,0,0,0,0,0,0
+"187",187,"45237-SEA@ARI","2023-11-07","Seattle Kraken","Arizona Coyotes",2,1,0,2,1,0,0,0,0,1
+"188",188,"45237-TB@MTL","2023-11-07","Tampa Bay Lightning","Montreal Canadiens",3,2,0,1,2,0,0,0,0,0
+"189",189,"45237-WPG@STL","2023-11-07","Winnipeg Jets","St. Louis Blues",3,2,0,0,2,0,0,0,0,0
+"190",190,"45238-FLA@WSH","2023-11-08","Florida Panthers","Washington Capitals",3,2,0,0,0,1,1,0,0,0
+"191",191,"45238-LA@VGS","2023-11-08","Los Angeles Kings","Vegas Golden Knights",2,1,0,0,2,0,0,0,0,0
+"192",192,"45238-OTT@TOR","2023-11-08","Ottawa Senators","Toronto Maple Leafs",5,2,0,1,1,0,0,0,0,0
+"193",193,"45239-ARI@STL","2023-11-09","Arizona Coyotes","St. Louis Blues",0,2,0,0,1,0,0,0,0,0
+"194",194,"45239-CHI@TB","2023-11-09","Chicago Blackhawks","Tampa Bay Lightning",4,2,0,1,1,0,0,0,0,0
+"195",195,"45239-DAL@CBJ","2023-11-09","Dallas Stars","Columbus Blue Jackets",5,2,0,0,0,0,0,0,0,0
+"196",196,"45239-EDM@SJ","2023-11-09","Edmonton Oilers","San Jose Sharks",2,3,0,0,0,0,0,0,0,0
+"197",197,"45239-MIN@NYR","2023-11-09","Minnesota Wild","New York Rangers",1,3,0,1,0,0,0,0,0,0
+"198",198,"45239-MTL@DET","2023-11-09","Montreal Canadiens","Detroit Red Wings",1,2,0,0,1,0,1,0,0,0
+"199",199,"45239-NSH@WPG","2023-11-09","Nashville Predators","Winnipeg Jets",3,5,0,1,0,0,0,0,0,0
+"200",200,"45239-NYI@BOS","2023-11-09","New York Islanders","Boston Bruins",0,3,1,2,1,0,0,0,0,0
+"201",201,"45239-PIT@LA","2023-11-09","Pittsburgh Penguins","Los Angeles Kings",2,2,1,0,0,1,1,0,0,0
+"202",202,"45239-SEA@COL","2023-11-09","Seattle Kraken","Colorado Avalanche",3,3,0,0,1,0,0,0,0,0
+"203",203,"45239-VAN@OTT","2023-11-09","Vancouver Canucks","Ottawa Senators",4,2,0,0,1,0,0,0,0,0
+"204",204,"45240-CAR@FLA","2023-11-10","Carolina Hurricanes","Florida Panthers",2,5,0,0,0,0,0,0,0,0
+"205",205,"45240-CGY@TOR","2023-11-10","Calgary Flames","Toronto Maple Leafs",4,2,0,1,0,1,0,0,0,1
+"206",206,"45240-MIN@BUF","2023-11-10","Minnesota Wild","Buffalo Sabres",0,3,0,0,2,0,0,0,0,0
+"207",207,"45240-PHI@ANA","2023-11-10","Philadelphia Flyers","Anaheim Ducks",6,1,0,2,0,0,0,0,0,0
+"208",208,"45240-SJ@VGS","2023-11-10","San Jose Sharks","Vegas Golden Knights",0,4,0,0,0,1,0,0,0,0
+"209",209,"45240-WSH@NJ","2023-11-10","Washington Capitals","New Jersey Devils",4,2,0,0,0,0,0,0,0,0
+"210",210,"45241-ARI@NSH","2023-11-11","Arizona Coyotes","Nashville Predators",5,4,0,1,2,0,0,0,0,0
+"211",211,"45241-BOS@MTL","2023-11-11","Boston Bruins","Montreal Canadiens",1,1,0,1,1,0,0,1,0,0
+"212",212,"45241-BUF@PIT","2023-11-11","Buffalo Sabres","Pittsburgh Penguins",0,3,0,1,0,0,0,0,0,0
+"213",213,"45241-CAR@TB","2023-11-11","Carolina Hurricanes","Tampa Bay Lightning",3,0,0,0,1,0,0,0,0,0
+"214",214,"45241-CBJ@DET","2023-11-11","Columbus Blue Jackets","Detroit Red Wings",4,5,0,0,0,0,0,0,0,0
+"215",215,"45241-CGY@OTT","2023-11-11","Calgary Flames","Ottawa Senators",1,3,0,1,0,0,0,0,0,0
+"216",216,"45241-DAL@WPG","2023-11-11","Dallas Stars","Winnipeg Jets",1,2,1,0,1,0,0,0,0,0
+"217",217,"45241-EDM@SEA","2023-11-11","Edmonton Oilers","Seattle Kraken",3,0,0,1,1,0,0,0,0,0
+"218",218,"45241-PHI@LA","2023-11-11","Philadelphia Flyers","Los Angeles Kings",4,2,0,0,0,0,0,0,0,0
+"219",219,"45241-STL@COL","2023-11-11","St. Louis Blues","Colorado Avalanche",4,2,2,0,2,0,0,0,0,0
+"220",220,"45241-VAN@TOR","2023-11-11","Vancouver Canucks","Toronto Maple Leafs",0,5,0,0,2,0,0,0,0,0
+"221",221,"45241-WSH@NYI","2023-11-11","Washington Capitals","New York Islanders",4,1,0,0,0,0,0,0,0,0
+"222",222,"45242-CBJ@NYR","2023-11-12","Columbus Blue Jackets","New York Rangers",3,3,0,0,0,0,0,0,0,1
+"223",223,"45242-CHI@FLA","2023-11-12","Chicago Blackhawks","Florida Panthers",3,2,0,2,0,0,0,0,0,0
+"224",224,"45242-DAL@MIN","2023-11-12","Dallas Stars","Minnesota Wild",1,2,2,1,5,0,0,0,0,0
+"225",225,"45242-SJ@ANA","2023-11-12","San Jose Sharks","Anaheim Ducks",1,2,0,2,0,0,0,0,0,0
+"226",226,"45242-VAN@MTL","2023-11-12","Vancouver Canucks","Montreal Canadiens",5,1,0,1,0,0,0,0,0,0
+"227",227,"45243-COL@SEA","2023-11-13","Colorado Avalanche","Seattle Kraken",3,1,0,0,2,0,0,0,0,0
+"228",228,"45243-NYI@EDM","2023-11-13","New York Islanders","Edmonton Oilers",1,1,0,2,0,1,0,0,0,0
+"229",229,"45244-ANA@NSH","2023-11-14","Anaheim Ducks","Nashville Predators",3,1,0,1,0,0,0,0,0,0
+"230",230,"45244-ARI@DAL","2023-11-14","Arizona Coyotes","Dallas Stars",2,2,0,1,1,0,0,1,0,0
+"231",231,"45244-BOS@BUF","2023-11-14","Boston Bruins","Buffalo Sabres",4,2,0,0,1,0,0,0,0,0
+"232",232,"45244-CGY@MTL","2023-11-14","Calgary Flames","Montreal Canadiens",2,1,0,0,0,0,0,0,0,0
+"233",233,"45244-FLA@SJ","2023-11-14","Florida Panthers","San Jose Sharks",3,2,0,1,2,0,0,0,0,0
+"234",234,"45244-NJ@WPG","2023-11-14","New Jersey Devils","Winnipeg Jets",1,4,0,2,2,0,0,0,0,0
+"235",235,"45244-PIT@CBJ","2023-11-14","Pittsburgh Penguins","Columbus Blue Jackets",5,3,0,0,0,0,0,0,0,0
+"236",236,"45244-TB@STL","2023-11-14","Tampa Bay Lightning","St. Louis Blues",0,5,0,0,0,0,0,0,0,0
+"237",237,"45244-VGS@WSH","2023-11-14","Vegas Golden Knights","Washington Capitals",0,3,0,0,0,0,0,0,0,0
+"238",238,"45245-ANA@COL","2023-11-15","Anaheim Ducks","Colorado Avalanche",2,7,0,1,0,0,0,0,0,0
+"239",239,"45245-NYI@VAN","2023-11-15","New York Islanders","Vancouver Canucks",1,0,0,3,2,0,0,1,0,0
+"240",240,"45245-PHI@CAR","2023-11-15","Philadelphia Flyers","Carolina Hurricanes",3,1,0,0,0,0,0,0,0,0
+"241",241,"45245-SEA@EDM","2023-11-15","Seattle Kraken","Edmonton Oilers",3,3,0,0,0,0,0,1,0,0
+"242",242,"45246-ARI@CBJ","2023-11-16","Arizona Coyotes","Columbus Blue Jackets",2,2,0,0,1,0,0,0,0,0
+"243",243,"45246-DET@OTT","2023-11-16","Detroit Red Wings","Ottawa Senators",4,3,0,1,0,0,0,1,0,0
+"244",244,"45246-FLA@LA","2023-11-16","Florida Panthers","Los Angeles Kings",1,1,0,1,0,0,0,0,0,0
+"245",245,"45246-NJ@PIT","2023-11-16","New Jersey Devils","Pittsburgh Penguins",4,2,1,0,0,0,0,0,0,0
+"246",246,"45246-NYI@SEA","2023-11-16","New York Islanders","Seattle Kraken",1,0,0,3,2,0,0,0,0,1
+"247",247,"45246-STL@SJ","2023-11-16","St. Louis Blues","San Jose Sharks",1,5,0,0,0,0,0,0,0,0
+"248",248,"45246-TB@CHI","2023-11-16","Tampa Bay Lightning","Chicago Blackhawks",3,1,0,1,1,0,0,0,0,0
+"249",249,"45246-VAN@CGY","2023-11-16","Vancouver Canucks","Calgary Flames",1,5,0,0,1,0,0,0,0,0
+"250",250,"45246-VGS@MTL","2023-11-16","Vegas Golden Knights","Montreal Canadiens",2,5,1,0,3,0,0,0,0,0
+"251",251,"45247-BUF@WPG","2023-11-17","Buffalo Sabres","Winnipeg Jets",2,3,0,0,0,0,0,0,0,0
+"252",252,"45247-FLA@ANA","2023-11-17","Florida Panthers","Anaheim Ducks",2,0,0,1,0,0,0,0,0,0
+"253",253,"45247-TOR@DET","2023-11-17","Toronto Maple Leafs","Detroit Red Wings",2,2,0,0,1,0,0,0,0,0
+"254",254,"45248-ARI@WPG","2023-11-18","Arizona Coyotes","Winnipeg Jets",2,5,0,0,0,0,0,0,0,0
+"255",255,"45248-CBJ@WSH","2023-11-18","Columbus Blue Jackets","Washington Capitals",3,4,0,0,0,0,0,0,0,0
+"256",256,"45248-CHI@NSH","2023-11-18","Chicago Blackhawks","Nashville Predators",2,3,0,1,0,0,0,0,0,0
+"257",257,"45248-COL@DAL","2023-11-18","Colorado Avalanche","Dallas Stars",5,2,0,1,1,0,0,0,0,0
+"258",258,"45248-EDM@TB","2023-11-18","Edmonton Oilers","Tampa Bay Lightning",3,4,1,2,0,0,0,0,0,0
+"259",259,"45248-MIN@OTT","2023-11-18","Minnesota Wild","Ottawa Senators",1,1,0,0,0,0,0,0,0,1
+"260",260,"45248-MTL@BOS","2023-11-18","Montreal Canadiens","Boston Bruins",2,3,0,2,0,0,0,0,0,0
+"261",261,"45248-NYI@CGY","2023-11-18","New York Islanders","Calgary Flames",3,4,0,0,1,0,0,0,1,0
+"262",262,"45248-NYR@NJ","2023-11-18","New York Rangers","New Jersey Devils",4,2,0,1,1,0,0,0,0,0
+"263",263,"45248-PIT@CAR","2023-11-18","Pittsburgh Penguins","Carolina Hurricanes",2,3,0,1,0,0,0,0,0,0
+"264",264,"45248-SEA@VAN","2023-11-18","Seattle Kraken","Vancouver Canucks",4,3,0,0,0,0,0,0,0,0
+"265",265,"45248-STL@LA","2023-11-18","St. Louis Blues","Los Angeles Kings",1,3,0,1,0,1,0,0,0,0
+"266",266,"45248-VGS@PHI","2023-11-18","Vegas Golden Knights","Philadelphia Flyers",2,1,0,2,1,0,0,1,0,0
+"267",267,"45249-BUF@CHI","2023-11-19","Buffalo Sabres","Chicago Blackhawks",2,2,0,0,1,0,0,0,0,0
+"268",268,"45249-CBJ@PHI","2023-11-19","Columbus Blue Jackets","Philadelphia Flyers",2,3,0,1,0,1,0,0,0,0
+"269",269,"45249-STL@ANA","2023-11-19","St. Louis Blues","Anaheim Ducks",2,1,0,0,1,0,0,0,0,0
+"270",270,"45249-TOR@MIN","2023-11-19","Toronto Maple Leafs","Minnesota Wild",2,3,0,0,1,0,1,0,0,0
+"271",271,"45249-VGS@PIT","2023-11-19","Vegas Golden Knights","Pittsburgh Penguins",0,3,0,0,0,0,0,0,0,0
+"272",272,"45250-BOS@TB","2023-11-20","Boston Bruins","Tampa Bay Lightning",4,3,0,1,0,0,0,1,0,0
+"273",273,"45250-CGY@SEA","2023-11-20","Calgary Flames","Seattle Kraken",2,3,0,0,1,0,1,0,0,0
+"274",274,"45250-COL@NSH","2023-11-20","Colorado Avalanche","Nashville Predators",1,4,1,0,1,0,0,0,0,0
+"275",275,"45250-EDM@FLA","2023-11-20","Edmonton Oilers","Florida Panthers",3,4,0,1,0,0,0,0,0,0
+"276",276,"45250-LA@ARI","2023-11-20","Los Angeles Kings","Arizona Coyotes",3,1,1,0,0,0,0,0,0,0
+"277",277,"45250-NYR@DAL","2023-11-20","New York Rangers","Dallas Stars",2,3,0,1,1,2,0,0,0,0
+"278",278,"45250-SJ@VAN","2023-11-20","San Jose Sharks","Vancouver Canucks",0,2,0,0,1,1,0,0,0,0
+"279",279,"45252-BOS@FLA","2023-11-22","Boston Bruins","Florida Panthers",3,1,0,0,0,0,0,0,0,0
+"280",280,"45252-BUF@WSH","2023-11-22","Buffalo Sabres","Washington Capitals",2,3,0,0,1,0,0,1,0,0
+"281",281,"45252-CGY@NSH","2023-11-22","Calgary Flames","Nashville Predators",1,2,1,1,0,1,0,0,0,0
+"282",282,"45252-CHI@CBJ","2023-11-22","Chicago Blackhawks","Columbus Blue Jackets",3,6,0,1,0,0,0,0,0,0
+"283",283,"45252-EDM@CAR","2023-11-22","Edmonton Oilers","Carolina Hurricanes",1,5,1,0,1,1,0,0,0,0
+"284",284,"45252-MTL@ANA","2023-11-22","Montreal Canadiens","Anaheim Ducks",4,2,0,1,0,0,0,0,0,0
+"285",285,"45252-NJ@DET","2023-11-22","New Jersey Devils","Detroit Red Wings",0,3,0,1,0,0,0,0,0,0
+"286",286,"45252-NYR@PIT","2023-11-22","New York Rangers","Pittsburgh Penguins",1,0,0,0,0,0,0,0,0,0
+"287",287,"45252-PHI@NYI","2023-11-22","Philadelphia Flyers","New York Islanders",2,3,0,0,0,0,0,0,0,0
+"288",288,"45252-SJ@SEA","2023-11-22","San Jose Sharks","Seattle Kraken",1,6,0,1,0,0,0,0,0,0
+"289",289,"45252-STL@ARI","2023-11-22","St. Louis Blues","Arizona Coyotes",4,5,2,0,0,0,0,0,0,0
+"290",290,"45252-VAN@COL","2023-11-22","Vancouver Canucks","Colorado Avalanche",2,4,0,1,0,0,0,0,0,0
+"291",291,"45252-VGS@DAL","2023-11-22","Vegas Golden Knights","Dallas Stars",0,1,0,0,1,0,1,0,0,0
+"292",292,"45252-WPG@TB","2023-11-22","Winnipeg Jets","Tampa Bay Lightning",1,1,0,1,1,0,1,0,0,0
+"293",293,"45254-CBJ@NJ","2023-11-24","Columbus Blue Jackets","New Jersey Devils",2,1,0,0,0,0,0,0,0,0
+"294",294,"45254-CGY@DAL","2023-11-24","Calgary Flames","Dallas Stars",7,3,0,1,0,0,0,0,0,0
+"295",295,"45254-COL@MIN","2023-11-24","Colorado Avalanche","Minnesota Wild",2,1,0,1,1,0,0,0,0,0
+"296",296,"45254-DET@BOS","2023-11-24","Detroit Red Wings","Boston Bruins",3,1,0,1,2,0,0,0,0,0
+"297",297,"45254-EDM@WSH","2023-11-24","Edmonton Oilers","Washington Capitals",2,0,0,0,3,0,0,0,0,0
+"298",298,"45254-LA@ANA","2023-11-24","Los Angeles Kings","Anaheim Ducks",3,1,0,1,2,0,0,0,0,0
+"299",299,"45254-MTL@SJ","2023-11-24","Montreal Canadiens","San Jose Sharks",2,1,0,1,0,0,0,0,1,0
+"300",300,"45254-NSH@STL","2023-11-24","Nashville Predators","St. Louis Blues",7,2,0,1,1,0,0,0,0,0
+"301",301,"45254-NYI@OTT","2023-11-24","New York Islanders","Ottawa Senators",4,2,0,1,1,0,0,0,0,0
+"302",302,"45254-NYR@PHI","2023-11-24","New York Rangers","Philadelphia Flyers",3,1,0,0,0,0,0,0,0,0
+"303",303,"45254-PIT@BUF","2023-11-24","Pittsburgh Penguins","Buffalo Sabres",2,2,0,1,0,0,0,0,0,0
+"304",304,"45254-TB@CAR","2023-11-24","Tampa Bay Lightning","Carolina Hurricanes",4,1,0,1,4,0,0,0,0,0
+"305",305,"45254-TOR@CHI","2023-11-24","Toronto Maple Leafs","Chicago Blackhawks",3,3,0,0,0,0,0,1,0,0
+"306",306,"45254-VAN@SEA","2023-11-24","Vancouver Canucks","Seattle Kraken",4,1,1,0,0,0,0,0,0,0
+"307",307,"45254-WPG@FLA","2023-11-24","Winnipeg Jets","Florida Panthers",2,0,1,0,0,0,0,0,0,0
+"308",308,"45255-ARI@VGS","2023-11-25","Arizona Coyotes","Vegas Golden Knights",2,0,0,0,0,0,0,0,0,0
+"309",309,"45255-BOS@NYR","2023-11-25","Boston Bruins","New York Rangers",3,5,0,1,1,1,0,0,0,0
+"310",310,"45255-CGY@COL","2023-11-25","Calgary Flames","Colorado Avalanche",1,2,0,1,0,0,0,0,0,0
+"311",311,"45255-MTL@LA","2023-11-25","Montreal Canadiens","Los Angeles Kings",0,4,0,0,0,0,0,0,0,0
+"312",312,"45255-PHI@NYI","2023-11-25","Philadelphia Flyers","New York Islanders",0,0,0,0,0,0,0,0,1,0
+"313",313,"45255-VAN@SJ","2023-11-25","Vancouver Canucks","San Jose Sharks",1,3,0,1,2,0,0,0,0,0
+"314",314,"45256-ANA@EDM","2023-11-26","Anaheim Ducks","Edmonton Oilers",2,6,0,2,0,0,0,0,0,0
+"315",315,"45256-CBJ@CAR","2023-11-26","Columbus Blue Jackets","Carolina Hurricanes",2,3,0,0,0,0,0,0,0,0
+"316",316,"45256-MIN@DET","2023-11-26","Minnesota Wild","Detroit Red Wings",0,2,0,2,1,0,0,0,0,0
+"317",317,"45256-STL@CHI","2023-11-26","St. Louis Blues","Chicago Blackhawks",3,2,0,0,1,0,0,0,0,0
+"318",318,"45256-WPG@NSH","2023-11-26","Winnipeg Jets","Nashville Predators",1,2,0,1,1,0,0,0,0,0
+"319",319,"45257-BOS@CBJ","2023-11-27","Boston Bruins","Columbus Blue Jackets",2,4,0,1,0,0,0,0,0,0
+"320",320,"45257-BUF@NYR","2023-11-27","Buffalo Sabres","New York Rangers",5,0,0,1,0,0,0,0,0,0
+"321",321,"45257-FLA@OTT","2023-11-27","Florida Panthers","Ottawa Senators",2,0,0,0,3,0,0,0,0,0
+"322",322,"45257-TB@COL","2023-11-27","Tampa Bay Lightning","Colorado Avalanche",1,3,0,1,0,0,0,0,0,0
+"323",323,"45257-VGS@CGY","2023-11-27","Vegas Golden Knights","Calgary Flames",0,1,0,0,1,0,0,1,0,0
+"324",324,"45257-WSH@SJ","2023-11-27","Washington Capitals","San Jose Sharks",1,1,0,1,0,0,0,0,0,0
+"325",325,"45258-ANA@VAN","2023-11-28","Anaheim Ducks","Vancouver Canucks",0,2,0,1,1,0,0,0,0,0
+"326",326,"45258-CAR@PHI","2023-11-28","Carolina Hurricanes","Philadelphia Flyers",4,1,0,0,0,0,0,0,0,0
+"327",327,"45258-DAL@WPG","2023-11-28","Dallas Stars","Winnipeg Jets",2,0,0,0,0,0,0,0,0,0
+"328",328,"45258-FLA@TOR","2023-11-28","Florida Panthers","Toronto Maple Leafs",1,1,0,0,0,0,0,0,0,1
+"329",329,"45258-NYI@NJ","2023-11-28","New York Islanders","New Jersey Devils",3,4,0,1,1,0,0,0,0,0
+"330",330,"45258-PIT@NSH","2023-11-28","Pittsburgh Penguins","Nashville Predators",2,2,0,0,0,0,0,1,0,0
+"331",331,"45258-SEA@CHI","2023-11-28","Seattle Kraken","Chicago Blackhawks",2,4,1,0,0,0,0,0,0,0
+"332",332,"45258-STL@MIN","2023-11-28","St. Louis Blues","Minnesota Wild",1,3,0,0,0,0,0,0,0,0
+"333",333,"45258-TB@ARI","2023-11-28","Tampa Bay Lightning","Arizona Coyotes",1,3,0,0,0,0,0,0,0,0
+"334",334,"45258-VGS@EDM","2023-11-28","Vegas Golden Knights","Edmonton Oilers",4,3,0,1,0,0,0,0,0,1
+"335",335,"45259-DET@NYR","2023-11-29","Detroit Red Wings","New York Rangers",1,3,0,0,1,0,0,0,0,0
+"336",336,"45259-MTL@CBJ","2023-11-29","Montreal Canadiens","Columbus Blue Jackets",4,2,0,0,0,0,0,0,0,0
+"337",337,"45259-WSH@LA","2023-11-29","Washington Capitals","Los Angeles Kings",2,1,0,0,0,0,0,0,0,0
+"338",338,"45260-BUF@STL","2023-11-30","Buffalo Sabres","St. Louis Blues",4,5,0,1,0,0,0,0,0,0
+"339",339,"45260-CHI@DET","2023-11-30","Chicago Blackhawks","Detroit Red Wings",0,2,0,2,1,1,0,0,0,0
+"340",340,"45260-COL@ARI","2023-11-30","Colorado Avalanche","Arizona Coyotes",0,2,0,1,3,0,0,1,0,0
+"341",341,"45260-DAL@CGY","2023-11-30","Dallas Stars","Calgary Flames",3,3,0,0,0,0,0,1,0,0
+"342",342,"45260-EDM@WPG","2023-11-30","Edmonton Oilers","Winnipeg Jets",2,0,0,1,1,0,0,0,0,0
+"343",343,"45260-FLA@MTL","2023-11-30","Florida Panthers","Montreal Canadiens",4,1,0,0,1,0,0,0,0,0
+"344",344,"45260-MIN@NSH","2023-11-30","Minnesota Wild","Nashville Predators",5,1,0,0,1,0,0,0,0,0
+"345",345,"45260-NJ@PHI","2023-11-30","New Jersey Devils","Philadelphia Flyers",2,1,0,2,1,0,1,0,0,0
+"346",346,"45260-NYI@CAR","2023-11-30","New York Islanders","Carolina Hurricanes",2,4,1,0,1,0,1,0,0,0
+"347",347,"45260-PIT@TB","2023-11-30","Pittsburgh Penguins","Tampa Bay Lightning",4,1,0,1,0,0,0,0,0,0
+"348",348,"45260-SEA@TOR","2023-11-30","Seattle Kraken","Toronto Maple Leafs",2,2,0,1,1,0,0,0,0,1
+"349",349,"45260-SJ@BOS","2023-11-30","San Jose Sharks","Boston Bruins",0,2,0,1,0,0,0,0,0,0
+"350",350,"45260-VGS@VAN","2023-11-30","Vegas Golden Knights","Vancouver Canucks",3,1,0,0,1,0,0,0,0,0
+"351",351,"45260-WSH@ANA","2023-11-30","Washington Capitals","Anaheim Ducks",3,4,0,0,2,0,0,0,0,0
+"352",352,"45261-OTT@CBJ","2023-12-01","Ottawa Senators","Columbus Blue Jackets",1,2,0,2,1,0,0,0,0,0
+"353",353,"45261-SJ@NJ","2023-12-01","San Jose Sharks","New Jersey Devils",6,2,0,1,0,0,0,0,0,0
+"354",354,"45262-BOS@TOR","2023-12-02","Boston Bruins","Toronto Maple Leafs",3,3,0,0,0,0,1,0,0,0
+"355",355,"45262-BUF@CAR","2023-12-02","Buffalo Sabres","Carolina Hurricanes",2,3,0,2,0,1,0,0,0,0
+"356",356,"45262-CHI@WPG","2023-12-02","Chicago Blackhawks","Winnipeg Jets",1,2,0,1,0,0,0,0,0,0
+"357",357,"45262-COL@ANA","2023-12-02","Colorado Avalanche","Anaheim Ducks",3,1,0,2,0,0,0,0,0,1
+"358",358,"45262-DET@MTL","2023-12-02","Detroit Red Wings","Montreal Canadiens",2,2,1,1,1,1,1,0,0,0
+"359",359,"45262-NYI@FLA","2023-12-02","New York Islanders","Florida Panthers",3,3,0,0,1,0,0,0,0,0
+"360",360,"45262-NYR@NSH","2023-12-02","New York Rangers","Nashville Predators",3,1,0,1,1,1,0,0,0,0
+"361",361,"45262-PHI@PIT","2023-12-02","Philadelphia Flyers","Pittsburgh Penguins",1,3,1,0,1,0,0,0,1,0
+"362",362,"45262-SEA@OTT","2023-12-02","Seattle Kraken","Ottawa Senators",0,2,0,0,0,0,0,0,0,0
+"363",363,"45262-STL@ARI","2023-12-02","St. Louis Blues","Arizona Coyotes",1,3,0,1,0,0,0,0,0,0
+"364",364,"45262-TB@DAL","2023-12-02","Tampa Bay Lightning","Dallas Stars",0,6,0,2,1,0,0,0,0,0
+"365",365,"45262-VAN@CGY","2023-12-02","Vancouver Canucks","Calgary Flames",4,1,0,2,0,0,0,0,0,0
+"366",366,"45262-WSH@VGS","2023-12-02","Washington Capitals","Vegas Golden Knights",1,3,0,1,0,0,0,0,0,0
+"367",367,"45263-CBJ@BOS","2023-12-03","Columbus Blue Jackets","Boston Bruins",1,1,0,2,0,0,0,0,0,0
+"368",368,"45263-CHI@MIN","2023-12-03","Chicago Blackhawks","Minnesota Wild",0,2,0,2,1,0,0,0,0,0
+"369",369,"45263-COL@LA","2023-12-03","Colorado Avalanche","Los Angeles Kings",1,4,0,0,0,0,0,0,0,0
+"370",370,"45263-NSH@BUF","2023-12-03","Nashville Predators","Buffalo Sabres",2,1,0,0,0,0,0,0,0,0
+"371",371,"45263-SJ@NYR","2023-12-03","San Jose Sharks","New York Rangers",4,5,0,1,1,0,0,0,0,0
+"372",372,"45264-CAR@WPG","2023-12-04","Carolina Hurricanes","Winnipeg Jets",1,2,0,0,0,0,0,0,0,0
+"373",373,"45264-DAL@TB","2023-12-04","Dallas Stars","Tampa Bay Lightning",0,3,0,1,0,0,0,0,0,0
+"374",374,"45264-PIT@PHI","2023-12-04","Pittsburgh Penguins","Philadelphia Flyers",1,1,0,0,0,0,0,1,0,0
+"375",375,"45264-SEA@MTL","2023-12-04","Seattle Kraken","Montreal Canadiens",1,3,0,1,1,0,0,0,0,0
+"376",376,"45264-STL@VGS","2023-12-04","St. Louis Blues","Vegas Golden Knights",1,0,0,1,0,0,1,0,0,0
+"377",377,"45264-WSH@ARI","2023-12-04","Washington Capitals","Arizona Coyotes",0,3,0,2,0,1,0,0,0,0
+"378",378,"45265-ANA@COL","2023-12-05","Anaheim Ducks","Colorado Avalanche",0,3,1,0,1,0,0,0,0,0
+"379",379,"45265-DET@BUF","2023-12-05","Detroit Red Wings","Buffalo Sabres",3,1,1,2,1,0,0,0,0,0
+"380",380,"45265-LA@CBJ","2023-12-05","Los Angeles Kings","Columbus Blue Jackets",3,2,0,1,0,0,1,0,0,0
+"381",381,"45265-MIN@CGY","2023-12-05","Minnesota Wild","Calgary Flames",4,2,0,0,1,0,0,0,0,0
+"382",382,"45265-NJ@VAN","2023-12-05","New Jersey Devils","Vancouver Canucks",5,4,0,1,1,0,0,0,0,0
+"383",383,"45265-NSH@CHI","2023-12-05","Nashville Predators","Chicago Blackhawks",2,3,0,0,1,0,0,0,1,0
+"384",384,"45265-NYR@OTT","2023-12-05","New York Rangers","Ottawa Senators",1,6,0,0,1,0,0,0,0,0
+"385",385,"45265-SJ@NYI","2023-12-05","San Jose Sharks","New York Islanders",4,1,0,2,0,1,1,0,0,0
+"386",386,"45266-CAR@EDM","2023-12-06","Carolina Hurricanes","Edmonton Oilers",1,6,0,0,0,0,0,0,0,0
+"387",387,"45266-DAL@FLA","2023-12-06","Dallas Stars","Florida Panthers",2,4,0,1,2,0,0,0,0,0
+"388",388,"45266-PIT@TB","2023-12-06","Pittsburgh Penguins","Tampa Bay Lightning",1,1,0,2,0,0,0,0,0,0
+"389",389,"45266-VGS@STL","2023-12-06","Vegas Golden Knights","St. Louis Blues",4,3,0,0,2,0,0,0,0,0
+"390",390,"45267-ANA@CHI","2023-12-07","Anaheim Ducks","Chicago Blackhawks",0,0,0,1,0,0,0,0,0,0
+"391",391,"45267-BUF@BOS","2023-12-07","Buffalo Sabres","Boston Bruins",3,1,0,0,0,0,0,0,0,0
+"392",392,"45267-CAR@CGY","2023-12-07","Carolina Hurricanes","Calgary Flames",2,2,0,0,0,1,0,0,0,0
+"393",393,"45267-CBJ@NYI","2023-12-07","Columbus Blue Jackets","New York Islanders",3,6,0,1,0,0,0,0,0,0
+"394",394,"45267-DAL@WSH","2023-12-07","Dallas Stars","Washington Capitals",3,3,0,1,1,0,0,0,1,0
+"395",395,"45267-LA@MTL","2023-12-07","Los Angeles Kings","Montreal Canadiens",3,0,0,0,1,0,0,0,0,0
+"396",396,"45267-MIN@VAN","2023-12-07","Minnesota Wild","Vancouver Canucks",0,2,0,0,0,0,0,0,0,0
+"397",397,"45267-NJ@SEA","2023-12-07","New Jersey Devils","Seattle Kraken",2,1,0,0,0,0,0,0,0,0
+"398",398,"45267-PHI@ARI","2023-12-07","Philadelphia Flyers","Arizona Coyotes",3,1,1,0,0,0,0,0,0,0
+"399",399,"45267-SJ@DET","2023-12-07","San Jose Sharks","Detroit Red Wings",3,5,2,0,0,0,1,0,0,0
+"400",400,"45267-TB@NSH","2023-12-07","Tampa Bay Lightning","Nashville Predators",1,3,0,2,0,0,0,0,0,0
+"401",401,"45267-TOR@OTT","2023-12-07","Toronto Maple Leafs","Ottawa Senators",4,3,0,0,0,0,0,0,0,0
+"402",402,"45267-WPG@COL","2023-12-07","Winnipeg Jets","Colorado Avalanche",4,2,0,0,0,0,0,0,0,0
+"403",403,"45268-MIN@EDM","2023-12-08","Minnesota Wild","Edmonton Oilers",3,2,0,2,0,0,0,0,0,0
+"404",404,"45268-PIT@FLA","2023-12-08","Pittsburgh Penguins","Florida Panthers",1,3,0,0,0,0,0,0,0,0
+"405",405,"45268-STL@CBJ","2023-12-08","St. Louis Blues","Columbus Blue Jackets",2,4,0,1,0,0,0,0,0,0
+"406",406,"45269-ARI@BOS","2023-12-09","Arizona Coyotes","Boston Bruins",3,4,0,1,0,0,0,0,0,0
+"407",407,"45269-CAR@VAN","2023-12-09","Carolina Hurricanes","Vancouver Canucks",2,4,0,0,1,0,0,0,0,0
+"408",408,"45269-LA@NYI","2023-12-09","Los Angeles Kings","New York Islanders",1,2,0,0,1,0,0,1,0,0
+"409",409,"45269-MTL@BUF","2023-12-09","Montreal Canadiens","Buffalo Sabres",1,2,0,0,1,0,0,0,1,0
+"410",410,"45269-NJ@CGY","2023-12-09","New Jersey Devils","Calgary Flames",4,1,0,0,0,1,0,0,0,0
+"411",411,"45269-NSH@TOR","2023-12-09","Nashville Predators","Toronto Maple Leafs",0,2,0,1,0,1,0,0,0,0
+"412",412,"45269-NYR@WSH","2023-12-09","New York Rangers","Washington Capitals",0,4,0,0,0,0,0,0,0,0
+"413",413,"45269-OTT@DET","2023-12-09","Ottawa Senators","Detroit Red Wings",3,0,0,1,2,0,0,0,0,0
+"414",414,"45269-PHI@COL","2023-12-09","Philadelphia Flyers","Colorado Avalanche",5,2,0,0,0,0,0,0,0,0
+"415",415,"45269-STL@CHI","2023-12-09","St. Louis Blues","Chicago Blackhawks",0,3,1,0,0,0,0,0,0,0
+"416",416,"45269-TB@SEA","2023-12-09","Tampa Bay Lightning","Seattle Kraken",3,2,0,1,0,0,1,0,0,0
+"417",417,"45269-VGS@DAL","2023-12-09","Vegas Golden Knights","Dallas Stars",6,1,0,0,0,0,0,0,0,0
+"418",418,"45270-FLA@CBJ","2023-12-10","Florida Panthers","Columbus Blue Jackets",4,2,0,0,1,0,0,0,0,0
+"419",419,"45270-LA@NYR","2023-12-10","Los Angeles Kings","New York Rangers",0,2,0,2,1,0,0,0,0,0
+"420",420,"45270-MIN@SEA","2023-12-10","Minnesota Wild","Seattle Kraken",3,0,0,0,0,0,0,0,0,0
+"421",421,"45270-NJ@EDM","2023-12-10","New Jersey Devils","Edmonton Oilers",1,3,0,1,0,0,0,0,0,0
+"422",422,"45270-NSH@MTL","2023-12-10","Nashville Predators","Montreal Canadiens",1,1,0,0,1,0,0,0,0,0
+"423",423,"45270-SJ@VGS","2023-12-10","San Jose Sharks","Vegas Golden Knights",3,3,0,1,1,0,0,0,0,1
+"424",424,"45270-WPG@ANA","2023-12-10","Winnipeg Jets","Anaheim Ducks",4,1,0,1,0,0,0,0,0,0
+"425",425,"45270-WSH@CHI","2023-12-10","Washington Capitals","Chicago Blackhawks",4,2,0,0,0,0,0,0,0,0
+"426",426,"45271-ARI@BUF","2023-12-11","Arizona Coyotes","Buffalo Sabres",1,5,1,0,0,0,0,0,0,0
+"427",427,"45271-CGY@COL","2023-12-11","Calgary Flames","Colorado Avalanche",5,5,0,1,0,0,0,0,0,0
+"428",428,"45271-DET@DAL","2023-12-11","Detroit Red Wings","Dallas Stars",2,4,0,2,1,0,0,0,0,0
+"429",429,"45271-TOR@NYI","2023-12-11","Toronto Maple Leafs","New York Islanders",2,3,0,0,1,0,0,1,0,0
+"430",430,"45272-ARI@PIT","2023-12-12","Arizona Coyotes","Pittsburgh Penguins",0,1,0,2,2,1,0,0,0,0
+"431",431,"45272-CAR@OTT","2023-12-12","Carolina Hurricanes","Ottawa Senators",2,1,0,0,2,0,0,0,0,0
+"432",432,"45272-CGY@VGS","2023-12-12","Calgary Flames","Vegas Golden Knights",4,2,0,2,0,0,0,1,0,0
+"433",433,"45272-CHI@EDM","2023-12-12","Chicago Blackhawks","Edmonton Oilers",1,3,0,1,0,0,0,0,0,0
+"434",434,"45272-DET@STL","2023-12-12","Detroit Red Wings","St. Louis Blues",4,3,1,0,1,1,0,0,0,0
+"435",435,"45272-FLA@SEA","2023-12-12","Florida Panthers","Seattle Kraken",0,4,0,0,0,0,0,0,0,0
+"436",436,"45272-PHI@NSH","2023-12-12","Philadelphia Flyers","Nashville Predators",2,2,0,0,0,0,0,1,0,0
+"437",437,"45272-TB@VAN","2023-12-12","Tampa Bay Lightning","Vancouver Canucks",1,3,0,1,0,0,0,0,0,0
+"438",438,"45272-TOR@NYR","2023-12-12","Toronto Maple Leafs","New York Rangers",6,2,0,1,1,0,0,0,0,0
+"439",439,"45272-WPG@SJ","2023-12-12","Winnipeg Jets","San Jose Sharks",1,1,0,1,0,0,0,0,0,0
+"440",440,"45273-ANA@NYI","2023-12-13","Anaheim Ducks","New York Islanders",2,2,0,1,1,1,0,0,0,0
+"441",441,"45273-BOS@NJ","2023-12-13","Boston Bruins","New Jersey Devils",1,1,0,0,0,0,0,1,0,0
+"442",442,"45273-BUF@COL","2023-12-13","Buffalo Sabres","Colorado Avalanche",1,4,0,1,0,0,0,0,0,0
+"443",443,"45273-PIT@MTL","2023-12-13","Pittsburgh Penguins","Montreal Canadiens",1,2,0,1,2,0,0,0,1,0
+"444",444,"45273-WPG@LA","2023-12-13","Winnipeg Jets","Los Angeles Kings",5,1,0,1,0,0,0,0,0,0
+"445",445,"45274-CAR@DET","2023-12-14","Carolina Hurricanes","Detroit Red Wings",2,1,0,0,0,0,0,0,0,0
+"446",446,"45274-CBJ@TOR","2023-12-14","Columbus Blue Jackets","Toronto Maple Leafs",4,4,0,1,1,0,1,0,0,0
+"447",447,"45274-CGY@MIN","2023-12-14","Calgary Flames","Minnesota Wild",0,2,1,0,1,0,0,0,0,1
+"448",448,"45274-CHI@SEA","2023-12-14","Chicago Blackhawks","Seattle Kraken",1,6,0,1,0,0,0,0,0,0
+"449",449,"45274-FLA@VAN","2023-12-14","Florida Panthers","Vancouver Canucks",0,3,0,1,0,0,0,0,0,0
+"450",450,"45274-OTT@STL","2023-12-14","Ottawa Senators","St. Louis Blues",2,4,0,0,0,0,0,0,0,0
+"451",451,"45274-TB@EDM","2023-12-14","Tampa Bay Lightning","Edmonton Oilers",6,1,0,2,1,1,0,0,0,0
+"452",452,"45274-WSH@PHI","2023-12-14","Washington Capitals","Philadelphia Flyers",2,3,0,0,1,0,0,0,0,1
+"453",453,"45275-ANA@NYR","2023-12-15","Anaheim Ducks","New York Rangers",1,3,0,2,0,0,0,0,0,0
+"454",454,"45275-BOS@NYI","2023-12-15","Boston Bruins","New York Islanders",1,2,0,2,3,0,0,0,1,0
+"455",455,"45275-BUF@VGS","2023-12-15","Buffalo Sabres","Vegas Golden Knights",5,1,0,1,0,0,0,0,0,0
+"456",456,"45275-NSH@CAR","2023-12-15","Nashville Predators","Carolina Hurricanes",4,3,0,2,1,0,1,0,0,0
+"457",457,"45275-OTT@DAL","2023-12-15","Ottawa Senators","Dallas Stars",4,3,0,1,0,1,0,0,0,0
+"458",458,"45275-SJ@ARI","2023-12-15","San Jose Sharks","Arizona Coyotes",0,1,0,0,0,0,0,0,0,0
+"459",459,"45276-BUF@ARI","2023-12-16","Buffalo Sabres","Arizona Coyotes",0,2,0,0,0,0,0,0,0,0
+"460",460,"45276-COL@WPG","2023-12-16","Colorado Avalanche","Winnipeg Jets",1,5,0,1,1,0,0,0,0,0
+"461",461,"45276-DAL@STL","2023-12-16","Dallas Stars","St. Louis Blues",3,2,0,1,0,0,0,1,0,0
+"462",462,"45276-DET@PHI","2023-12-16","Detroit Red Wings","Philadelphia Flyers",0,1,0,0,0,0,0,0,0,0
+"463",463,"45276-FLA@EDM","2023-12-16","Florida Panthers","Edmonton Oilers",4,1,0,0,1,0,0,0,0,0
+"464",464,"45276-LA@SEA","2023-12-16","Los Angeles Kings","Seattle Kraken",1,1,0,1,1,0,0,0,1,0
+"465",465,"45276-NJ@CBJ","2023-12-16","New Jersey Devils","Columbus Blue Jackets",5,2,0,1,1,0,0,0,0,0
+"466",466,"45276-NYI@MTL","2023-12-16","New York Islanders","Montreal Canadiens",2,5,1,0,0,0,0,0,0,0
+"467",467,"45276-NYR@BOS","2023-12-16","New York Rangers","Boston Bruins",0,1,0,0,1,0,1,0,0,0
+"468",468,"45276-PIT@TOR","2023-12-16","Pittsburgh Penguins","Toronto Maple Leafs",0,5,0,2,0,0,0,0,0,0
+"469",469,"45276-TB@CGY","2023-12-16","Tampa Bay Lightning","Calgary Flames",1,4,0,0,1,0,0,0,0,0
+"470",470,"45276-VAN@MIN","2023-12-16","Vancouver Canucks","Minnesota Wild",1,1,0,0,0,0,0,0,0,1
+"471",471,"45276-WSH@NSH","2023-12-16","Washington Capitals","Nashville Predators",0,2,0,1,1,0,0,0,0,0
+"472",472,"45277-ANA@NJ","2023-12-17","Anaheim Ducks","New Jersey Devils",3,1,1,0,1,0,0,0,0,0
+"473",473,"45277-OTT@VGS","2023-12-17","Ottawa Senators","Vegas Golden Knights",1,3,0,2,2,1,0,0,0,0
+"474",474,"45277-SJ@COL","2023-12-17","San Jose Sharks","Colorado Avalanche",0,4,0,2,2,0,0,0,0,0
+"475",475,"45277-VAN@CHI","2023-12-17","Vancouver Canucks","Chicago Blackhawks",3,1,0,2,1,0,0,0,0,0
+"476",476,"45277-WSH@CAR","2023-12-17","Washington Capitals","Carolina Hurricanes",1,1,0,0,0,0,0,0,1,0
+"477",477,"45278-ANA@DET","2023-12-18","Anaheim Ducks","Detroit Red Wings",3,1,0,2,1,0,0,0,0,0
+"478",478,"45278-FLA@CGY","2023-12-18","Florida Panthers","Calgary Flames",0,1,0,0,1,2,0,0,0,0
+"479",479,"45278-MIN@PIT","2023-12-18","Minnesota Wild","Pittsburgh Penguins",3,2,0,2,0,0,0,0,0,0
+"480",480,"45278-MTL@WPG","2023-12-18","Montreal Canadiens","Winnipeg Jets",1,2,0,0,1,0,1,0,0,0
+"481",481,"45278-SEA@DAL","2023-12-18","Seattle Kraken","Dallas Stars",3,3,0,0,0,0,0,1,0,0
+"482",482,"45279-CBJ@BUF","2023-12-19","Columbus Blue Jackets","Buffalo Sabres",8,3,0,1,1,0,0,0,0,0
+"483",483,"45279-COL@CHI","2023-12-19","Colorado Avalanche","Chicago Blackhawks",0,2,0,1,2,0,0,0,0,0
+"484",484,"45279-EDM@NYI","2023-12-19","Edmonton Oilers","New York Islanders",1,0,0,2,0,1,0,0,0,0
+"485",485,"45279-LA@SJ","2023-12-19","Los Angeles Kings","San Jose Sharks",2,0,1,1,1,0,0,0,0,0
+"486",486,"45279-MIN@BOS","2023-12-19","Minnesota Wild","Boston Bruins",2,2,0,1,1,0,1,0,0,0
+"487",487,"45279-NYR@TOR","2023-12-19","New York Rangers","Toronto Maple Leafs",3,2,0,0,2,0,0,0,0,0
+"488",488,"45279-OTT@ARI","2023-12-19","Ottawa Senators","Arizona Coyotes",2,4,0,0,1,0,0,0,0,0
+"489",489,"45279-PHI@NJ","2023-12-19","Philadelphia Flyers","New Jersey Devils",2,1,0,1,0,0,1,0,0,0
+"490",490,"45279-STL@TB","2023-12-19","St. Louis Blues","Tampa Bay Lightning",0,5,0,1,1,0,0,0,0,0
+"491",491,"45279-VAN@NSH","2023-12-19","Vancouver Canucks","Nashville Predators",5,2,0,0,0,0,0,0,0,0
+"492",492,"45279-VGS@CAR","2023-12-19","Vegas Golden Knights","Carolina Hurricanes",3,3,0,3,0,0,0,0,0,0
+"493",493,"45280-DET@WPG","2023-12-20","Detroit Red Wings","Winnipeg Jets",2,5,0,0,0,0,0,0,0,0
+"494",494,"45280-NYI@WSH","2023-12-20","New York Islanders","Washington Capitals",2,2,0,0,0,0,0,1,0,0
+"495",495,"45280-SEA@LA","2023-12-20","Seattle Kraken","Los Angeles Kings",2,0,0,0,0,1,0,0,0,0
+"496",496,"45281-ARI@SJ","2023-12-21","Arizona Coyotes","San Jose Sharks",4,2,0,0,1,0,0,0,0,0
+"497",497,"45281-CAR@PIT","2023-12-21","Carolina Hurricanes","Pittsburgh Penguins",1,1,0,0,0,0,0,0,0,1
+"498",498,"45281-CGY@ANA","2023-12-21","Calgary Flames","Anaheim Ducks",2,0,0,0,1,0,0,0,0,0
+"499",499,"45281-EDM@NJ","2023-12-21","Edmonton Oilers","New Jersey Devils",6,3,0,0,0,0,0,0,0,0
+"500",500,"45281-MTL@MIN","2023-12-21","Montreal Canadiens","Minnesota Wild",2,1,0,2,1,0,0,1,0,0
+"501",501,"45281-NSH@PHI","2023-12-21","Nashville Predators","Philadelphia Flyers",3,1,1,1,0,0,0,0,0,0
+"502",502,"45281-OTT@COL","2023-12-21","Ottawa Senators","Colorado Avalanche",3,2,0,4,1,0,0,0,0,0
+"503",503,"45281-STL@FLA","2023-12-21","St. Louis Blues","Florida Panthers",4,1,0,0,0,0,0,0,0,0
+"504",504,"45281-TOR@BUF","2023-12-21","Toronto Maple Leafs","Buffalo Sabres",1,7,1,1,1,1,0,0,0,0
+"505",505,"45281-VAN@DAL","2023-12-21","Vancouver Canucks","Dallas Stars",3,3,0,0,0,0,0,1,0,0
+"506",506,"45281-VGS@TB","2023-12-21","Vegas Golden Knights","Tampa Bay Lightning",3,3,0,2,1,0,0,0,0,0
+"507",507,"45281-WSH@CBJ","2023-12-21","Washington Capitals","Columbus Blue Jackets",1,2,0,0,1,0,1,0,0,0
+"508",508,"45282-BOS@WPG","2023-12-22","Boston Bruins","Winnipeg Jets",1,3,0,2,0,0,0,0,0,0
+"509",509,"45282-EDM@NYR","2023-12-22","Edmonton Oilers","New York Rangers",4,2,0,1,0,0,0,0,0,0
+"510",510,"45282-MTL@CHI","2023-12-22","Montreal Canadiens","Chicago Blackhawks",5,2,0,0,0,0,0,0,0,0
+"511",511,"45282-PHI@DET","2023-12-22","Philadelphia Flyers","Detroit Red Wings",6,5,0,1,0,0,0,0,0,1
+"512",512,"45283-ARI@COL","2023-12-23","Arizona Coyotes","Colorado Avalanche",0,4,0,0,1,0,0,0,0,0
+"513",513,"45283-BOS@MIN","2023-12-23","Boston Bruins","Minnesota Wild",1,2,0,1,1,0,0,0,0,0
+"514",514,"45283-BUF@NYR","2023-12-23","Buffalo Sabres","New York Rangers",3,2,0,1,0,0,0,1,0,0
+"515",515,"45283-CGY@LA","2023-12-23","Calgary Flames","Los Angeles Kings",1,5,1,0,1,0,0,0,0,0
+"516",516,"45283-CHI@STL","2023-12-23","Chicago Blackhawks","St. Louis Blues",3,5,1,2,1,0,0,0,0,0
+"517",517,"45283-DAL@NSH","2023-12-23","Dallas Stars","Nashville Predators",3,1,0,1,0,0,0,0,0,0
+"518",518,"45283-DET@NJ","2023-12-23","Detroit Red Wings","New Jersey Devils",2,3,0,0,0,0,0,0,0,0
+"519",519,"45283-NYI@CAR","2023-12-23","New York Islanders","Carolina Hurricanes",5,2,0,2,0,0,0,0,0,0
+"520",520,"45283-PIT@OTT","2023-12-23","Pittsburgh Penguins","Ottawa Senators",3,4,0,0,1,0,0,1,0,0
+"521",521,"45283-SEA@ANA","2023-12-23","Seattle Kraken","Anaheim Ducks",2,1,0,1,1,0,0,0,0,0
+"522",522,"45283-SJ@VAN","2023-12-23","San Jose Sharks","Vancouver Canucks",4,6,0,1,0,0,0,0,0,0
+"523",523,"45283-TB@WSH","2023-12-23","Tampa Bay Lightning","Washington Capitals",1,1,0,0,0,0,0,0,1,0
+"524",524,"45283-TOR@CBJ","2023-12-23","Toronto Maple Leafs","Columbus Blue Jackets",2,1,1,0,1,0,0,0,0,0
+"525",525,"45283-VGS@FLA","2023-12-23","Vegas Golden Knights","Florida Panthers",2,2,0,2,0,0,0,0,0,0
+"526",526,"45287-BOS@BUF","2023-12-27","Boston Bruins","Buffalo Sabres",1,1,0,0,3,0,0,0,0,0
+"527",527,"45287-CAR@NSH","2023-12-27","Carolina Hurricanes","Nashville Predators",2,1,0,1,3,0,0,0,0,0
+"528",528,"45287-CBJ@NJ","2023-12-27","Columbus Blue Jackets","New Jersey Devils",3,3,0,0,0,0,0,1,0,0
+"529",529,"45287-COL@ARI","2023-12-27","Colorado Avalanche","Arizona Coyotes",2,4,0,0,2,0,0,1,0,0
+"530",530,"45287-DAL@STL","2023-12-27","Dallas Stars","St. Louis Blues",1,2,0,0,0,0,0,0,0,0
+"531",531,"45287-DET@MIN","2023-12-27","Detroit Red Wings","Minnesota Wild",2,6,0,0,1,0,0,0,0,0
+"532",532,"45287-FLA@TB","2023-12-27","Florida Panthers","Tampa Bay Lightning",2,2,1,0,0,0,0,0,0,0
+"533",533,"45287-OTT@TOR","2023-12-27","Ottawa Senators","Toronto Maple Leafs",3,2,1,0,0,0,0,0,0,0
+"534",534,"45287-PIT@NYI","2023-12-27","Pittsburgh Penguins","New York Islanders",7,0,0,0,0,0,0,0,0,0
+"535",535,"45287-SEA@CGY","2023-12-27","Seattle Kraken","Calgary Flames",2,0,0,1,0,0,0,0,0,0
+"536",536,"45287-SJ@LA","2023-12-27","San Jose Sharks","Los Angeles Kings",1,5,0,0,0,0,0,0,0,0
+"537",537,"45287-VGS@ANA","2023-12-27","Vegas Golden Knights","Anaheim Ducks",1,5,0,0,1,0,0,0,0,0
+"538",538,"45287-WPG@CHI","2023-12-27","Winnipeg Jets","Chicago Blackhawks",1,1,0,0,0,0,0,1,0,0
+"539",539,"45287-WSH@NYR","2023-12-27","Washington Capitals","New York Rangers",1,4,0,1,0,0,0,0,0,0
+"540",540,"45288-EDM@SJ","2023-12-28","Edmonton Oilers","San Jose Sharks",5,0,0,0,0,0,0,0,0,0
+"541",541,"45288-LA@VGS","2023-12-28","Los Angeles Kings","Vegas Golden Knights",2,3,0,0,0,0,0,0,0,0
+"542",542,"45288-MTL@CAR","2023-12-28","Montreal Canadiens","Carolina Hurricanes",2,4,0,1,1,0,0,0,0,0
+"543",543,"45288-PHI@VAN","2023-12-28","Philadelphia Flyers","Vancouver Canucks",2,1,1,0,1,0,0,0,0,0
+"544",544,"45289-ARI@ANA","2023-12-29","Arizona Coyotes","Anaheim Ducks",1,0,0,0,1,0,0,0,0,0
+"545",545,"45289-CHI@DAL","2023-12-29","Chicago Blackhawks","Dallas Stars",3,3,0,1,1,0,0,1,0,0
+"546",546,"45289-COL@STL","2023-12-29","Colorado Avalanche","St. Louis Blues",2,0,0,0,0,1,0,0,0,0
+"547",547,"45289-NJ@OTT","2023-12-29","New Jersey Devils","Ottawa Senators",4,2,0,0,2,0,0,0,0,0
+"548",548,"45289-NSH@DET","2023-12-29","Nashville Predators","Detroit Red Wings",3,3,1,0,0,1,0,1,0,0
+"549",549,"45289-NYR@FLA","2023-12-29","New York Rangers","Florida Panthers",2,3,1,1,0,0,0,0,0,0
+"550",550,"45289-PHI@SEA","2023-12-29","Philadelphia Flyers","Seattle Kraken",0,0,1,1,0,0,0,1,0,0
+"551",551,"45289-TOR@CBJ","2023-12-29","Toronto Maple Leafs","Columbus Blue Jackets",3,4,0,1,2,0,0,1,0,0
+"552",552,"45289-WSH@NYI","2023-12-29","Washington Capitals","New York Islanders",1,5,0,0,0,0,0,0,0,0
+"553",553,"45290-CAR@TOR","2023-12-30","Carolina Hurricanes","Toronto Maple Leafs",1,2,0,0,2,0,0,0,0,0
+"554",554,"45290-CBJ@BUF","2023-12-30","Columbus Blue Jackets","Buffalo Sabres",2,2,0,0,0,0,0,1,0,0
+"555",555,"45290-EDM@LA","2023-12-30","Edmonton Oilers","Los Angeles Kings",1,1,0,1,1,0,0,0,1,0
+"556",556,"45290-MIN@WPG","2023-12-30","Minnesota Wild","Winnipeg Jets",1,4,0,0,1,0,0,0,0,0
+"557",557,"45290-MTL@FLA","2023-12-30","Montreal Canadiens","Florida Panthers",0,2,0,2,1,0,0,0,0,0
+"558",558,"45290-NJ@BOS","2023-12-30","New Jersey Devils","Boston Bruins",1,3,0,2,1,0,0,0,0,0
+"559",559,"45290-NSH@WSH","2023-12-30","Nashville Predators","Washington Capitals",1,2,0,0,1,0,0,0,1,0
+"560",560,"45290-NYR@TB","2023-12-30","New York Rangers","Tampa Bay Lightning",4,0,0,1,1,0,0,0,0,0
+"561",561,"45290-STL@PIT","2023-12-30","St. Louis Blues","Pittsburgh Penguins",1,3,0,1,1,0,0,0,0,0
+"562",562,"45291-BOS@DET","2023-12-31","Boston Bruins","Detroit Red Wings",5,2,0,1,0,0,0,0,0,0
+"563",563,"45291-BUF@OTT","2023-12-31","Buffalo Sabres","Ottawa Senators",1,4,0,1,0,0,0,0,0,0
+"564",564,"45291-CHI@DAL","2023-12-31","Chicago Blackhawks","Dallas Stars",0,7,0,1,1,0,0,0,0,0
+"565",565,"45291-EDM@ANA","2023-12-31","Edmonton Oilers","Anaheim Ducks",7,2,0,0,0,0,0,0,0,0
+"566",566,"45291-MTL@TB","2023-12-31","Montreal Canadiens","Tampa Bay Lightning",3,4,0,0,0,0,0,0,0,0
+"567",567,"45291-NYI@PIT","2023-12-31","New York Islanders","Pittsburgh Penguins",1,3,0,0,0,0,0,0,0,0
+"568",568,"45291-PHI@CGY","2023-12-31","Philadelphia Flyers","Calgary Flames",3,4,0,0,0,0,0,0,0,0
+"569",569,"45291-SJ@COL","2023-12-31","San Jose Sharks","Colorado Avalanche",0,1,0,1,1,1,0,0,0,0
+"570",570,"45291-WPG@MIN","2023-12-31","Winnipeg Jets","Minnesota Wild",2,1,0,1,1,0,0,0,0,0
+"571",571,"45292-VGS@SEA","2024-01-01","Vegas Golden Knights","Seattle Kraken",0,3,0,0,0,0,0,0,0,0
+"572",572,"45293-BOS@CBJ","2024-01-02","Boston Bruins","Columbus Blue Jackets",3,1,0,0,1,0,0,0,0,0
+"573",573,"45293-CAR@NYR","2024-01-02","Carolina Hurricanes","New York Rangers",4,1,0,0,2,0,0,0,0,0
+"574",574,"45293-CGY@MIN","2024-01-02","Calgary Flames","Minnesota Wild",3,1,0,0,0,0,0,0,0,0
+"575",575,"45293-CHI@NSH","2024-01-02","Chicago Blackhawks","Nashville Predators",0,1,0,2,0,0,0,0,0,0
+"576",576,"45293-DET@SJ","2024-01-02","Detroit Red Wings","San Jose Sharks",3,3,0,0,2,0,0,0,0,0
+"577",577,"45293-FLA@ARI","2024-01-02","Florida Panthers","Arizona Coyotes",3,0,0,0,1,1,0,0,0,0
+"578",578,"45293-MTL@DAL","2024-01-02","Montreal Canadiens","Dallas Stars",3,3,0,0,1,0,0,0,0,0
+"579",579,"45293-NYI@COL","2024-01-02","New York Islanders","Colorado Avalanche",3,3,0,1,1,0,0,1,0,0
+"580",580,"45293-OTT@VAN","2024-01-02","Ottawa Senators","Vancouver Canucks",3,5,0,1,0,0,0,0,0,0
+"581",581,"45293-PHI@EDM","2024-01-02","Philadelphia Flyers","Edmonton Oilers",2,4,0,1,0,0,0,0,0,0
+"582",582,"45293-TB@WPG","2024-01-02","Tampa Bay Lightning","Winnipeg Jets",0,4,0,0,2,0,0,0,0,0
+"583",583,"45293-TOR@LA","2024-01-02","Toronto Maple Leafs","Los Angeles Kings",3,0,0,0,0,0,0,0,0,0
+"584",584,"45293-WSH@PIT","2024-01-02","Washington Capitals","Pittsburgh Penguins",3,2,0,1,1,0,0,0,0,0
+"585",585,"45294-NJ@WSH","2024-01-03","New Jersey Devils","Washington Capitals",5,1,0,2,1,0,0,0,0,0
+"586",586,"45294-TOR@ANA","2024-01-03","Toronto Maple Leafs","Anaheim Ducks",0,0,0,0,1,1,1,0,0,0
+"587",587,"45295-BUF@MTL","2024-01-04","Buffalo Sabres","Montreal Canadiens",4,0,0,0,2,1,0,0,0,0
+"588",588,"45295-CBJ@PHI","2024-01-04","Columbus Blue Jackets","Philadelphia Flyers",2,2,0,0,0,0,0,0,1,0
+"589",589,"45295-CGY@NSH","2024-01-04","Calgary Flames","Nashville Predators",5,3,0,0,1,0,0,0,0,0
+"590",590,"45295-CHI@NYR","2024-01-04","Chicago Blackhawks","New York Rangers",1,3,0,1,0,0,0,0,0,0
+"591",591,"45295-COL@DAL","2024-01-04","Colorado Avalanche","Dallas Stars",3,3,0,1,1,0,1,0,0,0
+"592",592,"45295-DET@LA","2024-01-04","Detroit Red Wings","Los Angeles Kings",3,3,0,0,0,0,0,0,1,0
+"593",593,"45295-FLA@VGS","2024-01-04","Florida Panthers","Vegas Golden Knights",1,1,0,0,3,0,0,0,0,0
+"594",594,"45295-NYI@ARI","2024-01-04","New York Islanders","Arizona Coyotes",4,0,0,1,1,0,0,0,0,0
+"595",595,"45295-OTT@SEA","2024-01-04","Ottawa Senators","Seattle Kraken",1,4,0,0,0,0,0,0,0,0
+"596",596,"45295-PIT@BOS","2024-01-04","Pittsburgh Penguins","Boston Bruins",5,4,0,0,1,1,0,0,0,0
+"597",597,"45295-TB@MIN","2024-01-04","Tampa Bay Lightning","Minnesota Wild",3,1,0,0,1,0,0,0,0,0
+"598",598,"45295-VAN@STL","2024-01-04","Vancouver Canucks","St. Louis Blues",1,2,0,0,0,0,0,0,0,0
+"599",599,"45295-WPG@SJ","2024-01-04","Winnipeg Jets","San Jose Sharks",1,1,0,0,1,0,0,0,0,0
+"600",600,"45296-CAR@WSH","2024-01-05","Carolina Hurricanes","Washington Capitals",3,1,1,1,2,0,0,0,0,0
+"601",601,"45296-CHI@NJ","2024-01-05","Chicago Blackhawks","New Jersey Devils",0,4,1,0,1,0,0,0,0,0
+"602",602,"45296-WPG@ANA","2024-01-05","Winnipeg Jets","Anaheim Ducks",2,1,0,0,1,0,0,0,0,0
+"603",603,"45297-BUF@PIT","2024-01-06","Buffalo Sabres","Pittsburgh Penguins",3,0,0,1,0,0,0,0,0,0
+"604",604,"45297-CGY@PHI","2024-01-06","Calgary Flames","Philadelphia Flyers",2,1,0,1,0,1,0,0,0,0
+"605",605,"45297-FLA@COL","2024-01-06","Florida Panthers","Colorado Avalanche",6,3,0,1,1,0,0,0,0,0
+"606",606,"45297-MIN@CBJ","2024-01-06","Minnesota Wild","Columbus Blue Jackets",1,2,0,1,2,0,1,0,0,0
+"607",607,"45297-NSH@DAL","2024-01-06","Nashville Predators","Dallas Stars",4,2,0,1,0,0,0,0,0,0
+"608",608,"45297-NYI@VGS","2024-01-06","New York Islanders","Vegas Golden Knights",2,4,0,1,0,0,0,0,0,0
+"609",609,"45297-NYR@MTL","2024-01-06","New York Rangers","Montreal Canadiens",3,3,0,0,0,0,0,0,0,1
+"610",610,"45297-OTT@EDM","2024-01-06","Ottawa Senators","Edmonton Oilers",1,1,0,2,0,0,0,0,0,0
+"611",611,"45297-STL@CAR","2024-01-06","St. Louis Blues","Carolina Hurricanes",1,0,0,1,0,0,0,0,1,0
+"612",612,"45297-TB@BOS","2024-01-06","Tampa Bay Lightning","Boston Bruins",3,5,0,1,0,1,0,0,0,0
+"613",613,"45297-TOR@SJ","2024-01-06","Toronto Maple Leafs","San Jose Sharks",3,1,0,0,1,0,0,0,0,0
+"614",614,"45297-VAN@NJ","2024-01-06","Vancouver Canucks","New Jersey Devils",6,4,0,0,0,0,0,0,0,0
+"615",615,"45298-CGY@CHI","2024-01-07","Calgary Flames","Chicago Blackhawks",2,3,0,1,1,0,0,0,0,0
+"616",616,"45298-DET@ANA","2024-01-07","Detroit Red Wings","Anaheim Ducks",2,2,0,0,1,0,0,0,0,0
+"617",617,"45298-LA@WSH","2024-01-07","Los Angeles Kings","Washington Capitals",1,4,0,0,2,0,0,0,0,0
+"618",618,"45298-WPG@ARI","2024-01-07","Winnipeg Jets","Arizona Coyotes",6,2,0,0,0,0,0,0,0,0
+"619",619,"45299-BOS@COL","2024-01-08","Boston Bruins","Colorado Avalanche",2,2,0,1,1,0,0,0,0,1
+"620",620,"45299-DAL@MIN","2024-01-08","Dallas Stars","Minnesota Wild",1,0,2,0,1,0,0,0,0,0
+"621",621,"45299-PIT@PHI","2024-01-08","Pittsburgh Penguins","Philadelphia Flyers",3,0,0,1,1,0,0,0,0,0
+"622",622,"45299-VAN@NYR","2024-01-08","Vancouver Canucks","New York Rangers",6,2,0,1,0,0,0,0,0,0
+"623",623,"45300-ANA@NSH","2024-01-09","Anaheim Ducks","Nashville Predators",4,2,0,0,1,1,0,0,0,0
+"624",624,"45300-BOS@ARI","2024-01-09","Boston Bruins","Arizona Coyotes",1,2,0,1,2,0,0,1,0,0
+"625",625,"45300-CBJ@WPG","2024-01-09","Columbus Blue Jackets","Winnipeg Jets",0,4,0,1,0,0,0,0,0,0
+"626",626,"45300-EDM@CHI","2024-01-09","Edmonton Oilers","Chicago Blackhawks",2,1,0,0,0,0,0,0,0,0
+"627",627,"45300-FLA@STL","2024-01-09","Florida Panthers","St. Louis Blues",4,1,0,0,1,0,0,0,0,0
+"628",628,"45300-LA@TB","2024-01-09","Los Angeles Kings","Tampa Bay Lightning",2,2,0,0,0,0,0,1,0,0
+"629",629,"45300-OTT@CGY","2024-01-09","Ottawa Senators","Calgary Flames",2,6,0,0,1,0,0,0,0,0
+"630",630,"45300-SEA@BUF","2024-01-09","Seattle Kraken","Buffalo Sabres",4,2,0,0,1,0,0,0,0,0
+"631",631,"45300-SJ@TOR","2024-01-09","San Jose Sharks","Toronto Maple Leafs",0,4,0,3,1,0,0,0,0,0
+"632",632,"45300-VAN@NYI","2024-01-09","Vancouver Canucks","New York Islanders",5,1,0,1,0,0,0,0,0,0
+"633",633,"45301-MIN@DAL","2024-01-10","Minnesota Wild","Dallas Stars",1,7,0,0,1,0,0,0,0,0
+"634",634,"45301-MTL@PHI","2024-01-10","Montreal Canadiens","Philadelphia Flyers",2,1,0,1,0,0,0,0,0,1
+"635",635,"45301-VGS@COL","2024-01-10","Vegas Golden Knights","Colorado Avalanche",0,1,0,2,0,0,0,0,0,0
+"636",636,"45302-ANA@CAR","2024-01-11","Anaheim Ducks","Carolina Hurricanes",2,5,0,1,1,0,0,0,0,0
+"637",637,"45302-BOS@VGS","2024-01-11","Boston Bruins","Vegas Golden Knights",1,0,0,1,0,0,0,1,0,0
+"638",638,"45302-CGY@ARI","2024-01-11","Calgary Flames","Arizona Coyotes",4,2,1,0,1,0,0,0,0,0
+"639",639,"45302-CHI@WPG","2024-01-11","Chicago Blackhawks","Winnipeg Jets",1,2,0,0,0,0,0,0,0,0
+"640",640,"45302-EDM@DET","2024-01-11","Edmonton Oilers","Detroit Red Wings",2,2,0,0,0,0,1,0,0,0
+"641",641,"45302-LA@FLA","2024-01-11","Los Angeles Kings","Florida Panthers",1,2,0,0,1,0,0,1,0,0
+"642",642,"45302-NJ@TB","2024-01-11","New Jersey Devils","Tampa Bay Lightning",3,2,0,0,0,1,0,1,0,0
+"643",643,"45302-NYR@STL","2024-01-11","New York Rangers","St. Louis Blues",1,3,0,2,1,0,0,0,0,0
+"644",644,"45302-OTT@BUF","2024-01-11","Ottawa Senators","Buffalo Sabres",3,4,0,1,0,0,0,0,0,0
+"645",645,"45302-SEA@WSH","2024-01-11","Seattle Kraken","Washington Capitals",4,1,0,0,0,0,0,0,0,0
+"646",646,"45302-SJ@MTL","2024-01-11","San Jose Sharks","Montreal Canadiens",3,2,0,0,0,0,0,0,0,0
+"647",647,"45302-TOR@NYI","2024-01-11","Toronto Maple Leafs","New York Islanders",3,1,0,2,0,0,0,1,0,0
+"648",648,"45302-VAN@PIT","2024-01-11","Vancouver Canucks","Pittsburgh Penguins",2,3,0,0,1,0,1,0,0,0
+"649",649,"45303-NSH@DAL","2024-01-12","Nashville Predators","Dallas Stars",5,2,0,1,1,0,0,0,0,0
+"650",650,"45303-PHI@MIN","2024-01-12","Philadelphia Flyers","Minnesota Wild",3,3,0,0,0,0,1,0,0,0
+"651",651,"45304-ANA@TB","2024-01-13","Anaheim Ducks","Tampa Bay Lightning",0,2,0,3,1,0,0,0,0,0
+"652",652,"45304-ARI@MIN","2024-01-13","Arizona Coyotes","Minnesota Wild",4,0,0,0,2,0,0,0,0,0
+"653",653,"45304-BOS@STL","2024-01-13","Boston Bruins","St. Louis Blues",2,1,0,2,1,0,1,0,0,0
+"654",654,"45304-CGY@VGS","2024-01-13","Calgary Flames","Vegas Golden Knights",2,1,0,0,1,0,0,0,0,0
+"655",655,"45304-COL@TOR","2024-01-13","Colorado Avalanche","Toronto Maple Leafs",4,3,0,0,1,0,0,0,0,0
+"656",656,"45304-DAL@CHI","2024-01-13","Dallas Stars","Chicago Blackhawks",2,1,0,0,1,0,0,0,0,0
+"657",657,"45304-EDM@MTL","2024-01-13","Edmonton Oilers","Montreal Canadiens",1,0,0,1,0,0,1,0,0,0
+"658",658,"45304-LA@DET","2024-01-13","Los Angeles Kings","Detroit Red Wings",0,4,0,1,3,0,0,0,0,0
+"659",659,"45304-NJ@FLA","2024-01-13","New Jersey Devils","Florida Panthers",4,0,0,1,0,0,0,0,0,0
+"660",660,"45304-NYI@NSH","2024-01-13","New York Islanders","Nashville Predators",1,2,0,1,0,0,0,0,0,0
+"661",661,"45304-NYR@WSH","2024-01-13","New York Rangers","Washington Capitals",2,3,0,0,0,0,0,0,0,0
+"662",662,"45304-PHI@WPG","2024-01-13","Philadelphia Flyers","Winnipeg Jets",1,0,0,0,1,0,0,0,0,0
+"663",663,"45304-PIT@CAR","2024-01-13","Pittsburgh Penguins","Carolina Hurricanes",2,2,0,0,0,0,0,1,0,0
+"664",664,"45304-SEA@CBJ","2024-01-13","Seattle Kraken","Columbus Blue Jackets",6,3,0,1,1,0,0,0,0,0
+"665",665,"45304-SJ@OTT","2024-01-13","San Jose Sharks","Ottawa Senators",4,5,0,0,0,0,0,0,0,0
+"666",666,"45304-VAN@BUF","2024-01-13","Vancouver Canucks","Buffalo Sabres",1,0,0,0,0,0,0,0,0,0
+"667",667,"45305-DET@TOR","2024-01-14","Detroit Red Wings","Toronto Maple Leafs",4,2,0,0,0,0,0,0,0,0
+"668",668,"45305-WSH@NYR","2024-01-14","Washington Capitals","New York Rangers",1,2,0,0,0,0,0,0,0,0
+"669",669,"45306-ANA@FLA","2024-01-15","Anaheim Ducks","Florida Panthers",3,1,1,2,0,1,1,0,0,0
+"670",670,"45306-COL@MTL","2024-01-15","Colorado Avalanche","Montreal Canadiens",2,2,0,2,1,0,0,0,0,0
+"671",671,"45306-LA@CAR","2024-01-15","Los Angeles Kings","Carolina Hurricanes",4,2,1,0,0,0,0,0,0,0
+"672",672,"45306-NJ@BOS","2024-01-15","New Jersey Devils","Boston Bruins",0,2,0,1,0,0,0,0,0,0
+"673",673,"45306-NSH@VGS","2024-01-15","Nashville Predators","Vegas Golden Knights",1,4,0,0,0,0,0,0,0,0
+"674",674,"45306-NYI@MIN","2024-01-15","New York Islanders","Minnesota Wild",0,2,0,2,0,1,0,0,0,0
+"675",675,"45306-PHI@STL","2024-01-15","Philadelphia Flyers","St. Louis Blues",4,1,0,1,0,0,0,0,0,0
+"676",676,"45306-SEA@PIT","2024-01-15","Seattle Kraken","Pittsburgh Penguins",0,3,0,0,0,0,0,0,0,0
+"677",677,"45306-SJ@BUF","2024-01-15","San Jose Sharks","Buffalo Sabres",0,2,0,1,0,0,0,0,0,0
+"678",678,"45306-VAN@CBJ","2024-01-15","Vancouver Canucks","Columbus Blue Jackets",2,2,0,1,1,0,0,0,0,1
+"679",679,"45307-ANA@WSH","2024-01-16","Anaheim Ducks","Washington Capitals",0,2,0,0,0,0,0,0,0,0
+"680",680,"45307-ARI@CGY","2024-01-16","Arizona Coyotes","Calgary Flames",2,2,0,0,0,0,0,1,0,0
+"681",681,"45307-COL@OTT","2024-01-16","Colorado Avalanche","Ottawa Senators",6,3,0,1,1,0,0,0,0,0
+"682",682,"45307-LA@DAL","2024-01-16","Los Angeles Kings","Dallas Stars",0,4,0,0,1,1,0,0,0,0
+"683",683,"45307-NYI@WPG","2024-01-16","New York Islanders","Winnipeg Jets",2,3,0,1,0,0,0,0,0,0
+"684",684,"45307-SEA@NYR","2024-01-16","Seattle Kraken","New York Rangers",0,4,0,1,2,0,0,0,0,0
+"685",685,"45307-SJ@CHI","2024-01-16","San Jose Sharks","Chicago Blackhawks",1,0,0,1,0,0,0,0,0,1
+"686",686,"45307-TOR@EDM","2024-01-16","Toronto Maple Leafs","Edmonton Oilers",2,4,0,0,0,0,0,0,0,0
+"687",687,"45308-DET@FLA","2024-01-17","Detroit Red Wings","Florida Panthers",2,1,0,0,0,1,1,0,0,0
+"688",688,"45308-MTL@NJ","2024-01-17","Montreal Canadiens","New Jersey Devils",3,0,0,2,0,0,0,0,0,0
+"689",689,"45309-ARI@VAN","2024-01-18","Arizona Coyotes","Vancouver Canucks",1,1,0,1,0,0,0,0,0,0
+"690",690,"45309-CHI@BUF","2024-01-18","Chicago Blackhawks","Buffalo Sabres",0,2,0,1,0,0,0,0,0,0
+"691",691,"45309-COL@BOS","2024-01-18","Colorado Avalanche","Boston Bruins",2,4,0,1,0,0,0,0,0,0
+"692",692,"45309-DAL@PHI","2024-01-18","Dallas Stars","Philadelphia Flyers",1,4,0,1,0,0,0,0,0,0
+"693",693,"45309-MIN@TB","2024-01-18","Minnesota Wild","Tampa Bay Lightning",3,4,0,3,0,0,0,0,0,0
+"694",694,"45309-MTL@OTT","2024-01-18","Montreal Canadiens","Ottawa Senators",2,6,0,0,0,0,0,0,0,0
+"695",695,"45309-NSH@LA","2024-01-18","Nashville Predators","Los Angeles Kings",1,0,0,1,1,0,0,0,0,0
+"696",696,"45309-NYR@VGS","2024-01-18","New York Rangers","Vegas Golden Knights",0,3,0,1,1,1,0,0,0,0
+"697",697,"45309-SEA@EDM","2024-01-18","Seattle Kraken","Edmonton Oilers",2,2,0,2,0,0,0,0,0,0
+"698",698,"45309-STL@WSH","2024-01-18","St. Louis Blues","Washington Capitals",2,3,0,2,0,0,0,0,0,0
+"699",699,"45309-TOR@CGY","2024-01-18","Toronto Maple Leafs","Calgary Flames",3,2,0,1,1,0,0,0,0,0
+"700",700,"45310-DET@CAR","2024-01-19","Detroit Red Wings","Carolina Hurricanes",1,3,0,1,1,0,0,0,0,0
+"701",701,"45310-MIN@FLA","2024-01-19","Minnesota Wild","Florida Panthers",1,4,0,0,5,0,0,0,0,0
+"702",702,"45310-NJ@CBJ","2024-01-19","New Jersey Devils","Columbus Blue Jackets",4,1,0,0,0,0,0,0,0,0
+"703",703,"45310-NYI@CHI","2024-01-19","New York Islanders","Chicago Blackhawks",3,3,0,0,0,0,0,1,0,0
+"704",704,"45311-ANA@SJ","2024-01-20","Anaheim Ducks","San Jose Sharks",2,5,0,0,1,0,0,0,0,0
+"705",705,"45311-COL@PHI","2024-01-20","Colorado Avalanche","Philadelphia Flyers",6,4,0,0,1,0,0,0,0,0
+"706",706,"45311-DAL@NJ","2024-01-20","Dallas Stars","New Jersey Devils",4,2,1,0,1,0,0,0,0,0
+"707",707,"45311-EDM@CGY","2024-01-20","Edmonton Oilers","Calgary Flames",3,1,0,0,0,0,0,0,0,0
+"708",708,"45311-MTL@BOS","2024-01-20","Montreal Canadiens","Boston Bruins",2,8,0,1,2,0,0,0,0,0
+"709",709,"45311-NSH@ARI","2024-01-20","Nashville Predators","Arizona Coyotes",1,3,0,0,1,0,0,0,0,0
+"710",710,"45311-NYR@LA","2024-01-20","New York Rangers","Los Angeles Kings",1,2,0,0,0,0,0,0,0,0
+"711",711,"45311-PIT@VGS","2024-01-20","Pittsburgh Penguins","Vegas Golden Knights",2,3,0,0,0,0,0,0,0,0
+"712",712,"45311-TB@BUF","2024-01-20","Tampa Bay Lightning","Buffalo Sabres",2,1,1,0,0,0,0,0,0,0
+"713",713,"45311-TOR@VAN","2024-01-20","Toronto Maple Leafs","Vancouver Canucks",3,4,1,2,0,0,0,0,0,0
+"714",714,"45311-WPG@OTT","2024-01-20","Winnipeg Jets","Ottawa Senators",1,1,0,0,0,0,1,0,0,0
+"715",715,"45311-WSH@STL","2024-01-20","Washington Capitals","St. Louis Blues",0,1,0,1,0,1,0,0,0,0
+"716",716,"45312-DAL@NYI","2024-01-21","Dallas Stars","New York Islanders",2,2,0,0,0,0,0,1,0,0
+"717",717,"45312-MIN@CAR","2024-01-21","Minnesota Wild","Carolina Hurricanes",5,2,0,0,0,0,0,0,0,0
+"718",718,"45312-NYR@ANA","2024-01-21","New York Rangers","Anaheim Ducks",3,2,0,0,2,0,0,0,0,0
+"719",719,"45312-OTT@PHI","2024-01-21","Ottawa Senators","Philadelphia Flyers",5,1,0,2,0,0,0,0,0,0
+"720",720,"45312-TB@DET","2024-01-21","Tampa Bay Lightning","Detroit Red Wings",1,2,0,0,0,0,0,0,0,0
+"721",721,"45312-TOR@SEA","2024-01-21","Toronto Maple Leafs","Seattle Kraken",3,1,0,0,0,0,0,0,0,0
+"722",722,"45313-CHI@VAN","2024-01-22","Chicago Blackhawks","Vancouver Canucks",0,2,0,0,0,0,0,0,0,0
+"723",723,"45313-FLA@NSH","2024-01-22","Florida Panthers","Nashville Predators",3,1,0,0,1,0,0,0,0,0
+"724",724,"45313-PIT@ARI","2024-01-22","Pittsburgh Penguins","Arizona Coyotes",2,4,0,1,0,0,0,0,0,0
+"725",725,"45313-SJ@LA","2024-01-22","San Jose Sharks","Los Angeles Kings",3,2,0,1,0,0,0,0,1,0
+"726",726,"45313-VGS@NJ","2024-01-22","Vegas Golden Knights","New Jersey Devils",5,5,0,0,0,0,0,1,0,0
+"727",727,"45313-WPG@BOS","2024-01-22","Winnipeg Jets","Boston Bruins",1,3,0,0,0,1,0,0,0,0
+"728",728,"45314-BUF@ANA","2024-01-23","Buffalo Sabres","Anaheim Ducks",1,3,0,1,1,0,0,0,0,0
+"729",729,"45314-CBJ@EDM","2024-01-23","Columbus Blue Jackets","Edmonton Oilers",1,3,0,1,0,0,0,0,0,0
+"730",730,"45314-DAL@DET","2024-01-23","Dallas Stars","Detroit Red Wings",4,1,0,3,1,0,0,0,0,0
+"731",731,"45314-NYR@SJ","2024-01-23","New York Rangers","San Jose Sharks",2,2,0,0,0,0,0,1,0,0
+"732",732,"45314-OTT@MTL","2024-01-23","Ottawa Senators","Montreal Canadiens",3,1,1,0,0,0,0,0,0,0
+"733",733,"45314-STL@CGY","2024-01-23","St. Louis Blues","Calgary Flames",3,3,1,0,0,0,0,0,0,0
+"734",734,"45314-TB@PHI","2024-01-23","Tampa Bay Lightning","Philadelphia Flyers",4,2,0,1,2,0,0,0,0,0
+"735",735,"45314-VGS@NYI","2024-01-23","Vegas Golden Knights","New York Islanders",2,1,0,0,1,1,0,0,0,0
+"736",736,"45314-WSH@MIN","2024-01-23","Washington Capitals","Minnesota Wild",2,5,0,0,1,0,0,0,0,0
+"737",737,"45315-ARI@FLA","2024-01-24","Arizona Coyotes","Florida Panthers",1,5,0,1,1,0,0,0,0,0
+"738",738,"45315-BUF@LA","2024-01-24","Buffalo Sabres","Los Angeles Kings",5,2,0,1,0,0,0,0,0,0
+"739",739,"45315-CAR@BOS","2024-01-24","Carolina Hurricanes","Boston Bruins",1,2,0,0,2,0,0,0,0,0
+"740",740,"45315-CHI@SEA","2024-01-24","Chicago Blackhawks","Seattle Kraken",1,6,0,0,1,0,0,0,0,0
+"741",741,"45315-STL@VAN","2024-01-24","St. Louis Blues","Vancouver Canucks",2,2,0,1,1,0,1,0,0,0
+"742",742,"45315-WPG@TOR","2024-01-24","Winnipeg Jets","Toronto Maple Leafs",0,0,0,0,0,0,0,1,0,0
+"743",743,"45315-WSH@COL","2024-01-24","Washington Capitals","Colorado Avalanche",2,3,0,2,0,1,0,0,0,0
+"744",744,"45316-ANA@DAL","2024-01-25","Anaheim Ducks","Dallas Stars",3,3,0,0,0,0,0,1,0,0
+"745",745,"45316-ARI@TB","2024-01-25","Arizona Coyotes","Tampa Bay Lightning",3,5,0,1,0,0,0,0,0,0
+"746",746,"45316-BOS@OTT","2024-01-25","Boston Bruins","Ottawa Senators",1,0,0,2,1,0,1,0,0,0
+"747",747,"45316-CBJ@CGY","2024-01-25","Columbus Blue Jackets","Calgary Flames",3,2,1,0,1,0,0,0,0,0
+"748",748,"45316-CHI@EDM","2024-01-25","Chicago Blackhawks","Edmonton Oilers",0,2,0,1,0,0,0,0,0,0
+"749",749,"45316-NJ@CAR","2024-01-25","New Jersey Devils","Carolina Hurricanes",2,2,0,1,0,0,0,0,0,0
+"750",750,"45316-NSH@MIN","2024-01-25","Nashville Predators","Minnesota Wild",3,0,0,2,0,0,0,0,0,0
+"751",751,"45316-NYI@MTL","2024-01-25","New York Islanders","Montreal Canadiens",0,2,0,2,3,0,0,0,0,0
+"752",752,"45316-PHI@DET","2024-01-25","Philadelphia Flyers","Detroit Red Wings",0,2,0,0,0,1,0,0,0,0
+"753",753,"45317-FLA@PIT","2024-01-26","Florida Panthers","Pittsburgh Penguins",0,1,0,1,2,0,0,0,1,0
+"754",754,"45317-LA@COL","2024-01-26","Los Angeles Kings","Colorado Avalanche",0,4,0,1,1,0,0,0,0,0
+"755",755,"45317-STL@SEA","2024-01-26","St. Louis Blues","Seattle Kraken",1,2,0,1,2,0,1,0,0,0
+"756",756,"45317-VGS@NYR","2024-01-26","Vegas Golden Knights","New York Rangers",5,2,0,0,0,0,0,0,0,0
+"757",757,"45318-ANA@MIN","2024-01-27","Anaheim Ducks","Minnesota Wild",3,2,0,0,0,0,0,0,0,0
+"758",758,"45318-ARI@CAR","2024-01-27","Arizona Coyotes","Carolina Hurricanes",1,2,0,1,0,0,0,0,0,0
+"759",759,"45318-BOS@PHI","2024-01-27","Boston Bruins","Philadelphia Flyers",6,2,0,0,0,0,0,0,0,0
+"760",760,"45318-BUF@SJ","2024-01-27","Buffalo Sabres","San Jose Sharks",5,2,0,0,0,0,0,0,0,0
+"761",761,"45318-CBJ@VAN","2024-01-27","Columbus Blue Jackets","Vancouver Canucks",2,1,1,3,1,0,0,1,0,0
+"762",762,"45318-CHI@CGY","2024-01-27","Chicago Blackhawks","Calgary Flames",0,0,0,1,0,0,0,0,0,0
+"763",763,"45318-FLA@NYI","2024-01-27","Florida Panthers","New York Islanders",0,2,0,0,2,0,1,0,0,0
+"764",764,"45318-MTL@PIT","2024-01-27","Montreal Canadiens","Pittsburgh Penguins",1,2,0,0,1,0,0,1,0,0
+"765",765,"45318-NJ@TB","2024-01-27","New Jersey Devils","Tampa Bay Lightning",3,6,0,0,0,0,0,0,0,0
+"766",766,"45318-NSH@EDM","2024-01-27","Nashville Predators","Edmonton Oilers",1,2,0,2,0,0,0,0,0,0
+"767",767,"45318-NYR@OTT","2024-01-27","New York Rangers","Ottawa Senators",7,1,0,1,0,0,0,0,0,0
+"768",768,"45318-TOR@WPG","2024-01-27","Toronto Maple Leafs","Winnipeg Jets",2,2,0,0,2,0,0,0,0,0
+"769",769,"45318-VGS@DET","2024-01-27","Vegas Golden Knights","Detroit Red Wings",2,4,0,1,0,0,0,0,0,0
+"770",770,"45318-WSH@DAL","2024-01-27","Washington Capitals","Dallas Stars",3,3,0,1,1,0,0,1,0,0
+"771",771,"45319-CBJ@SEA","2024-01-28","Columbus Blue Jackets","Seattle Kraken",2,2,0,2,0,0,0,0,0,0
+"772",772,"45319-LA@STL","2024-01-28","Los Angeles Kings","St. Louis Blues",2,2,1,1,0,0,0,1,0,0
+"773",773,"45320-NSH@OTT","2024-01-29","Nashville Predators","Ottawa Senators",3,3,0,0,0,0,0,1,0,0
+"774",774,"45321-CBJ@STL","2024-01-30","Columbus Blue Jackets","St. Louis Blues",1,0,0,0,0,0,0,0,0,0
+"775",775,"45321-SEA@SJ","2024-01-30","Seattle Kraken","San Jose Sharks",0,2,0,0,0,0,0,0,0,0
+"776",776,"45322-LA@NSH","2024-01-31","Los Angeles Kings","Nashville Predators",4,2,0,0,0,0,0,0,0,0
+"777",777,"45322-OTT@DET","2024-01-31","Ottawa Senators","Detroit Red Wings",2,2,0,0,0,0,1,0,0,0
+"778",778,"45322-SJ@ANA","2024-01-31","San Jose Sharks","Anaheim Ducks",1,2,0,0,1,0,0,1,0,0
+"779",779,"45327-COL@NYR","2024-02-05","Colorado Avalanche","New York Rangers",1,1,0,0,0,0,0,1,0,0
+"780",780,"45327-NYI@TOR","2024-02-05","New York Islanders","Toronto Maple Leafs",3,1,0,1,0,0,0,0,0,0
+"781",781,"45328-CGY@BOS","2024-02-06","Calgary Flames","Boston Bruins",2,0,0,1,2,0,0,0,0,0
+"782",782,"45328-COL@NJ","2024-02-06","Colorado Avalanche","New Jersey Devils",3,5,0,0,0,0,0,0,0,0
+"783",783,"45328-DAL@BUF","2024-02-06","Dallas Stars","Buffalo Sabres",1,0,0,1,1,0,0,0,0,0
+"784",784,"45328-EDM@VGS","2024-02-06","Edmonton Oilers","Vegas Golden Knights",0,3,1,0,0,0,0,0,0,0
+"785",785,"45328-MTL@WSH","2024-02-06","Montreal Canadiens","Washington Capitals",4,2,0,0,1,0,0,0,0,0
+"786",786,"45328-PHI@FLA","2024-02-06","Philadelphia Flyers","Florida Panthers",2,0,0,1,0,0,0,0,0,0
+"787",787,"45328-VAN@CAR","2024-02-06","Vancouver Canucks","Carolina Hurricanes",1,0,0,1,2,1,0,0,0,0
+"788",788,"45328-WPG@PIT","2024-02-06","Winnipeg Jets","Pittsburgh Penguins",0,1,0,2,0,0,0,0,0,0
+"789",789,"45329-DAL@TOR","2024-02-07","Dallas Stars","Toronto Maple Leafs",3,2,0,3,1,0,0,0,0,0
+"790",790,"45329-MIN@CHI","2024-02-07","Minnesota Wild","Chicago Blackhawks",2,1,0,0,0,0,0,0,0,0
+"791",791,"45329-TB@NYR","2024-02-07","Tampa Bay Lightning","New York Rangers",1,3,0,0,0,0,0,0,0,0
+"792",792,"45330-CGY@NJ","2024-02-08","Calgary Flames","New Jersey Devils",5,2,0,0,0,1,0,0,0,0
+"793",793,"45330-COL@CAR","2024-02-08","Colorado Avalanche","Carolina Hurricanes",2,4,0,1,0,0,0,0,0,0
+"794",794,"45330-TB@NYI","2024-02-08","Tampa Bay Lightning","New York Islanders",1,5,0,1,1,0,0,0,0,0
+"795",795,"45330-VAN@BOS","2024-02-08","Vancouver Canucks","Boston Bruins",0,2,0,0,0,2,0,0,0,0
+"796",796,"45330-VGS@ARI","2024-02-08","Vegas Golden Knights","Arizona Coyotes",3,2,0,0,0,0,0,0,0,0
+"797",797,"45330-WPG@PHI","2024-02-08","Winnipeg Jets","Philadelphia Flyers",1,3,0,0,0,1,0,0,0,0
+"798",798,"45330-WSH@FLA","2024-02-08","Washington Capitals","Florida Panthers",1,3,0,1,1,0,0,0,0,0
+"799",799,"45331-EDM@ANA","2024-02-09","Edmonton Oilers","Anaheim Ducks",4,1,0,2,1,0,0,0,0,0
+"800",800,"45331-NYR@CHI","2024-02-09","New York Rangers","Chicago Blackhawks",3,3,0,0,0,0,1,0,0,0
+"801",801,"45331-PIT@MIN","2024-02-09","Pittsburgh Penguins","Minnesota Wild",1,2,0,1,1,0,0,0,0,0
+"802",802,"45332-ARI@NSH","2024-02-10","Arizona Coyotes","Nashville Predators",2,2,0,2,2,0,0,1,0,0
+"803",803,"45332-CGY@NYI","2024-02-10","Calgary Flames","New York Islanders",4,2,0,0,1,0,0,0,0,0
+"804",804,"45332-COL@FLA","2024-02-10","Colorado Avalanche","Florida Panthers",0,2,0,2,0,0,0,0,0,0
+"805",805,"45332-DAL@MTL","2024-02-10","Dallas Stars","Montreal Canadiens",3,2,0,0,0,0,0,0,0,0
+"806",806,"45332-EDM@LA","2024-02-10","Edmonton Oilers","Los Angeles Kings",0,3,0,1,0,0,0,0,0,0
+"807",807,"45332-NJ@CAR","2024-02-10","New Jersey Devils","Carolina Hurricanes",0,0,0,0,0,0,0,1,0,0
+"808",808,"45332-PIT@WPG","2024-02-10","Pittsburgh Penguins","Winnipeg Jets",1,2,0,0,0,0,0,0,0,0
+"809",809,"45332-SEA@PHI","2024-02-10","Seattle Kraken","Philadelphia Flyers",2,1,0,1,0,1,0,0,0,0
+"810",810,"45332-STL@BUF","2024-02-10","St. Louis Blues","Buffalo Sabres",2,1,0,0,1,0,0,0,0,0
+"811",811,"45332-TB@CBJ","2024-02-10","Tampa Bay Lightning","Columbus Blue Jackets",2,1,0,1,2,0,0,0,0,0
+"812",812,"45332-TOR@OTT","2024-02-10","Toronto Maple Leafs","Ottawa Senators",3,5,0,0,0,0,0,0,0,0
+"813",813,"45332-VAN@DET","2024-02-10","Vancouver Canucks","Detroit Red Wings",3,2,0,1,0,0,0,1,0,0
+"814",814,"45332-WSH@BOS","2024-02-10","Washington Capitals","Boston Bruins",2,0,0,0,1,0,0,0,0,0
+"815",815,"45333-STL@MTL","2024-02-11","St. Louis Blues","Montreal Canadiens",4,1,0,1,3,0,0,0,0,0
+"816",816,"45333-VAN@WSH","2024-02-11","Vancouver Canucks","Washington Capitals",2,2,0,0,0,0,1,0,0,0
+"817",817,"45334-ARI@PHI","2024-02-12","Arizona Coyotes","Philadelphia Flyers",3,5,0,0,0,0,0,0,0,0
+"818",818,"45334-CGY@NYR","2024-02-12","Calgary Flames","New York Rangers",0,2,0,0,0,0,0,0,0,0
+"819",819,"45334-MIN@VGS","2024-02-12","Minnesota Wild","Vegas Golden Knights",4,2,0,1,1,0,0,0,0,0
+"820",820,"45334-SEA@NJ","2024-02-12","Seattle Kraken","New Jersey Devils",1,2,0,1,0,0,0,0,0,0
+"821",821,"45335-ANA@MTL","2024-02-13","Anaheim Ducks","Montreal Canadiens",0,3,0,2,0,0,0,0,0,0
+"822",822,"45335-CAR@DAL","2024-02-13","Carolina Hurricanes","Dallas Stars",2,4,0,0,0,0,0,0,0,0
+"823",823,"45335-CBJ@OTT","2024-02-13","Columbus Blue Jackets","Ottawa Senators",3,3,0,2,0,1,0,0,0,0
+"824",824,"45335-COL@WSH","2024-02-13","Colorado Avalanche","Washington Capitals",5,2,0,1,1,0,0,0,0,0
+"825",825,"45335-DET@EDM","2024-02-13","Detroit Red Wings","Edmonton Oilers",2,8,0,0,2,0,0,0,0,0
+"826",826,"45335-LA@BUF","2024-02-13","Los Angeles Kings","Buffalo Sabres",0,6,0,1,0,0,0,0,0,0
+"827",827,"45335-NJ@NSH","2024-02-13","New Jersey Devils","Nashville Predators",4,1,0,1,0,0,0,0,0,0
+"828",828,"45335-SEA@NYI","2024-02-13","Seattle Kraken","New York Islanders",1,0,0,1,0,0,0,0,1,0
+"829",829,"45335-STL@TOR","2024-02-13","St. Louis Blues","Toronto Maple Leafs",1,4,0,0,0,0,0,0,0,0
+"830",830,"45335-TB@BOS","2024-02-13","Tampa Bay Lightning","Boston Bruins",1,2,0,0,1,0,0,0,1,0
+"831",831,"45335-VAN@CHI","2024-02-13","Vancouver Canucks","Chicago Blackhawks",4,1,0,1,0,0,0,0,0,0
+"832",832,"45336-FLA@PIT","2024-02-14","Florida Panthers","Pittsburgh Penguins",4,2,0,0,1,0,0,0,0,0
+"833",833,"45336-MIN@ARI","2024-02-14","Minnesota Wild","Arizona Coyotes",2,1,0,0,1,0,0,0,0,0
+"834",834,"45336-SJ@WPG","2024-02-14","San Jose Sharks","Winnipeg Jets",0,1,0,0,0,0,0,0,0,0
+"835",835,"45337-ANA@OTT","2024-02-15","Anaheim Ducks","Ottawa Senators",3,1,0,0,2,0,0,0,0,0
+"836",836,"45337-COL@TB","2024-02-15","Colorado Avalanche","Tampa Bay Lightning",2,6,0,0,1,0,0,0,0,0
+"837",837,"45337-DAL@NSH","2024-02-15","Dallas Stars","Nashville Predators",7,2,0,0,2,0,0,0,0,0
+"838",838,"45337-DET@VAN","2024-02-15","Detroit Red Wings","Vancouver Canucks",1,4,0,0,0,0,0,0,0,0
+"839",839,"45337-EDM@STL","2024-02-15","Edmonton Oilers","St. Louis Blues",2,4,0,2,1,0,0,0,0,0
+"840",840,"45337-FLA@BUF","2024-02-15","Florida Panthers","Buffalo Sabres",3,0,0,0,1,0,0,0,0,0
+"841",841,"45337-LA@NJ","2024-02-15","Los Angeles Kings","New Jersey Devils",0,0,1,1,1,0,0,0,0,0
+"842",842,"45337-MTL@NYR","2024-02-15","Montreal Canadiens","New York Rangers",3,5,0,1,1,1,0,0,0,0
+"843",843,"45337-PHI@TOR","2024-02-15","Philadelphia Flyers","Toronto Maple Leafs",1,2,1,1,1,0,0,1,0,0
+"844",844,"45337-PIT@CHI","2024-02-15","Pittsburgh Penguins","Chicago Blackhawks",3,1,1,0,0,0,0,0,0,0
+"845",845,"45337-SEA@BOS","2024-02-15","Seattle Kraken","Boston Bruins",3,1,0,0,1,0,0,0,0,0
+"846",846,"45337-SJ@CGY","2024-02-15","San Jose Sharks","Calgary Flames",5,3,0,0,1,0,0,0,0,0
+"847",847,"45338-CAR@ARI","2024-02-16","Carolina Hurricanes","Arizona Coyotes",4,1,0,0,1,0,0,0,0,0
+"848",848,"45339-ANA@TOR","2024-02-17","Anaheim Ducks","Toronto Maple Leafs",1,5,0,4,1,0,0,0,0,0
+"849",849,"45339-BUF@MIN","2024-02-17","Buffalo Sabres","Minnesota Wild",2,1,0,1,0,0,1,0,0,0
+"850",850,"45339-CAR@VGS","2024-02-17","Carolina Hurricanes","Vegas Golden Knights",2,1,1,0,0,0,0,0,0,0
+"851",851,"45339-CBJ@SJ","2024-02-17","Columbus Blue Jackets","San Jose Sharks",4,2,0,1,0,0,0,0,0,0
+"852",852,"45339-DET@CGY","2024-02-17","Detroit Red Wings","Calgary Flames",3,0,0,0,2,0,0,0,0,0
+"853",853,"45339-EDM@DAL","2024-02-17","Edmonton Oilers","Dallas Stars",2,1,1,2,0,0,1,0,0,0
+"854",854,"45339-FLA@TB","2024-02-17","Florida Panthers","Tampa Bay Lightning",6,1,0,1,3,0,0,0,0,0
+"855",855,"45339-LA@BOS","2024-02-17","Los Angeles Kings","Boston Bruins",3,3,0,1,1,0,1,0,0,0
+"856",856,"45339-NSH@STL","2024-02-17","Nashville Predators","St. Louis Blues",4,1,0,1,1,0,0,0,0,0
+"857",857,"45339-OTT@CHI","2024-02-17","Ottawa Senators","Chicago Blackhawks",1,3,0,0,1,0,0,0,0,0
+"858",858,"45339-PHI@NJ","2024-02-17","Philadelphia Flyers","New Jersey Devils",2,6,0,0,1,0,0,0,0,0
+"859",859,"45339-WPG@VAN","2024-02-17","Winnipeg Jets","Vancouver Canucks",2,2,0,0,2,0,0,0,0,0
+"860",860,"45339-WSH@MTL","2024-02-17","Washington Capitals","Montreal Canadiens",3,2,0,1,1,0,0,0,0,0
+"861",861,"45340-ARI@COL","2024-02-18","Arizona Coyotes","Colorado Avalanche",2,4,0,0,1,0,0,0,0,0
+"862",862,"45340-LA@PIT","2024-02-18","Los Angeles Kings","Pittsburgh Penguins",1,0,1,1,0,0,0,0,0,0
+"863",863,"45340-NYR@NYI","2024-02-18","New York Rangers","New York Islanders",2,3,0,2,3,0,1,0,0,0
+"864",864,"45341-ANA@BUF","2024-02-19","Anaheim Ducks","Buffalo Sabres",4,2,0,1,0,0,0,0,0,0
+"865",865,"45341-CHI@CAR","2024-02-19","Chicago Blackhawks","Carolina Hurricanes",1,5,0,1,2,0,0,0,0,0
+"866",866,"45341-DAL@BOS","2024-02-19","Dallas Stars","Boston Bruins",3,3,0,0,0,0,0,0,0,1
+"867",867,"45341-DET@SEA","2024-02-19","Detroit Red Wings","Seattle Kraken",3,2,0,1,0,0,1,0,0,0
+"868",868,"45341-EDM@ARI","2024-02-19","Edmonton Oilers","Arizona Coyotes",5,2,0,1,1,0,0,0,0,0
+"869",869,"45341-OTT@TB","2024-02-19","Ottawa Senators","Tampa Bay Lightning",4,2,0,0,0,0,0,0,0,0
+"870",870,"45341-TOR@STL","2024-02-19","Toronto Maple Leafs","St. Louis Blues",2,1,1,1,1,0,0,0,0,0
+"871",871,"45341-VAN@MIN","2024-02-19","Vancouver Canucks","Minnesota Wild",6,6,0,4,1,0,0,0,0,0
+"872",872,"45341-VGS@SJ","2024-02-19","Vegas Golden Knights","San Jose Sharks",3,0,0,0,1,0,0,0,0,0
+"873",873,"45341-WPG@CGY","2024-02-19","Winnipeg Jets","Calgary Flames",1,5,0,1,2,0,0,0,0,0
+"874",874,"45342-CBJ@LA","2024-02-20","Columbus Blue Jackets","Los Angeles Kings",1,3,0,2,0,0,0,0,0,0
+"875",875,"45342-DAL@NYR","2024-02-20","Dallas Stars","New York Rangers",0,3,0,0,1,0,0,0,0,0
+"876",876,"45342-MIN@WPG","2024-02-20","Minnesota Wild","Winnipeg Jets",1,4,0,2,2,0,0,0,0,0
+"877",877,"45342-NJ@WSH","2024-02-20","New Jersey Devils","Washington Capitals",2,5,0,1,0,0,0,0,0,0
+"878",878,"45342-NSH@VGS","2024-02-20","Nashville Predators","Vegas Golden Knights",5,2,0,1,0,0,0,0,0,0
+"879",879,"45342-NYI@PIT","2024-02-20","New York Islanders","Pittsburgh Penguins",4,4,0,0,0,0,1,0,0,0
+"880",880,"45342-OTT@FLA","2024-02-20","Ottawa Senators","Florida Panthers",2,2,0,0,0,0,0,1,0,0
+"881",881,"45342-VAN@COL","2024-02-20","Vancouver Canucks","Colorado Avalanche",1,3,0,0,0,0,0,0,0,0
+"882",882,"45343-BOS@EDM","2024-02-21","Boston Bruins","Edmonton Oilers",4,5,0,0,1,0,1,0,0,0
+"883",883,"45343-BUF@MTL","2024-02-21","Buffalo Sabres","Montreal Canadiens",1,2,1,0,1,0,0,0,0,0
+"884",884,"45343-CBJ@ANA","2024-02-21","Columbus Blue Jackets","Anaheim Ducks",6,4,1,0,0,0,0,0,0,0
+"885",885,"45343-PHI@CHI","2024-02-21","Philadelphia Flyers","Chicago Blackhawks",3,1,0,0,0,0,0,0,0,0
+"886",886,"45343-TOR@ARI","2024-02-21","Toronto Maple Leafs","Arizona Coyotes",4,2,0,1,2,0,0,0,0,0
+"887",887,"45344-BOS@CGY","2024-02-22","Boston Bruins","Calgary Flames",2,2,0,0,0,0,0,1,0,0
+"888",888,"45344-COL@DET","2024-02-22","Colorado Avalanche","Detroit Red Wings",1,0,0,1,0,0,0,1,0,0
+"889",889,"45344-DAL@OTT","2024-02-22","Dallas Stars","Ottawa Senators",1,3,0,1,0,0,0,0,0,0
+"890",890,"45344-FLA@CAR","2024-02-22","Florida Panthers","Carolina Hurricanes",0,1,0,0,0,0,0,0,0,0
+"891",891,"45344-MTL@PIT","2024-02-22","Montreal Canadiens","Pittsburgh Penguins",1,3,0,1,0,0,0,0,0,0
+"892",892,"45344-NSH@LA","2024-02-22","Nashville Predators","Los Angeles Kings",4,0,0,1,0,0,0,0,0,0
+"893",893,"45344-NYI@STL","2024-02-22","New York Islanders","St. Louis Blues",0,3,0,1,0,0,0,0,0,0
+"894",894,"45344-NYR@NJ","2024-02-22","New York Rangers","New Jersey Devils",4,1,0,0,1,0,0,0,0,0
+"895",895,"45344-TOR@VGS","2024-02-22","Toronto Maple Leafs","Vegas Golden Knights",7,3,0,0,0,0,0,0,0,0
+"896",896,"45344-VAN@SEA","2024-02-22","Vancouver Canucks","Seattle Kraken",2,4,0,1,0,0,0,0,0,0
+"897",897,"45344-WSH@TB","2024-02-22","Washington Capitals","Tampa Bay Lightning",5,3,0,0,0,0,0,0,0,0
+"898",898,"45345-BUF@CBJ","2024-02-23","Buffalo Sabres","Columbus Blue Jackets",2,0,0,1,0,0,0,0,0,0
+"899",899,"45345-MIN@EDM","2024-02-23","Minnesota Wild","Edmonton Oilers",4,0,0,2,0,0,0,0,0,0
+"900",900,"45345-WPG@CHI","2024-02-23","Winnipeg Jets","Chicago Blackhawks",2,2,0,0,0,0,1,0,0,0
+"901",901,"45346-ANA@LA","2024-02-24","Anaheim Ducks","Los Angeles Kings",0,0,1,2,1,0,0,0,1,0
+"902",902,"45346-BOS@VAN","2024-02-24","Boston Bruins","Vancouver Canucks",2,2,0,0,0,0,0,1,0,0
+"903",903,"45346-CGY@EDM","2024-02-24","Calgary Flames","Edmonton Oilers",5,2,0,1,1,0,0,0,0,0
+"904",904,"45346-DAL@CAR","2024-02-24","Dallas Stars","Carolina Hurricanes",2,1,0,0,0,0,0,0,0,0
+"905",905,"45346-MIN@SEA","2024-02-24","Minnesota Wild","Seattle Kraken",3,2,0,0,2,0,0,0,0,0
+"906",906,"45346-MTL@NJ","2024-02-24","Montreal Canadiens","New Jersey Devils",3,3,0,1,0,0,0,0,0,0
+"907",907,"45346-NSH@SJ","2024-02-24","Nashville Predators","San Jose Sharks",3,2,0,0,1,0,0,0,0,0
+"908",908,"45346-NYR@PHI","2024-02-24","New York Rangers","Philadelphia Flyers",2,1,0,0,0,0,0,0,0,0
+"909",909,"45346-STL@DET","2024-02-24","St. Louis Blues","Detroit Red Wings",1,5,0,1,0,0,0,0,0,0
+"910",910,"45346-TB@NYI","2024-02-24","Tampa Bay Lightning","New York Islanders",3,1,0,1,1,0,0,0,0,0
+"911",911,"45346-TOR@COL","2024-02-24","Toronto Maple Leafs","Colorado Avalanche",2,2,0,1,2,0,0,0,0,0
+"912",912,"45346-VGS@OTT","2024-02-24","Vegas Golden Knights","Ottawa Senators",2,2,0,1,1,0,0,0,0,1
+"913",913,"45346-WSH@FLA","2024-02-24","Washington Capitals","Florida Panthers",0,1,0,1,2,0,0,1,0,0
+"914",914,"45347-ARI@WPG","2024-02-25","Arizona Coyotes","Winnipeg Jets",2,1,0,2,1,0,0,1,0,0
+"915",915,"45347-CAR@BUF","2024-02-25","Carolina Hurricanes","Buffalo Sabres",1,1,0,1,1,0,0,0,0,1
+"916",916,"45347-DET@CHI","2024-02-25","Detroit Red Wings","Chicago Blackhawks",2,1,0,1,0,0,1,0,0,0
+"917",917,"45347-NSH@ANA","2024-02-25","Nashville Predators","Anaheim Ducks",4,2,0,0,0,0,0,0,0,0
+"918",918,"45347-NYR@CBJ","2024-02-25","New York Rangers","Columbus Blue Jackets",2,3,0,1,0,0,0,0,0,0
+"919",919,"45347-PHI@PIT","2024-02-25","Philadelphia Flyers","Pittsburgh Penguins",4,5,1,2,1,0,0,0,0,0
+"920",920,"45347-TB@NJ","2024-02-25","Tampa Bay Lightning","New Jersey Devils",4,0,0,1,0,0,0,0,0,0
+"921",921,"45348-BOS@SEA","2024-02-26","Boston Bruins","Seattle Kraken",2,2,0,1,1,0,0,0,0,1
+"922",922,"45348-LA@EDM","2024-02-26","Los Angeles Kings","Edmonton Oilers",2,3,0,1,0,0,0,0,0,0
+"923",923,"45348-NYI@DAL","2024-02-26","New York Islanders","Dallas Stars",2,1,0,1,0,0,1,0,0,0
+"924",924,"45348-OTT@WSH","2024-02-26","Ottawa Senators","Washington Capitals",3,4,0,2,0,0,0,0,0,0
+"925",925,"45349-ARI@MTL","2024-02-27","Arizona Coyotes","Montreal Canadiens",2,4,0,0,0,0,0,0,0,0
+"926",926,"45349-BUF@FLA","2024-02-27","Buffalo Sabres","Florida Panthers",1,1,0,2,1,0,0,0,0,0
+"927",927,"45349-CAR@MIN","2024-02-27","Carolina Hurricanes","Minnesota Wild",3,2,0,0,0,0,0,0,0,0
+"928",928,"45349-DAL@COL","2024-02-27","Dallas Stars","Colorado Avalanche",1,4,0,1,0,0,0,0,0,0
+"929",929,"45349-LA@CGY","2024-02-27","Los Angeles Kings","Calgary Flames",2,4,0,0,0,0,0,0,0,0
+"930",930,"45349-NJ@SJ","2024-02-27","New Jersey Devils","San Jose Sharks",7,2,0,0,0,0,0,0,0,0
+"931",931,"45349-OTT@NSH","2024-02-27","Ottawa Senators","Nashville Predators",0,3,0,1,1,0,0,0,0,0
+"932",932,"45349-PIT@VAN","2024-02-27","Pittsburgh Penguins","Vancouver Canucks",2,1,0,1,1,1,1,0,0,0
+"933",933,"45349-STL@WPG","2024-02-27","St. Louis Blues","Winnipeg Jets",2,4,0,0,0,0,0,0,0,0
+"934",934,"45349-TB@PHI","2024-02-27","Tampa Bay Lightning","Philadelphia Flyers",2,5,0,1,0,0,0,0,0,0
+"935",935,"45349-VGS@TOR","2024-02-27","Vegas Golden Knights","Toronto Maple Leafs",6,2,0,0,0,0,0,0,0,0
+"936",936,"45349-WSH@DET","2024-02-27","Washington Capitals","Detroit Red Wings",2,6,0,1,1,1,0,0,0,0
+"937",937,"45350-CBJ@NYR","2024-02-28","Columbus Blue Jackets","New York Rangers",2,7,0,1,0,0,0,0,0,0
+"938",938,"45350-STL@EDM","2024-02-28","St. Louis Blues","Edmonton Oilers",1,1,0,1,3,3,0,1,0,0
+"939",939,"45351-ANA@SJ","2024-02-29","Anaheim Ducks","San Jose Sharks",9,5,1,3,2,0,0,0,0,0
+"940",940,"45351-ARI@TOR","2024-02-29","Arizona Coyotes","Toronto Maple Leafs",3,8,1,0,0,0,0,0,0,0
+"941",941,"45351-BUF@TB","2024-02-29","Buffalo Sabres","Tampa Bay Lightning",1,1,3,3,1,0,1,0,0,0
+"942",942,"45351-CAR@CBJ","2024-02-29","Carolina Hurricanes","Columbus Blue Jackets",8,3,0,1,0,0,0,0,0,0
+"943",943,"45351-COL@CHI","2024-02-29","Colorado Avalanche","Chicago Blackhawks",9,0,0,0,1,0,0,0,0,0
+"944",944,"45351-LA@VAN","2024-02-29","Los Angeles Kings","Vancouver Canucks",9,1,0,1,1,0,0,0,0,0
+"945",945,"45351-MIN@NSH","2024-02-29","Minnesota Wild","Nashville Predators",2,11,0,1,0,0,0,0,0,0
+"946",946,"45351-MTL@FLA","2024-02-29","Montreal Canadiens","Florida Panthers",6,6,0,1,1,1,0,0,0,1
+"947",947,"45351-NYI@DET","2024-02-29","New York Islanders","Detroit Red Wings",9,6,0,0,1,0,0,0,0,0
+"948",948,"45351-PIT@SEA","2024-02-29","Pittsburgh Penguins","Seattle Kraken",0,3,0,1,0,0,0,0,0,0
+"949",949,"45351-VGS@BOS","2024-02-29","Vegas Golden Knights","Boston Bruins",7,9,1,1,0,0,0,0,0,0
+"950",950,"45351-WPG@DAL","2024-02-29","Winnipeg Jets","Dallas Stars",1,8,0,0,1,0,0,0,0,0
+"951",951,"45352-ARI@OTT","2024-03-01","Arizona Coyotes","Ottawa Senators",8,5,0,1,2,0,0,0,0,0
+"952",952,"45352-NJ@ANA","2024-03-01","New Jersey Devils","Anaheim Ducks",4,8,0,0,2,0,0,0,0,0
+"953",953,"45352-PHI@WSH","2024-03-01","Philadelphia Flyers","Washington Capitals",3,9,0,1,1,0,0,0,0,0
+"954",954,"45353-BOS@NYI","2024-03-02","Boston Bruins","New York Islanders",2,9,0,1,0,0,0,0,0,0
+"955",955,"45353-CBJ@CHI","2024-03-02","Columbus Blue Jackets","Chicago Blackhawks",10,4,0,0,0,0,0,0,0,0
+"956",956,"45353-COL@NSH","2024-03-02","Colorado Avalanche","Nashville Predators",2,8,0,2,0,0,0,0,0,0
+"957",957,"45353-EDM@SEA","2024-03-02","Edmonton Oilers","Seattle Kraken",4,1,0,1,0,0,0,0,0,0
+"958",958,"45353-FLA@DET","2024-03-02","Florida Panthers","Detroit Red Wings",6,0,0,0,2,0,0,0,0,0
+"959",959,"45353-MIN@STL","2024-03-02","Minnesota Wild","St. Louis Blues",2,5,0,1,0,0,0,0,0,0
+"960",960,"45353-MTL@TB","2024-03-02","Montreal Canadiens","Tampa Bay Lightning",7,7,0,0,0,1,0,0,0,1
+"961",961,"45353-NYR@TOR","2024-03-02","New York Rangers","Toronto Maple Leafs",7,8,0,0,0,0,0,0,0,1
+"962",962,"45353-OTT@PHI","2024-03-02","Ottawa Senators","Philadelphia Flyers",4,8,0,0,0,0,0,0,0,0
+"963",963,"45353-PIT@CGY","2024-03-02","Pittsburgh Penguins","Calgary Flames",5,7,0,1,1,0,0,0,0,0
+"964",964,"45353-SJ@DAL","2024-03-02","San Jose Sharks","Dallas Stars",5,5,0,1,0,0,0,0,0,1
+"965",965,"45353-VGS@BUF","2024-03-02","Vegas Golden Knights","Buffalo Sabres",3,11,0,1,1,2,0,0,0,0
+"966",966,"45353-WPG@CAR","2024-03-02","Winnipeg Jets","Carolina Hurricanes",9,5,0,1,1,0,0,0,0,0
+"967",967,"45354-ARI@WSH","2024-03-03","Arizona Coyotes","Washington Capitals",3,0,0,2,2,0,0,0,0,0
+"968",968,"45354-NJ@LA","2024-03-03","New Jersey Devils","Los Angeles Kings",1,4,0,1,0,0,0,0,0,0
+"969",969,"45354-PIT@EDM","2024-03-03","Pittsburgh Penguins","Edmonton Oilers",1,6,0,0,0,0,0,0,0,0
+"970",970,"45354-SJ@MIN","2024-03-03","San Jose Sharks","Minnesota Wild",1,3,1,1,1,0,0,0,0,0
+"971",971,"45354-VAN@ANA","2024-03-03","Vancouver Canucks","Anaheim Ducks",2,1,0,0,0,0,0,0,0,0
+"972",972,"45354-WPG@BUF","2024-03-03","Winnipeg Jets","Buffalo Sabres",5,1,0,1,0,0,0,0,0,0
+"973",973,"45355-BOS@TOR","2024-03-04","Boston Bruins","Toronto Maple Leafs",3,1,0,0,1,0,0,0,0,0
+"974",974,"45355-CHI@COL","2024-03-04","Chicago Blackhawks","Colorado Avalanche",0,4,0,1,0,0,0,0,0,0
+"975",975,"45355-FLA@NYR","2024-03-04","Florida Panthers","New York Rangers",3,0,0,2,1,0,0,0,0,0
+"976",976,"45355-SEA@CGY","2024-03-04","Seattle Kraken","Calgary Flames",3,1,1,1,0,0,0,0,0,0
+"977",977,"45355-STL@PHI","2024-03-04","St. Louis Blues","Philadelphia Flyers",1,1,0,0,0,0,0,0,1,0
+"978",978,"45355-VGS@CBJ","2024-03-04","Vegas Golden Knights","Columbus Blue Jackets",3,6,0,0,0,0,0,0,0,0
+"979",979,"45356-CBJ@PIT","2024-03-05","Columbus Blue Jackets","Pittsburgh Penguins",2,3,1,2,0,0,0,0,0,0
+"980",980,"45356-CHI@ARI","2024-03-05","Chicago Blackhawks","Arizona Coyotes",1,2,0,0,4,0,0,0,0,0
+"981",981,"45356-DAL@SJ","2024-03-05","Dallas Stars","San Jose Sharks",4,4,0,2,2,0,1,0,0,0
+"982",982,"45356-EDM@BOS","2024-03-05","Edmonton Oilers","Boston Bruins",1,1,0,0,0,0,1,0,0,0
+"983",983,"45356-FLA@NJ","2024-03-05","Florida Panthers","New Jersey Devils",4,2,0,1,1,0,0,0,0,0
+"984",984,"45356-MTL@NSH","2024-03-05","Montreal Canadiens","Nashville Predators",3,3,0,0,0,0,1,0,0,0
+"985",985,"45356-SEA@WPG","2024-03-05","Seattle Kraken","Winnipeg Jets",2,3,1,0,1,0,0,0,0,0
+"986",986,"45356-STL@NYI","2024-03-05","St. Louis Blues","New York Islanders",2,4,0,0,0,0,0,0,0,0
+"987",987,"45356-VAN@LA","2024-03-05","Vancouver Canucks","Los Angeles Kings",1,1,0,0,0,0,1,0,0,0
+"988",988,"45357-BUF@TOR","2024-03-06","Buffalo Sabres","Toronto Maple Leafs",1,1,0,0,0,0,0,1,0,0
+"989",989,"45357-DET@COL","2024-03-06","Detroit Red Wings","Colorado Avalanche",1,5,0,2,1,0,0,0,0,0
+"990",990,"45357-OTT@ANA","2024-03-06","Ottawa Senators","Anaheim Ducks",1,2,0,0,0,0,0,0,0,0
+"991",991,"45358-BUF@NSH","2024-03-07","Buffalo Sabres","Nashville Predators",2,2,0,2,0,0,0,0,0,0
+"992",992,"45358-CGY@TB","2024-03-07","Calgary Flames","Tampa Bay Lightning",6,3,0,0,0,0,0,0,0,0
+"993",993,"45358-EDM@CBJ","2024-03-07","Edmonton Oilers","Columbus Blue Jackets",1,4,0,0,1,0,0,0,0,0
+"994",994,"45358-MIN@ARI","2024-03-07","Minnesota Wild","Arizona Coyotes",4,1,0,1,1,0,0,0,0,0
+"995",995,"45358-MTL@CAR","2024-03-07","Montreal Canadiens","Carolina Hurricanes",1,4,0,0,0,0,0,0,0,0
+"996",996,"45358-NYI@SJ","2024-03-07","New York Islanders","San Jose Sharks",6,1,0,1,1,0,0,0,0,0
+"997",997,"45358-OTT@LA","2024-03-07","Ottawa Senators","Los Angeles Kings",2,3,0,0,1,0,0,1,0,0
+"998",998,"45358-PHI@FLA","2024-03-07","Philadelphia Flyers","Florida Panthers",2,1,0,0,0,0,0,0,0,0
+"999",999,"45358-STL@NJ","2024-03-07","St. Louis Blues","New Jersey Devils",1,3,0,1,0,0,0,0,0,0
+"1000",1000,"45358-TOR@BOS","2024-03-07","Toronto Maple Leafs","Boston Bruins",0,2,0,2,1,0,0,0,0,0
+"1001",1001,"45358-VAN@VGS","2024-03-07","Vancouver Canucks","Vegas Golden Knights",2,1,0,0,1,0,0,0,0,0
+"1002",1002,"45358-WSH@PIT","2024-03-07","Washington Capitals","Pittsburgh Penguins",4,0,1,0,1,0,0,0,0,0
+"1003",1003,"45359-DAL@ANA","2024-03-08","Dallas Stars","Anaheim Ducks",3,1,0,1,3,0,0,0,0,0
+"1004",1004,"45359-DET@ARI","2024-03-08","Detroit Red Wings","Arizona Coyotes",0,3,0,1,0,0,0,0,0,0
+"1005",1005,"45359-MIN@COL","2024-03-08","Minnesota Wild","Colorado Avalanche",1,1,0,0,0,0,0,1,0,0
+"1006",1006,"45359-WPG@SEA","2024-03-08","Winnipeg Jets","Seattle Kraken",3,0,0,0,0,0,0,0,0,0
+"1007",1007,"45360-CAR@NJ","2024-03-09","Carolina Hurricanes","New Jersey Devils",3,2,0,0,1,0,0,0,0,0
+"1008",1008,"45360-CGY@FLA","2024-03-09","Calgary Flames","Florida Panthers",0,4,0,0,1,1,0,0,0,0
+"1009",1009,"45360-CHI@WSH","2024-03-09","Chicago Blackhawks","Washington Capitals",1,3,0,1,0,0,0,0,0,0
+"1010",1010,"45360-DAL@LA","2024-03-09","Dallas Stars","Los Angeles Kings",3,1,0,0,1,0,0,0,0,0
+"1011",1011,"45360-DET@VGS","2024-03-09","Detroit Red Wings","Vegas Golden Knights",2,5,0,0,1,0,0,0,0,0
+"1012",1012,"45360-EDM@BUF","2024-03-09","Edmonton Oilers","Buffalo Sabres",1,1,1,1,0,0,0,0,0,1
+"1013",1013,"45360-NSH@CBJ","2024-03-09","Nashville Predators","Columbus Blue Jackets",2,1,0,0,0,0,0,0,0,0
+"1014",1014,"45360-OTT@SJ","2024-03-09","Ottawa Senators","San Jose Sharks",0,0,0,2,1,0,0,0,0,0
+"1015",1015,"45360-PHI@TB","2024-03-09","Philadelphia Flyers","Tampa Bay Lightning",0,4,0,3,0,0,0,0,0,0
+"1016",1016,"45360-PIT@BOS","2024-03-09","Pittsburgh Penguins","Boston Bruins",1,4,0,1,0,0,0,0,0,0
+"1017",1017,"45360-STL@NYR","2024-03-09","St. Louis Blues","New York Rangers",0,1,0,3,0,0,0,0,0,0
+"1018",1018,"45360-TOR@MTL","2024-03-09","Toronto Maple Leafs","Montreal Canadiens",3,1,0,1,0,0,0,0,0,0
+"1019",1019,"45360-WPG@VAN","2024-03-09","Winnipeg Jets","Vancouver Canucks",0,4,0,1,0,0,0,0,0,0
+"1020",1020,"45361-ARI@CHI","2024-03-10","Arizona Coyotes","Chicago Blackhawks",4,5,0,2,0,0,0,0,0,0
+"1021",1021,"45361-CGY@CAR","2024-03-10","Calgary Flames","Carolina Hurricanes",2,7,0,0,0,0,0,0,0,0
+"1022",1022,"45361-EDM@PIT","2024-03-10","Edmonton Oilers","Pittsburgh Penguins",4,0,0,0,0,0,0,0,0,0
+"1023",1023,"45361-NSH@MIN","2024-03-10","Nashville Predators","Minnesota Wild",2,2,0,1,1,0,0,1,0,0
+"1024",1024,"45361-NYI@ANA","2024-03-10","New York Islanders","Anaheim Ducks",5,1,0,0,1,0,0,0,0,0
+"1025",1025,"45362-NJ@NYR","2024-03-11","New Jersey Devils","New York Rangers",1,3,0,0,0,0,0,0,0,0
+"1026",1026,"45362-NYI@LA","2024-03-11","New York Islanders","Los Angeles Kings",0,3,0,0,0,0,0,0,0,0
+"1027",1027,"45362-STL@BOS","2024-03-11","St. Louis Blues","Boston Bruins",4,1,0,0,1,0,0,0,0,0
+"1028",1028,"45362-WSH@WPG","2024-03-11","Washington Capitals","Winnipeg Jets",0,3,0,0,0,0,0,0,0,0
+"1029",1029,"45363-ANA@CHI","2024-03-12","Anaheim Ducks","Chicago Blackhawks",1,3,1,4,0,0,0,0,0,0
+"1030",1030,"45363-ARI@MIN","2024-03-12","Arizona Coyotes","Minnesota Wild",1,3,0,1,0,0,0,0,0,0
+"1031",1031,"45363-CBJ@MTL","2024-03-12","Columbus Blue Jackets","Montreal Canadiens",0,2,0,1,0,0,0,0,0,0
+"1032",1032,"45363-COL@CGY","2024-03-12","Colorado Avalanche","Calgary Flames",5,2,0,0,1,0,0,0,0,0
+"1033",1033,"45363-DET@BUF","2024-03-12","Detroit Red Wings","Buffalo Sabres",2,7,0,0,1,0,0,0,0,0
+"1034",1034,"45363-FLA@DAL","2024-03-12","Florida Panthers","Dallas Stars",1,2,0,1,3,0,0,0,0,0
+"1035",1035,"45363-NYR@CAR","2024-03-12","New York Rangers","Carolina Hurricanes",1,0,0,0,0,0,0,0,0,0
+"1036",1036,"45363-PIT@OTT","2024-03-12","Pittsburgh Penguins","Ottawa Senators",1,1,0,0,0,0,0,1,0,0
+"1037",1037,"45363-SJ@PHI","2024-03-12","San Jose Sharks","Philadelphia Flyers",0,2,0,1,2,0,0,0,0,0
+"1038",1038,"45363-VGS@SEA","2024-03-12","Vegas Golden Knights","Seattle Kraken",3,4,0,0,1,0,1,0,0,0
+"1039",1039,"45364-COL@VAN","2024-03-13","Colorado Avalanche","Vancouver Canucks",2,3,0,0,1,0,1,0,0,0
+"1040",1040,"45364-LA@STL","2024-03-13","Los Angeles Kings","St. Louis Blues",1,3,0,0,0,0,0,0,0,0
+"1041",1041,"45364-NSH@WPG","2024-03-13","Nashville Predators","Winnipeg Jets",4,1,0,1,0,0,0,0,0,0
+"1042",1042,"45364-WSH@EDM","2024-03-13","Washington Capitals","Edmonton Oilers",1,4,0,3,1,0,0,0,0,0
+"1043",1043,"45365-ANA@MIN","2024-03-14","Anaheim Ducks","Minnesota Wild",0,2,0,0,0,0,0,0,0,0
+"1044",1044,"45365-ARI@DET","2024-03-14","Arizona Coyotes","Detroit Red Wings",3,0,1,1,0,0,0,0,0,0
+"1045",1045,"45365-BOS@MTL","2024-03-14","Boston Bruins","Montreal Canadiens",1,1,0,0,0,0,1,0,0,0
+"1046",1046,"45365-FLA@CAR","2024-03-14","Florida Panthers","Carolina Hurricanes",0,4,0,0,0,0,0,0,0,0
+"1047",1047,"45365-NJ@DAL","2024-03-14","New Jersey Devils","Dallas Stars",6,2,0,0,0,0,0,0,0,0
+"1048",1048,"45365-NYI@BUF","2024-03-14","New York Islanders","Buffalo Sabres",0,3,0,1,0,0,0,0,0,0
+"1049",1049,"45365-NYR@TB","2024-03-14","New York Rangers","Tampa Bay Lightning",3,5,0,1,0,0,0,0,0,0
+"1050",1050,"45365-OTT@CBJ","2024-03-14","Ottawa Senators","Columbus Blue Jackets",2,1,0,1,0,0,0,0,1,0
+"1051",1051,"45365-SJ@PIT","2024-03-14","San Jose Sharks","Pittsburgh Penguins",3,6,0,0,0,0,0,0,0,0
+"1052",1052,"45365-TOR@PHI","2024-03-14","Toronto Maple Leafs","Philadelphia Flyers",6,0,0,1,0,1,0,0,0,0
+"1053",1053,"45365-VGS@CGY","2024-03-14","Vegas Golden Knights","Calgary Flames",1,4,0,0,0,0,0,0,0,0
+"1054",1054,"45365-WSH@SEA","2024-03-14","Washington Capitals","Seattle Kraken",1,0,0,1,1,0,0,0,0,0
+"1055",1055,"45366-ANA@WPG","2024-03-15","Anaheim Ducks","Winnipeg Jets",0,3,0,3,0,0,0,0,0,0
+"1056",1056,"45366-LA@CHI","2024-03-15","Los Angeles Kings","Chicago Blackhawks",4,0,0,0,1,0,0,0,0,0
+"1057",1057,"45367-BUF@DET","2024-03-16","Buffalo Sabres","Detroit Red Wings",0,4,0,0,1,0,0,0,0,0
+"1058",1058,"45367-CAR@TOR","2024-03-16","Carolina Hurricanes","Toronto Maple Leafs",2,4,0,0,2,0,0,0,1,0
+"1059",1059,"45367-COL@EDM","2024-03-16","Colorado Avalanche","Edmonton Oilers",2,2,0,0,0,0,1,0,0,0
+"1060",1060,"45367-LA@DAL","2024-03-16","Los Angeles Kings","Dallas Stars",1,3,0,1,0,0,0,0,0,0
+"1061",1061,"45367-MIN@STL","2024-03-16","Minnesota Wild","St. Louis Blues",2,1,0,1,0,0,0,0,0,1
+"1062",1062,"45367-MTL@CGY","2024-03-16","Montreal Canadiens","Calgary Flames",2,3,0,2,0,0,0,0,0,0
+"1063",1063,"45367-NJ@ARI","2024-03-16","New Jersey Devils","Arizona Coyotes",1,3,0,1,0,0,0,0,0,0
+"1064",1064,"45367-NSH@SEA","2024-03-16","Nashville Predators","Seattle Kraken",3,0,0,1,1,0,0,0,0,0
+"1065",1065,"45367-NYR@PIT","2024-03-16","New York Rangers","Pittsburgh Penguins",5,3,0,1,2,0,0,0,0,0
+"1066",1066,"45367-OTT@NYI","2024-03-16","Ottawa Senators","New York Islanders",2,2,0,1,1,0,1,0,0,0
+"1067",1067,"45367-PHI@BOS","2024-03-16","Philadelphia Flyers","Boston Bruins",5,5,0,1,0,0,0,0,0,0
+"1068",1068,"45367-SJ@CBJ","2024-03-16","San Jose Sharks","Columbus Blue Jackets",2,4,0,0,0,0,0,0,0,0
+"1069",1069,"45367-TB@FLA","2024-03-16","Tampa Bay Lightning","Florida Panthers",4,1,0,1,1,1,0,0,0,0
+"1070",1070,"45367-WSH@VAN","2024-03-16","Washington Capitals","Vancouver Canucks",2,1,0,0,0,0,0,0,0,0
+"1071",1071,"45368-ANA@STL","2024-03-17","Anaheim Ducks","St. Louis Blues",2,1,0,3,0,0,0,0,0,0
+"1072",1072,"45368-CAR@OTT","2024-03-17","Carolina Hurricanes","Ottawa Senators",6,2,0,0,1,0,0,0,0,0
+"1073",1073,"45368-DET@PIT","2024-03-17","Detroit Red Wings","Pittsburgh Penguins",2,5,0,1,1,0,0,0,0,0
+"1074",1074,"45368-NJ@VGS","2024-03-17","New Jersey Devils","Vegas Golden Knights",1,3,0,0,0,0,0,0,0,0
+"1075",1075,"45368-NYI@NYR","2024-03-17","New York Islanders","New York Rangers",1,5,1,0,0,0,0,0,0,0
+"1076",1076,"45368-SJ@CHI","2024-03-17","San Jose Sharks","Chicago Blackhawks",2,5,0,0,0,0,0,0,0,0
+"1077",1077,"45368-WPG@CBJ","2024-03-17","Winnipeg Jets","Columbus Blue Jackets",6,1,0,0,0,0,0,0,0,0
+"1078",1078,"45369-BUF@SEA","2024-03-18","Buffalo Sabres","Seattle Kraken",6,1,0,1,0,0,0,0,0,0
+"1079",1079,"45369-WSH@CGY","2024-03-18","Washington Capitals","Calgary Flames",3,2,0,0,2,0,0,0,0,0
+"1080",1080,"45370-BUF@VAN","2024-03-19","Buffalo Sabres","Vancouver Canucks",2,2,0,1,0,0,0,0,0,0
+"1081",1081,"45370-CAR@NYI","2024-03-19","Carolina Hurricanes","New York Islanders",3,1,0,0,1,0,0,0,0,0
+"1082",1082,"45370-CBJ@DET","2024-03-19","Columbus Blue Jackets","Detroit Red Wings",2,2,0,1,1,0,0,1,0,0
+"1083",1083,"45370-CHI@LA","2024-03-19","Chicago Blackhawks","Los Angeles Kings",1,5,0,1,1,0,0,0,0,0
+"1084",1084,"45370-COL@STL","2024-03-19","Colorado Avalanche","St. Louis Blues",3,3,0,0,1,0,0,0,0,0
+"1085",1085,"45370-MIN@ANA","2024-03-19","Minnesota Wild","Anaheim Ducks",3,0,0,0,1,0,0,0,0,0
+"1086",1086,"45370-MTL@EDM","2024-03-19","Montreal Canadiens","Edmonton Oilers",2,2,0,0,0,0,0,1,0,0
+"1087",1087,"45370-OTT@BOS","2024-03-19","Ottawa Senators","Boston Bruins",1,4,0,2,1,0,0,0,0,0
+"1088",1088,"45370-PIT@NJ","2024-03-19","Pittsburgh Penguins","New Jersey Devils",2,3,0,2,0,0,0,0,0,0
+"1089",1089,"45370-SJ@NSH","2024-03-19","San Jose Sharks","Nashville Predators",2,8,0,0,0,0,0,0,0,0
+"1090",1090,"45370-TB@VGS","2024-03-19","Tampa Bay Lightning","Vegas Golden Knights",3,3,1,0,1,0,0,0,0,0
+"1091",1091,"45370-TOR@PHI","2024-03-19","Toronto Maple Leafs","Philadelphia Flyers",2,4,0,0,1,0,0,0,0,0
+"1092",1092,"45370-WPG@NYR","2024-03-19","Winnipeg Jets","New York Rangers",3,1,0,1,1,0,0,0,0,0
+"1093",1093,"45371-ARI@DAL","2024-03-20","Arizona Coyotes","Dallas Stars",2,5,0,0,0,0,0,0,0,0
+"1094",1094,"45371-MIN@LA","2024-03-20","Minnesota Wild","Los Angeles Kings",0,4,0,2,0,0,0,0,0,0
+"1095",1095,"45371-TOR@WSH","2024-03-20","Toronto Maple Leafs","Washington Capitals",6,2,0,1,1,0,0,0,0,0
+"1096",1096,"45372-BUF@EDM","2024-03-21","Buffalo Sabres","Edmonton Oilers",3,7,0,1,0,0,0,0,0,0
+"1097",1097,"45372-CHI@ANA","2024-03-21","Chicago Blackhawks","Anaheim Ducks",0,3,0,1,0,0,0,0,0,0
+"1098",1098,"45372-MTL@VAN","2024-03-21","Montreal Canadiens","Vancouver Canucks",1,4,0,0,0,0,0,0,0,0
+"1099",1099,"45372-NSH@FLA","2024-03-21","Nashville Predators","Florida Panthers",2,0,0,0,1,0,0,0,0,0
+"1100",1100,"45372-NYI@DET","2024-03-21","New York Islanders","Detroit Red Wings",2,6,0,0,1,0,0,0,0,0
+"1101",1101,"45372-NYR@BOS","2024-03-21","New York Rangers","Boston Bruins",5,2,0,0,0,0,0,0,0,0
+"1102",1102,"45372-PHI@CAR","2024-03-21","Philadelphia Flyers","Carolina Hurricanes",2,2,0,0,0,0,0,1,0,0
+"1103",1103,"45372-SEA@VGS","2024-03-21","Seattle Kraken","Vegas Golden Knights",0,2,0,1,1,0,0,0,0,0
+"1104",1104,"45372-STL@OTT","2024-03-21","St. Louis Blues","Ottawa Senators",5,1,0,1,0,0,0,0,0,0
+"1105",1105,"45372-TB@SJ","2024-03-21","Tampa Bay Lightning","San Jose Sharks",3,1,0,0,1,0,0,0,0,0
+"1106",1106,"45372-WPG@NJ","2024-03-21","Winnipeg Jets","New Jersey Devils",1,1,0,3,0,0,0,0,0,0
+"1107",1107,"45373-CAR@WSH","2024-03-22","Carolina Hurricanes","Washington Capitals",5,3,0,3,1,0,0,0,0,1
+"1108",1108,"45373-CBJ@COL","2024-03-22","Columbus Blue Jackets","Colorado Avalanche",1,5,0,1,0,0,0,0,0,0
+"1109",1109,"45373-PIT@DAL","2024-03-22","Pittsburgh Penguins","Dallas Stars",2,3,0,1,0,0,0,0,0,0
+"1110",1110,"45373-SEA@ARI","2024-03-22","Seattle Kraken","Arizona Coyotes",1,1,0,0,0,0,0,1,0,0
+"1111",1111,"45374-BOS@PHI","2024-03-23","Boston Bruins","Philadelphia Flyers",2,2,0,1,0,0,0,0,0,0
+"1112",1112,"45374-CBJ@VGS","2024-03-23","Columbus Blue Jackets","Vegas Golden Knights",2,3,0,1,0,0,0,0,0,0
+"1113",1113,"45374-CGY@VAN","2024-03-23","Calgary Flames","Vancouver Canucks",2,3,0,1,0,0,0,0,0,0
+"1114",1114,"45374-CHI@SJ","2024-03-23","Chicago Blackhawks","San Jose Sharks",4,2,0,2,0,0,1,0,0,0
+"1115",1115,"45374-DET@NSH","2024-03-23","Detroit Red Wings","Nashville Predators",0,1,0,0,0,0,0,0,0,0
+"1116",1116,"45374-EDM@TOR","2024-03-23","Edmonton Oilers","Toronto Maple Leafs",1,5,0,1,2,0,0,0,0,0
+"1117",1117,"45374-FLA@NYR","2024-03-23","Florida Panthers","New York Rangers",3,2,0,1,0,0,0,0,0,1
+"1118",1118,"45374-OTT@NJ","2024-03-23","Ottawa Senators","New Jersey Devils",4,2,1,0,0,0,0,0,0,0
+"1119",1119,"45374-STL@MIN","2024-03-23","St. Louis Blues","Minnesota Wild",4,4,0,0,0,0,1,0,0,0
+"1120",1120,"45374-TB@LA","2024-03-23","Tampa Bay Lightning","Los Angeles Kings",1,3,0,0,2,0,0,1,0,0
+"1121",1121,"45374-WPG@NYI","2024-03-23","Winnipeg Jets","New York Islanders",3,6,0,0,0,0,0,0,0,0
+"1122",1122,"45375-BUF@CGY","2024-03-24","Buffalo Sabres","Calgary Flames",4,0,0,1,0,0,0,0,0,0
+"1123",1123,"45375-DAL@ARI","2024-03-24","Dallas Stars","Arizona Coyotes",4,2,0,0,0,0,0,0,0,0
+"1124",1124,"45375-EDM@OTT","2024-03-24","Edmonton Oilers","Ottawa Senators",1,2,0,3,2,0,0,0,0,0
+"1125",1125,"45375-FLA@PHI","2024-03-24","Florida Panthers","Philadelphia Flyers",3,0,0,1,1,0,0,0,0,0
+"1126",1126,"45375-MTL@SEA","2024-03-24","Montreal Canadiens","Seattle Kraken",4,1,1,0,0,0,0,0,0,0
+"1127",1127,"45375-NJ@NYI","2024-03-24","New Jersey Devils","New York Islanders",3,0,0,0,1,0,0,0,0,0
+"1128",1128,"45375-PIT@COL","2024-03-24","Pittsburgh Penguins","Colorado Avalanche",4,4,0,0,0,0,0,1,0,0
+"1129",1129,"45375-TB@ANA","2024-03-24","Tampa Bay Lightning","Anaheim Ducks",2,2,0,0,0,0,1,0,0,0
+"1130",1130,"45375-TOR@CAR","2024-03-24","Toronto Maple Leafs","Carolina Hurricanes",1,1,0,1,0,0,0,0,0,0
+"1131",1131,"45375-WPG@WSH","2024-03-24","Winnipeg Jets","Washington Capitals",0,2,0,1,0,0,0,0,0,0
+"1132",1132,"45376-LA@VAN","2024-03-25","Los Angeles Kings","Vancouver Canucks",2,2,0,0,1,0,0,0,0,0
+"1133",1133,"45376-VGS@STL","2024-03-25","Vegas Golden Knights","St. Louis Blues",1,1,0,0,0,0,1,0,0,0
+"1134",1134,"45377-ANA@SEA","2024-03-26","Anaheim Ducks","Seattle Kraken",0,2,0,2,0,0,0,0,0,0
+"1135",1135,"45377-BOS@FLA","2024-03-26","Boston Bruins","Florida Panthers",3,3,0,0,1,0,0,0,0,0
+"1136",1136,"45377-CAR@PIT","2024-03-26","Carolina Hurricanes","Pittsburgh Penguins",1,4,0,0,0,0,0,0,0,0
+"1137",1137,"45377-CBJ@ARI","2024-03-26","Columbus Blue Jackets","Arizona Coyotes",0,3,0,1,2,2,0,0,0,0
+"1138",1138,"45377-CGY@CHI","2024-03-26","Calgary Flames","Chicago Blackhawks",1,2,0,1,0,0,0,0,0,0
+"1139",1139,"45377-DAL@SJ","2024-03-26","Dallas Stars","San Jose Sharks",4,2,1,1,1,0,0,0,0,0
+"1140",1140,"45377-DET@WSH","2024-03-26","Detroit Red Wings","Washington Capitals",2,3,0,0,1,0,0,1,0,0
+"1141",1141,"45377-EDM@WPG","2024-03-26","Edmonton Oilers","Winnipeg Jets",2,3,0,0,1,0,1,0,0,0
+"1142",1142,"45377-MTL@COL","2024-03-26","Montreal Canadiens","Colorado Avalanche",2,1,0,0,0,0,0,0,0,0
+"1143",1143,"45377-NJ@TOR","2024-03-26","New Jersey Devils","Toronto Maple Leafs",6,3,0,0,0,0,0,0,0,0
+"1144",1144,"45377-PHI@NYR","2024-03-26","Philadelphia Flyers","New York Rangers",4,3,0,1,1,1,0,1,0,0
+"1145",1145,"45377-VGS@NSH","2024-03-26","Vegas Golden Knights","Nashville Predators",4,3,0,1,0,0,0,1,0,0
+"1146",1146,"45378-BOS@TB","2024-03-27","Boston Bruins","Tampa Bay Lightning",1,3,0,0,0,0,0,0,0,0
+"1147",1147,"45378-OTT@BUF","2024-03-27","Ottawa Senators","Buffalo Sabres",6,2,0,0,0,0,0,0,0,0
+"1148",1148,"45379-ANA@SEA","2024-03-28","Anaheim Ducks","Seattle Kraken",0,1,2,3,0,0,0,0,0,0
+"1149",1149,"45379-CBJ@PIT","2024-03-28","Columbus Blue Jackets","Pittsburgh Penguins",2,1,0,2,0,0,0,0,0,0
+"1150",1150,"45379-CGY@STL","2024-03-28","Calgary Flames","St. Louis Blues",2,4,0,1,1,0,0,0,0,0
+"1151",1151,"45379-CHI@OTT","2024-03-28","Chicago Blackhawks","Ottawa Senators",0,1,0,0,0,1,0,0,0,0
+"1152",1152,"45379-DAL@VAN","2024-03-28","Dallas Stars","Vancouver Canucks",1,1,0,0,2,0,0,0,0,0
+"1153",1153,"45379-DET@CAR","2024-03-28","Detroit Red Wings","Carolina Hurricanes",0,3,0,1,0,0,0,0,0,0
+"1154",1154,"45379-LA@EDM","2024-03-28","Los Angeles Kings","Edmonton Oilers",1,3,0,1,0,0,0,0,0,0
+"1155",1155,"45379-NSH@ARI","2024-03-28","Nashville Predators","Arizona Coyotes",2,7,0,1,2,0,0,0,0,0
+"1156",1156,"45379-NYI@FLA","2024-03-28","New York Islanders","Florida Panthers",3,2,0,0,0,0,0,0,0,0
+"1157",1157,"45379-NYR@COL","2024-03-28","New York Rangers","Colorado Avalanche",1,2,0,0,1,0,0,0,1,0
+"1158",1158,"45379-PHI@MTL","2024-03-28","Philadelphia Flyers","Montreal Canadiens",1,3,0,1,0,0,0,0,0,0
+"1159",1159,"45379-SJ@MIN","2024-03-28","San Jose Sharks","Minnesota Wild",1,3,0,0,0,0,0,0,0,0
+"1160",1160,"45379-VGS@WPG","2024-03-28","Vegas Golden Knights","Winnipeg Jets",4,1,0,0,0,0,0,0,0,0
+"1161",1161,"45379-WSH@TOR","2024-03-28","Washington Capitals","Toronto Maple Leafs",1,5,0,0,0,0,0,0,0,0
+"1162",1162,"45380-NJ@BUF","2024-03-29","New Jersey Devils","Buffalo Sabres",2,5,0,0,0,0,0,0,0,0
+"1163",1163,"45381-ANA@EDM","2024-03-30","Anaheim Ducks","Edmonton Oilers",0,5,0,1,1,0,0,0,0,0
+"1164",1164,"45381-BOS@WSH","2024-03-30","Boston Bruins","Washington Capitals",2,1,0,1,0,0,0,0,1,0
+"1165",1165,"45381-CAR@MTL","2024-03-30","Carolina Hurricanes","Montreal Canadiens",1,0,1,0,1,0,0,0,0,0
+"1166",1166,"45381-CHI@PHI","2024-03-30","Chicago Blackhawks","Philadelphia Flyers",4,1,0,0,1,0,0,0,0,0
+"1167",1167,"45381-DAL@SEA","2024-03-30","Dallas Stars","Seattle Kraken",2,0,0,0,1,0,0,0,0,0
+"1168",1168,"45381-DET@FLA","2024-03-30","Detroit Red Wings","Florida Panthers",0,2,0,0,2,0,0,0,0,1
+"1169",1169,"45381-LA@CGY","2024-03-30","Los Angeles Kings","Calgary Flames",0,1,0,3,2,0,0,0,0,0
+"1170",1170,"45381-NSH@COL","2024-03-30","Nashville Predators","Colorado Avalanche",4,4,0,3,0,0,0,0,0,0
+"1171",1171,"45381-NYI@TB","2024-03-30","New York Islanders","Tampa Bay Lightning",1,3,0,1,0,0,0,0,0,0
+"1172",1172,"45381-NYR@ARI","2024-03-30","New York Rangers","Arizona Coyotes",7,4,1,1,0,0,0,0,0,0
+"1173",1173,"45381-OTT@WPG","2024-03-30","Ottawa Senators","Winnipeg Jets",2,1,0,1,1,0,0,0,0,0
+"1174",1174,"45381-PIT@CBJ","2024-03-30","Pittsburgh Penguins","Columbus Blue Jackets",3,2,0,0,0,1,0,0,0,1
+"1175",1175,"45381-SJ@STL","2024-03-30","San Jose Sharks","St. Louis Blues",4,0,0,0,0,0,0,0,0,0
+"1176",1176,"45381-TOR@BUF","2024-03-30","Toronto Maple Leafs","Buffalo Sabres",3,0,0,0,0,0,0,0,0,0
+"1177",1177,"45381-VGS@MIN","2024-03-30","Vegas Golden Knights","Minnesota Wild",1,0,0,1,0,0,1,0,0,0
+"1178",1178,"45382-ANA@VAN","2024-03-31","Anaheim Ducks","Vancouver Canucks",2,1,0,2,0,0,0,0,0,0
+"1179",1179,"45383-COL@CBJ","2024-04-01","Colorado Avalanche","Columbus Blue Jackets",1,4,0,0,0,0,0,0,0,0
+"1180",1180,"45383-DET@TB","2024-04-01","Detroit Red Wings","Tampa Bay Lightning",4,0,0,1,0,1,0,0,0,0
+"1181",1181,"45383-EDM@STL","2024-04-01","Edmonton Oilers","St. Louis Blues",2,1,0,1,0,0,0,1,0,0
+"1182",1182,"45383-FLA@TOR","2024-04-01","Florida Panthers","Toronto Maple Leafs",4,6,0,0,0,0,0,0,0,0
+"1183",1183,"45383-LA@WPG","2024-04-01","Los Angeles Kings","Winnipeg Jets",3,4,0,0,0,0,0,0,0,0
+"1184",1184,"45383-NYI@PHI","2024-04-01","New York Islanders","Philadelphia Flyers",3,3,0,0,0,0,1,0,0,0
+"1185",1185,"45383-PIT@NYR","2024-04-01","Pittsburgh Penguins","New York Rangers",5,2,0,0,0,0,0,0,0,0
+"1186",1186,"45383-SEA@SJ","2024-04-01","Seattle Kraken","San Jose Sharks",4,1,0,1,0,0,0,0,0,0
+"1187",1187,"45384-ANA@CGY","2024-04-02","Anaheim Ducks","Calgary Flames",4,2,0,1,1,0,0,0,0,0
+"1188",1188,"45384-BOS@NSH","2024-04-02","Boston Bruins","Nashville Predators",2,0,1,0,0,0,0,0,0,0
+"1189",1189,"45384-CHI@NYI","2024-04-02","Chicago Blackhawks","New York Islanders",1,1,0,1,0,0,0,0,0,0
+"1190",1190,"45384-FLA@MTL","2024-04-02","Florida Panthers","Montreal Canadiens",3,3,0,1,0,1,0,0,0,0
+"1191",1191,"45384-OTT@MIN","2024-04-02","Ottawa Senators","Minnesota Wild",0,3,0,0,2,0,0,0,0,0
+"1192",1192,"45384-PIT@NJ","2024-04-02","Pittsburgh Penguins","New Jersey Devils",5,2,0,1,1,0,0,0,0,0
+"1193",1193,"45384-VAN@VGS","2024-04-02","Vancouver Canucks","Vegas Golden Knights",2,4,0,2,1,0,0,0,0,0
+"1194",1194,"45384-WSH@BUF","2024-04-02","Washington Capitals","Buffalo Sabres",1,4,0,2,1,0,0,0,0,0
+"1195",1195,"45385-EDM@DAL","2024-04-03","Edmonton Oilers","Dallas Stars",0,4,0,1,0,0,0,0,0,0
+"1196",1196,"45385-NJ@NYR","2024-04-03","New Jersey Devils","New York Rangers",3,3,0,1,0,0,0,0,0,0
+"1197",1197,"45385-SEA@LA","2024-04-03","Seattle Kraken","Los Angeles Kings",1,4,0,1,1,0,0,0,0,0
+"1198",1198,"45385-TB@TOR","2024-04-03","Tampa Bay Lightning","Toronto Maple Leafs",4,0,0,1,0,0,0,0,0,0
+"1199",1199,"45385-VAN@ARI","2024-04-03","Vancouver Canucks","Arizona Coyotes",1,0,0,1,1,0,0,0,0,0
+"1200",1200,"45386-BOS@CAR","2024-04-04","Boston Bruins","Carolina Hurricanes",4,0,0,1,0,0,0,0,0,0
+"1201",1201,"45386-CGY@WPG","2024-04-04","Calgary Flames","Winnipeg Jets",1,3,0,2,1,0,0,0,0,0
+"1202",1202,"45386-COL@MIN","2024-04-04","Colorado Avalanche","Minnesota Wild",4,1,0,1,1,0,0,0,0,0
+"1203",1203,"45386-FLA@OTT","2024-04-04","Florida Panthers","Ottawa Senators",5,0,0,0,1,0,0,0,0,0
+"1204",1204,"45386-LA@SJ","2024-04-04","Los Angeles Kings","San Jose Sharks",2,1,0,0,0,0,0,0,0,0
+"1205",1205,"45386-NYI@CBJ","2024-04-04","New York Islanders","Columbus Blue Jackets",3,1,0,1,1,0,0,0,0,0
+"1206",1206,"45386-PIT@WSH","2024-04-04","Pittsburgh Penguins","Washington Capitals",4,0,0,1,0,0,0,0,0,0
+"1207",1207,"45386-STL@NSH","2024-04-04","St. Louis Blues","Nashville Predators",2,3,0,2,1,1,0,0,0,0
+"1208",1208,"45386-TB@MTL","2024-04-04","Tampa Bay Lightning","Montreal Canadiens",5,4,0,0,2,0,0,0,0,0
+"1209",1209,"45387-COL@EDM","2024-04-05","Colorado Avalanche","Edmonton Oilers",2,6,0,0,0,0,0,0,0,0
+"1210",1210,"45387-NYR@DET","2024-04-05","New York Rangers","Detroit Red Wings",3,2,0,1,1,0,0,0,0,0
+"1211",1211,"45387-PHI@BUF","2024-04-05","Philadelphia Flyers","Buffalo Sabres",2,4,0,0,0,0,0,0,0,0
+"1212",1212,"45387-SEA@ANA","2024-04-05","Seattle Kraken","Anaheim Ducks",2,1,0,0,1,0,0,0,0,0
+"1213",1213,"45387-VGS@ARI","2024-04-05","Vegas Golden Knights","Arizona Coyotes",4,7,0,0,0,0,0,0,0,0
+"1214",1214,"45387-WSH@CAR","2024-04-05","Washington Capitals","Carolina Hurricanes",2,2,0,2,0,0,0,0,0,0
+"1215",1215,"45388-DAL@CHI","2024-04-06","Dallas Stars","Chicago Blackhawks",2,2,0,1,0,0,0,0,0,0
+"1216",1216,"45388-EDM@CGY","2024-04-06","Edmonton Oilers","Calgary Flames",2,0,0,2,2,0,0,0,0,0
+"1217",1217,"45388-FLA@BOS","2024-04-06","Florida Panthers","Boston Bruins",2,1,0,1,0,0,0,1,0,0
+"1218",1218,"45388-NJ@OTT","2024-04-06","New Jersey Devils","Ottawa Senators",4,1,0,2,0,0,0,0,0,0
+"1219",1219,"45388-NSH@NYI","2024-04-06","Nashville Predators","New York Islanders",0,2,0,0,0,0,0,0,0,0
+"1220",1220,"45388-PHI@CBJ","2024-04-06","Philadelphia Flyers","Columbus Blue Jackets",2,5,0,1,0,0,0,0,0,0
+"1221",1221,"45388-STL@SJ","2024-04-06","St. Louis Blues","San Jose Sharks",1,0,0,2,1,0,0,1,0,0
+"1222",1222,"45388-TB@PIT","2024-04-06","Tampa Bay Lightning","Pittsburgh Penguins",2,5,0,0,2,0,0,0,0,0
+"1223",1223,"45388-TOR@MTL","2024-04-06","Toronto Maple Leafs","Montreal Canadiens",4,1,0,1,0,0,0,0,0,0
+"1224",1224,"45388-VAN@LA","2024-04-06","Vancouver Canucks","Los Angeles Kings",2,3,1,2,0,1,0,0,0,0
+"1225",1225,"45388-WPG@MIN","2024-04-06","Winnipeg Jets","Minnesota Wild",4,1,0,1,0,0,0,0,0,0
+"1226",1226,"45389-ARI@SJ","2024-04-07","Arizona Coyotes","San Jose Sharks",4,1,0,1,1,0,0,0,0,0
+"1227",1227,"45389-BUF@DET","2024-04-07","Buffalo Sabres","Detroit Red Wings",0,2,0,1,1,0,0,0,0,0
+"1228",1228,"45389-CBJ@CAR","2024-04-07","Columbus Blue Jackets","Carolina Hurricanes",0,2,0,1,0,0,0,0,0,0
+"1229",1229,"45389-DAL@COL","2024-04-07","Dallas Stars","Colorado Avalanche",4,3,0,1,3,0,0,0,0,0
+"1230",1230,"45389-MIN@CHI","2024-04-07","Minnesota Wild","Chicago Blackhawks",3,0,0,0,1,0,0,0,0,0
+"1231",1231,"45389-MTL@NYR","2024-04-07","Montreal Canadiens","New York Rangers",2,3,0,2,0,0,0,0,0,0
+"1232",1232,"45389-NSH@NJ","2024-04-07","Nashville Predators","New Jersey Devils",1,2,0,0,1,0,0,0,1,0
+"1233",1233,"45389-OTT@WSH","2024-04-07","Ottawa Senators","Washington Capitals",2,2,0,0,0,0,1,0,0,0
+"1234",1234,"45389-STL@ANA","2024-04-07","St. Louis Blues","Anaheim Ducks",3,4,0,1,2,0,0,0,1,0
+"1235",1235,"45390-PIT@TOR","2024-04-08","Pittsburgh Penguins","Toronto Maple Leafs",2,1,0,1,0,0,0,1,0,0
+"1236",1236,"45390-VGS@VAN","2024-04-08","Vegas Golden Knights","Vancouver Canucks",1,2,0,2,2,0,0,0,0,0
+"1237",1237,"45391-ARI@SEA","2024-04-09","Arizona Coyotes","Seattle Kraken",0,4,0,1,0,0,0,0,0,0
+"1238",1238,"45391-BUF@DAL","2024-04-09","Buffalo Sabres","Dallas Stars",2,3,0,0,0,0,0,0,0,0
+"1239",1239,"45391-CAR@BOS","2024-04-09","Carolina Hurricanes","Boston Bruins",3,1,1,0,0,0,0,0,0,0
+"1240",1240,"45391-CBJ@TB","2024-04-09","Columbus Blue Jackets","Tampa Bay Lightning",1,4,0,1,1,0,0,0,0,0
+"1241",1241,"45391-CGY@SJ","2024-04-09","Calgary Flames","San Jose Sharks",1,2,0,0,1,0,1,0,0,0
+"1242",1242,"45391-LA@ANA","2024-04-09","Los Angeles Kings","Anaheim Ducks",1,3,0,0,0,0,0,0,0,0
+"1243",1243,"45391-MIN@COL","2024-04-09","Minnesota Wild","Colorado Avalanche",0,4,0,1,2,0,0,0,0,0
+"1244",1244,"45391-NYR@NYI","2024-04-09","New York Rangers","New York Islanders",0,4,0,0,2,0,0,0,0,0
+"1245",1245,"45391-OTT@FLA","2024-04-09","Ottawa Senators","Florida Panthers",0,1,0,1,0,0,0,0,0,0
+"1246",1246,"45391-PHI@MTL","2024-04-09","Philadelphia Flyers","Montreal Canadiens",3,9,0,0,0,0,0,0,0,0
+"1247",1247,"45391-TOR@NJ","2024-04-09","Toronto Maple Leafs","New Jersey Devils",5,1,0,1,0,0,0,0,0,0
+"1248",1248,"45391-WPG@NSH","2024-04-09","Winnipeg Jets","Nashville Predators",2,3,0,0,1,0,1,0,0,0
+"1249",1249,"45391-WSH@DET","2024-04-09","Washington Capitals","Detroit Red Wings",2,1,0,0,0,0,0,0,0,0
+"1250",1250,"45392-ARI@VAN","2024-04-10","Arizona Coyotes","Vancouver Canucks",3,2,0,1,0,0,1,0,0,0
+"1251",1251,"45392-CHI@STL","2024-04-10","Chicago Blackhawks","St. Louis Blues",2,5,0,0,0,0,0,0,0,0
+"1252",1252,"45392-VGS@EDM","2024-04-10","Vegas Golden Knights","Edmonton Oilers",0,4,1,1,0,0,0,0,0,0
+"1253",1253,"45393-CBJ@FLA","2024-04-11","Columbus Blue Jackets","Florida Panthers",0,4,0,0,0,0,0,0,0,0
+"1254",1254,"45393-CGY@LA","2024-04-11","Calgary Flames","Los Angeles Kings",1,3,0,1,0,0,0,0,0,0
+"1255",1255,"45393-DET@PIT","2024-04-11","Detroit Red Wings","Pittsburgh Penguins",5,4,0,0,0,1,0,1,0,0
+"1256",1256,"45393-MTL@NYI","2024-04-11","Montreal Canadiens","New York Islanders",2,2,0,0,0,0,0,1,0,0
+"1257",1257,"45393-NJ@TOR","2024-04-11","New Jersey Devils","Toronto Maple Leafs",3,5,0,0,3,0,0,0,0,0
+"1258",1258,"45393-OTT@TB","2024-04-11","Ottawa Senators","Tampa Bay Lightning",2,2,0,0,0,0,0,0,1,0
+"1259",1259,"45393-PHI@NYR","2024-04-11","Philadelphia Flyers","New York Rangers",4,0,0,1,0,0,0,0,0,0
+"1260",1260,"45393-SJ@SEA","2024-04-11","San Jose Sharks","Seattle Kraken",3,1,0,0,0,0,0,0,0,0
+"1261",1261,"45393-WPG@DAL","2024-04-11","Winnipeg Jets","Dallas Stars",3,0,0,0,0,0,0,0,0,0
+"1262",1262,"45393-WSH@BUF","2024-04-11","Washington Capitals","Buffalo Sabres",2,4,0,0,0,0,0,0,0,0
+"1263",1263,"45394-ARI@EDM","2024-04-12","Arizona Coyotes","Edmonton Oilers",2,2,0,0,0,0,1,0,0,0
+"1264",1264,"45394-CAR@STL","2024-04-12","Carolina Hurricanes","St. Louis Blues",5,1,0,1,0,0,0,0,0,0
+"1265",1265,"45394-CGY@ANA","2024-04-12","Calgary Flames","Anaheim Ducks",3,3,1,0,2,0,0,0,0,0
+"1266",1266,"45394-MIN@VGS","2024-04-12","Minnesota Wild","Vegas Golden Knights",1,4,0,2,1,1,0,0,0,0
+"1267",1267,"45394-NSH@CHI","2024-04-12","Nashville Predators","Chicago Blackhawks",2,0,0,1,3,0,0,0,0,0
+"1268",1268,"45395-ANA@LA","2024-04-13","Anaheim Ducks","Los Angeles Kings",1,2,0,1,0,0,0,0,0,0
+"1269",1269,"45395-BOS@PIT","2024-04-13","Boston Bruins","Pittsburgh Penguins",5,2,1,1,0,1,0,0,0,0
+"1270",1270,"45395-BUF@FLA","2024-04-13","Buffalo Sabres","Florida Panthers",1,1,0,0,1,1,0,1,0,0
+"1271",1271,"45395-CBJ@NSH","2024-04-13","Columbus Blue Jackets","Nashville Predators",4,4,0,2,0,0,0,0,0,0
+"1272",1272,"45395-DET@TOR","2024-04-13","Detroit Red Wings","Toronto Maple Leafs",3,2,0,2,1,0,1,0,0,0
+"1273",1273,"45395-MIN@SJ","2024-04-13","Minnesota Wild","San Jose Sharks",5,2,0,0,1,0,0,0,0,0
+"1274",1274,"45395-MTL@OTT","2024-04-13","Montreal Canadiens","Ottawa Senators",2,1,1,3,1,0,0,0,0,1
+"1275",1275,"45395-NJ@PHI","2024-04-13","New Jersey Devils","Philadelphia Flyers",0,0,0,0,0,1,0,0,0,0
+"1276",1276,"45395-NYI@NYR","2024-04-13","New York Islanders","New York Rangers",2,1,0,0,0,1,0,0,0,1
+"1277",1277,"45395-SEA@DAL","2024-04-13","Seattle Kraken","Dallas Stars",1,2,0,1,0,0,0,0,0,0
+"1278",1278,"45395-TB@WSH","2024-04-13","Tampa Bay Lightning","Washington Capitals",2,3,0,1,0,0,0,0,0,0
+"1279",1279,"45395-VAN@EDM","2024-04-13","Vancouver Canucks","Edmonton Oilers",3,1,0,0,0,0,0,0,0,0
+"1280",1280,"45395-WPG@COL","2024-04-13","Winnipeg Jets","Colorado Avalanche",5,0,0,0,2,0,0,0,0,0
+"1281",1281,"45396-ARI@CGY","2024-04-14","Arizona Coyotes","Calgary Flames",4,5,0,1,1,0,0,0,0,0
+"1282",1282,"45396-CAR@CHI","2024-04-14","Carolina Hurricanes","Chicago Blackhawks",2,2,0,0,2,0,0,0,0,0
+"1283",1283,"45396-COL@VGS","2024-04-14","Colorado Avalanche","Vegas Golden Knights",3,2,0,1,0,0,0,1,0,0
+"1284",1284,"45396-SEA@STL","2024-04-14","Seattle Kraken","St. Louis Blues",1,4,0,0,0,0,0,0,0,0
+"1285",1285,"45397-BOS@WSH","2024-04-15","Boston Bruins","Washington Capitals",0,2,0,0,0,0,0,0,0,0
+"1286",1286,"45397-BUF@TB","2024-04-15","Buffalo Sabres","Tampa Bay Lightning",3,2,1,0,0,0,0,0,0,0
+"1287",1287,"45397-MIN@LA","2024-04-15","Minnesota Wild","Los Angeles Kings",2,1,0,0,1,0,0,0,0,0
+"1288",1288,"45397-MTL@DET","2024-04-15","Montreal Canadiens","Detroit Red Wings",4,4,0,0,0,0,0,1,0,0
+"1289",1289,"45397-NSH@PIT","2024-04-15","Nashville Predators","Pittsburgh Penguins",2,3,0,1,0,0,0,0,0,0
+"1290",1290,"45397-NYI@NJ","2024-04-15","New York Islanders","New Jersey Devils",3,1,0,0,1,0,0,0,0,0
+"1291",1291,"45397-OTT@NYR","2024-04-15","Ottawa Senators","New York Rangers",0,3,0,0,0,1,0,0,0,0
+"1292",1292,"45397-SJ@EDM","2024-04-15","San Jose Sharks","Edmonton Oilers",2,9,0,0,0,0,0,0,0,0
+"1293",1293,"45398-CAR@CBJ","2024-04-16","Carolina Hurricanes","Columbus Blue Jackets",2,6,0,0,1,0,0,0,0,0
+"1294",1294,"45398-CGY@VAN","2024-04-16","Calgary Flames","Vancouver Canucks",1,3,0,0,0,1,0,0,0,0
+"1295",1295,"45398-CHI@VGS","2024-04-16","Chicago Blackhawks","Vegas Golden Knights",1,3,0,0,0,0,0,0,0,0
+"1296",1296,"45398-DET@MTL","2024-04-16","Detroit Red Wings","Montreal Canadiens",4,4,0,0,0,0,0,0,1,0
+"1297",1297,"45398-OTT@BOS","2024-04-16","Ottawa Senators","Boston Bruins",2,0,1,1,0,0,0,0,0,0
+"1298",1298,"45398-SEA@WPG","2024-04-16","Seattle Kraken","Winnipeg Jets",3,3,0,1,0,0,0,0,0,0
+"1299",1299,"45398-TOR@FLA","2024-04-16","Toronto Maple Leafs","Florida Panthers",1,5,0,0,1,0,0,0,0,0
+"1300",1300,"45398-WSH@PHI","2024-04-16","Washington Capitals","Philadelphia Flyers",2,1,0,0,0,0,0,0,0,0
+"1301",1301,"45399-EDM@ARI","2024-04-17","Edmonton Oilers","Arizona Coyotes",2,4,0,1,0,0,0,0,0,0
+"1302",1302,"45399-PIT@NYI","2024-04-17","Pittsburgh Penguins","New York Islanders",2,3,0,2,2,0,0,0,0,0
+"1303",1303,"45399-STL@DAL","2024-04-17","St. Louis Blues","Dallas Stars",1,1,0,0,0,0,0,0,0,1
+"1304",1304,"45399-TOR@TB","2024-04-17","Toronto Maple Leafs","Tampa Bay Lightning",4,5,0,1,0,0,0,0,0,0
+"1305",1305,"45400-ANA@VGS","2024-04-18","Anaheim Ducks","Vegas Golden Knights",2,0,1,1,1,0,0,0,0,0
+"1306",1306,"45400-CHI@LA","2024-04-18","Chicago Blackhawks","Los Angeles Kings",3,2,0,2,1,0,0,1,0,0
+"1307",1307,"45400-EDM@COL","2024-04-18","Edmonton Oilers","Colorado Avalanche",0,4,0,1,1,0,0,0,0,0
+"1308",1308,"45400-SEA@MIN","2024-04-18","Seattle Kraken","Minnesota Wild",1,1,2,2,1,0,0,0,0,0
+"1309",1309,"45400-SJ@CGY","2024-04-18","San Jose Sharks","Calgary Flames",0,5,0,0,1,0,0,0,0,0
+"1310",1310,"45400-VAN@WPG","2024-04-18","Vancouver Canucks","Winnipeg Jets",1,4,0,0,1,0,0,0,0,0

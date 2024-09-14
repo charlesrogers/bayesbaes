@@ -14,7 +14,7 @@ library(reshape2)       # reshape grouped data from wide to long format
 
 
 #### 1. Load the data ####
-aggregated_goals <- read_csv("015_chapter_15/data/nhl2023_goals.csv")
+aggregated_goals <- read_csv("nhl2023_goals.csv")
 
 #### 2. Data wrangling and initial team observations ####
 aggregated_goals <- aggregated_goals %>% select(-...1, -X)

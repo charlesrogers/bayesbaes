@@ -111,7 +111,3 @@ ggplot(df.predict, aes(x = points.2023, y = predicted_points_xg, color = "xg")) 
   labs(x = "Actual Points", y = "Predicted Points", color = "Statistic") +
   theme(legend.position = "bottom")
 
-
-  system("git config --global user.name 'Charles Rogers'")
-  system("git config --global user.email 'charlesrogers@gmail.com'")
-
