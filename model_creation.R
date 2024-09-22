@@ -1,31 +1,71 @@
+
+write.csv(serieA_2023, "serieA_2023.csv")
+write.csv(df.summary.all, "df.summary.all.csv")
+df_long <- df.summary.short %>%
+  pivot_longer(
+    cols = c(starts_with("points"), starts_with("total_xg"), starts_with("total_goals")),
+    names_to = c(".value", "year"),
+    names_pattern = "(.+)\\.?(\\d{4})",
+    values_drop_na = TRUE
+  ) %>%
+  mutate(year = as.integer(year))
+
+str(df_long)
+
+predict_next_year_points <- function(df) {
+  df %>%
+    arrange(team, year) %>%
+    group_by(team) %>%
+    mutate(
+      next_year_points = lead(points.),
+      prev_year_xg_for = lag(total_xg.for.),
+      prev_year_xg_against = lag(total_xg.against.)
+    ) %>%
+    ungroup() %>%
+    filter(!is.na(next_year_points) & !is.na(prev_year_xg_for) & !is.na(prev_year_xg_against))
+}
+
+df_prediction <- predict_next_year_points(df_long)
+
+fit_xg_all <- lm(next_year_points ~ prev_year_xg_for + prev_year_xg_against, data = df_prediction)
+summary(fit_xg_all)
+install.packages("broom")
+library(broom)
+
+df_prediction %>%
+  group_by(year) %>%
+  do(model = lm(next_year_points ~ prev_year_xg_for + prev_year_xg_against, data = .)) %>%
+  summarise(year = year, tidy_model = list(tidy(model)), glance_model = list(glance(model)))
+
+
+# OLD
 # Create data frame for linear regression of XG vs Goals
-df.predict <- df.summary.short %>%
+df.predict.2023 <- df.summary.short %>%
   filter(!is.na(points.2023) & !is.na(points.2022)) %>%
-  select(team, , starts_with("total_xg"), starts_with("total_goals")) %>%
-  pivot_longer(cols = -c(team), names_to = "statistic", values_to = "value") 
+  select(team, starts_with("points"), starts_with("total_xg"), starts_with("total_goals"))
 
 # Linear regression to predict next year's points from xg
-fit_xg <- lm(points.2023 ~ total_xg.for.2022 + total_xg.against.2022, data = df.summary.short)
+fit_xg <- lm(points.2023 ~ total_xg.for.2022 * total_xg.against.2022, data = df.predict.2023)
 summary(fit_xg)
 # Linear regression to predict next year's points from xg for
-fit_xg.for <- lm(points.2023 ~ total_xg.for.2022 , data = df.summary.short)
+fit_xg.for <- lm(points.2023 ~ total_xg.for.2022 , data = df.predict.2023)
 summary(fit_xg.for)
 # Linear regression to predict next year's points from xg agasinst
-fit_xg.against <- lm(points.2023 ~ total_xg.against.2022 , data = df.summary.short)
+fit_xg.against <- lm(points.2023 ~ total_xg.against.2022 , data = df.predict.2023)
 summary(fit_xg.against)
 
 # Linear regression to predict next year's points from goals
-fit_goals <- lm(points.2023 ~ total_goals.for.2022 + total_goals.against.2022, data = df.summary.short)
+fit_goals <- lm(points.2023 ~ total_goals.for.2022 + total_goals.against.2022, data = df.predict.2023)
 summary(fit_goals)
 
 # Linear regression to predict next year's points from goals for
-fit_goals.for <- lm(points.2023 ~ total_goals.for.2022 , data = df.summary.short)
+fit_goals.for <- lm(points.2023 ~ total_goals.for.2022 , data = df.predict.2023)
 summary(fit_goals.for)
 # Linear regression to predict next year's points from goals against
-fit_goals.against <- lm(points.2023 ~ total_goals.against.2022 , data = df.summary.short)
+fit_goals.against <- lm(points.2023 ~ total_goals.against.2022 , data = df.predict.2023)
 summary(fit_goals.against)
 
-fit_goals.merged <- lm(points.2023 ~ total_xg.for.2022 + total_xg.against.2022 + total_goals.for.2022 + total_goals.against.2022, data = df.summary.short)
+fit_goals.merged <- lm(points.2023 ~ total_xg.for.2022 + total_xg.against.2022 + total_goals.for.2022 + total_goals.against.2022, data = df.predict.2023)
 summary(fit_goals.merged)
 
 # Rank models
@@ -79,4 +119,24 @@ ggplot(df.predict, aes(x = points.2023, y = predicted_points_xg, color = "xg")) 
   labs(x = "Actual Points", y = "Predicted Points", color = "Statistic") +
   theme(legend.position = "bottom")
 
+install.packages("mgcv")
+library(mgcv)
+fit_gam <- gam(points.2023 ~ s(total_xg.for.2022) + s(total_xg.against.2022), 
+               data = df.predict.2023)
+summary(fit_gam)
+install.packages("randomForest")
+library(randomForest)
+fit_rf <- randomForest(points.2023 ~ total_xg.for.2022 + total_xg.against.2022, 
+                       data = df.predict.2023)
+summary(fit_rf)
 
+install.packages("splines")
+library(splines)
+fit_spline <- lm(points.2023 ~ bs(total_xg.for.2022, df = 3) + 
+                 bs(total_xg.against.2022, df = 3), 
+                 data = df.predict.2023)
+summary(fit_spline)
+
+fit_log <- lm(log(points.2023) ~ log(total_xg.for.2022) + log(total_xg.against.2022), 
+              data = df.predict.2023)
+summary(fit_log)
