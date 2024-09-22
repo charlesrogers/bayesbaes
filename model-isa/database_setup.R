@@ -2,6 +2,8 @@
 if (!require(RSQLite) | !require(DBI)) {
   install.packages(c("RSQLite", "DBI"))
 }
+
+library(tidyverse)
 library(RSQLite)
 library(DBI)
 # Create a SQLite database
@@ -23,11 +25,11 @@ isa.db <- dbConnect(RSQLite::SQLite(), "isa.sqlite")
 ## dbWriteTable(isa.db, "season_games", rbind(#), APPEND = TRUE)
 
 # create new table
-dbExecute(isa.db, "CREATE TABLE IF NOT EXISTS transfer_data (id INTEGER PRIMARY KEY)")
+## dbExecute(isa.db, "CREATE TABLE IF NOT EXISTS transfer_data (id INTEGER PRIMARY KEY)")
 
 # Query the database
 df.seasons <- dbGetQuery(isa.db, "SELECT * FROM season_games")
-df.transfer_data <- dbGetQuery(isa.db, "SELECT * FROM transfer_data")
+## df.transfer_data <- dbGetQuery(isa.db, "SELECT * FROM transfer_data")
 
 # Close connection
 dbDisconnect(isa.db)

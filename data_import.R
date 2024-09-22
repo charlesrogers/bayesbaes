@@ -1,5 +1,6 @@
 devtools::install_github("JaseZiv/worldfootballR")
 library(worldfootballR)
+
 library(tidyverse)
 
 # Load data from FBREF
