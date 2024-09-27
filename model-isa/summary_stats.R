@@ -89,6 +89,12 @@ df.season.2023 <- df.seasons %>%
 
 #
 
+df.season.2023 %>%
+  group_by(Home) %>%
+  mutate(matchday_points.home = ifelse(HomeGoals > AwayGoals, 3, ifelse(HomeGoals == AwayGoals, 1, 0))) %>%
+  summarise(wins = sum(matchday_points.home==3)) %>%
+  View()
+
 create_summary_stats <- function(data,Year) {
 
   df.home <- data %>%
@@ -97,12 +103,17 @@ create_summary_stats <- function(data,Year) {
     group_by(Home) %>%
     summarise(
       home_points = sum(matchday_points.home),
+      home_goals.scored.total = sum(HomeGoals, na.rm = TRUE),
+      home_goals.conceded.total = sum(AwayGoals, na.rm = TRUE),
       home_goals.scored = mean(HomeGoals, na.rm = TRUE),
       home_goals.conceded = mean(AwayGoals, na.rm = TRUE),
       home_xg.for = sum(Home_xG,na.rm = TRUE),
       home_xg.against = sum(Away_xG,na.rm = TRUE),
       ave_home_xg.for = mean(Home_xG,na.rm = TRUE),
-      ave_home_xg.against = mean(Away_xG,na.rm = TRUE)
+      ave_home_xg.against = mean(Away_xG,na.rm = TRUE),
+      home_wins = sum(matchday_points.home==3),
+      home_draws = sum(matchday_points.home==1),
+      home_losses = sum(matchday_points.home==0)
     ) 
 
   df.away <- data %>%
@@ -111,29 +122,42 @@ create_summary_stats <- function(data,Year) {
     group_by(Away) %>%
     summarise(
       away_points = sum(matchday_points.away),
+      away_goals.scored.total = sum(AwayGoals, na.rm = TRUE),
+      away_goals.conceded.total = sum(HomeGoals, na.rm = TRUE),
       away_goals.scored = mean(AwayGoals, na.rm = TRUE),
       away_goals.conceded = mean(HomeGoals, na.rm = TRUE),
       away_xg.for = sum(Away_xG,na.rm = TRUE),
       away_xg.against = sum(Away_xG,na.rm = TRUE),
       ave_away_xg.for = mean(Away_xG,na.rm = TRUE),
-      ave_away_xg.against = mean(Home_xG,na.rm = TRUE)
+      ave_away_xg.against = mean(Home_xG,na.rm = TRUE),
+      away_wins = sum(matchday_points.away==3),
+      away_draws = sum(matchday_points.away==1),
+      away_losses = sum(matchday_points.away==0)
     )
 
   df.final <- df.home %>%
     full_join(df.away, by = c("Home" = "Away")) %>%
-    mutate(total_goals.for = home_goals.scored + away_goals.scored,
-           total_goals.against = home_goals.conceded + away_goals.conceded,
+    mutate(
+      total.goals.scored = home_goals.scored.total + away_goals.scored.total,
+      total.goals.conceded = home_goals.conceded.total + away_goals.conceded.total,
+      total.goal_differential = total.goals.scored - total.goals.conceded,
+      goals.for.average = home_goals.scored + away_goals.scored,
+           goals.against.average = home_goals.conceded + away_goals.conceded,
            average_goals.scored = (home_goals.scored + away_goals.scored) / 2,
            average_goals.conceded = (home_goals.conceded + away_goals.conceded) / 2,
            average_xg.for = (home_xg.for + away_xg.for) / 2,
            average_xg.against = (home_xg.against + away_xg.against) / 2,
            points = home_points + away_points,
+           points.pct=points/(38*3),
            average_points = (home_points + away_points) / 38,
            total_xg.for = home_xg.for + away_xg.for,
            total_xg.against = home_xg.against + away_xg.against,
            Year = as.integer(Year),
            rank = rank(desc(points), ties.method = "min"),
-           relegated = ifelse(rank %in% 18:20, 1, 0)
+           relegated = ifelse(rank %in% 18:20, 1, 0),
+           wins = home_wins + away_wins,
+           draws = home_draws + away_draws,
+           losses = home_losses + away_losses
     ) %>%
    rename(team = Home) 
     
@@ -153,6 +177,6 @@ create_serieA_summary <- function(data_list) {
     pivot_wider(names_from = c(statistic, Year), values_from = value, names_sep = ".")
 }
 
-df.summary.short <- create_serieA_summary(list(df.season.2019.summary, df.season.2020.summary, df.season.2021.summary, df.season.2022.summary,df.season.2023.summary)) %>%
-  select(team,starts_with("points"),starts_with("total_goals"), starts_with("total_xg"))
+df.isa.summary.19_23 <- create_serieA_summary(list(df.season.2019.summary, df.season.2020.summary, df.season.2021.summary, df.season.2022.summary,df.season.2023.summary)) %>%
+  select(team,starts_with("points"),starts_with("total_goals"), starts_with("total_xg"),starts_with("wins"),starts_with("draws"),starts_with("losses"))
 

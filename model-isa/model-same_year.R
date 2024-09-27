@@ -1,18 +1,13 @@
-library(RSQLite)
-library(DBI)
 library(tidyverse)
-
-
-# Import Data
-isa.db <- dbConnect(RSQLite::SQLite(), "isa.sqlite")
-df.seasons <- dbGetQuery(isa.db, "SELECT * FROM season_games")
+library(broom)
 
 # Create summary stats
-
+## SEE summary_stats.r
  
 
 
-df_long <- df.summary.short %>%
+
+df_long <- df.isa.summary.19_23 %>%
   pivot_longer(
     cols = c(starts_with("points"), starts_with("total_xg"), starts_with("total_goals")),
     names_to = c(".value", "year"),
@@ -23,25 +18,16 @@ df_long <- df.summary.short %>%
 
 str(df_long)
 
-predict_next_year_points <- function(df) {
-  df %>%
-    arrange(team, year) %>%
-    group_by(team) %>%
-    mutate(
-      next_year_points = lead(points.),
-      prev_year_xg_for = lag(total_xg.for.),
-      prev_year_xg_against = lag(total_xg.against.)
-    ) %>%
-    ungroup() %>%
-    filter(!is.na(next_year_points) & !is.na(prev_year_xg_for) & !is.na(prev_year_xg_against))
-}
+df_long.2022 <- df_long %>%
+  filter(year == 2022) %>%
+  mutate(total_xg.for.=total_xg.for./38,
+     total_xg.against.=total_xg.against./38)
 
-df_prediction <- predict_next_year_points(df_long)
+fit_xg_all <- lm(points. ~ total_xg.for. + total_xg.against. +  total_goals.for. + total_goals.against., data = (df_long.2022)) 
 
-fit_xg_all <- lm(next_year_points ~ prev_year_xg_for + prev_year_xg_against, data = df_prediction)
 summary(fit_xg_all)
-install.packages("broom")
-library(broom)
+broom::tidy(fit_xg_all)
+
 
 df_prediction %>%
   group_by(year) %>%

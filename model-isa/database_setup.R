@@ -33,3 +33,4 @@ df.seasons <- dbGetQuery(isa.db, "SELECT * FROM season_games")
 
 # Close connection
 dbDisconnect(isa.db)
+
