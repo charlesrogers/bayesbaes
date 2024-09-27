@@ -69,7 +69,26 @@
 # df.serieA_summary.2022 <- create_summary_stats(serieA_2022, 2022)
 # df.serieA_summary.2023 <- create_summary_stats(serieA_2023, 2023)
 
+df.seasons.games <- df.seasons %>% 
+  select(Season_End_Year, Wk, Home, Away, HomeGoals, AwayGoals) %>%
+  rename(Year=Season_End_Year, Week=Wk) %>%
+  pivot_longer(
+    cols = c(Home, Away),
+    names_to = "location",
+    values_to = "team"
+  ) %>% 
+    mutate(
+      team.year=paste(team,Year,sep = "."),
+      location = if_else(location == "Home", "home", "away"),
+      goals_for = if_else(location == "home", HomeGoals, AwayGoals),
+      goals_against = if_else(location == "home", AwayGoals, HomeGoals),
+      goal_differential = goals_for - goals_against,
+      outcome=if_else(goal_differential > 0, "win", if_else(goal_differential < 0 , "loss", "tie"))
+    ) %>% 
+  select(-c(HomeGoals,AwayGoals))
 
+# Display the first 10 rows of the reshaped data
+reshaped_df %>% head(n = 10)
 # Create Season Dataframes
 df.season.2019 <- df.seasons %>%
   filter(Season_End_Year %in% c("2019"))
@@ -87,10 +106,11 @@ df.season.2022 <- df.seasons %>%
 df.season.2023 <- df.seasons %>%
   filter(Season_End_Year %in% c("2023"))
 
-#
+# Full dataset
+rbind()
 
-df.season.2023 %>%
-  group_by(Home) %>%
+df.seasons %>%
+  group_by(Home,Season_End_Year) %>%
   mutate(matchday_points.home = ifelse(HomeGoals > AwayGoals, 3, ifelse(HomeGoals == AwayGoals, 1, 0))) %>%
   summarise(wins = sum(matchday_points.home==3)) %>%
   View()
@@ -178,5 +198,13 @@ create_serieA_summary <- function(data_list) {
 }
 
 df.isa.summary.19_23 <- create_serieA_summary(list(df.season.2019.summary, df.season.2020.summary, df.season.2021.summary, df.season.2022.summary,df.season.2023.summary)) %>%
-  select(team,starts_with("points"),starts_with("total_goals"), starts_with("total_xg"),starts_with("wins"),starts_with("draws"),starts_with("losses"))
+  select(team,starts_with("points"),starts_with("total_goals"), starts_with("total_xg"),starts_with("wins"),starts_with("draws"),starts_with("losses"),everything())
+
+create_serieA_summary <- function(data_list) {
+  df.full <- do.call(rbind, data_list)
+  df.full %>% 
+    pivot_longer(cols = -c(team, Year), names_to = "statistic", values_to = "value") %>% 
+    pivot_wider(names_from = c(statistic, Year), values_from = value, names_sep = ".")
+}
+
 
