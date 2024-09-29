@@ -1,1 +1,0 @@
-head(df.season.2019)
