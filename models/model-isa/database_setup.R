@@ -19,7 +19,7 @@ isa.db <- dbConnect(RSQLite::SQLite(), "isa.sqlite")
 # The data is appended to the table, meaning that if the table already exists,
 # the new data is added to the existing table.
 # The rbind() function is used to combine the data from the 5 seasons into a single data frame.
-## dbWriteTable(isa.db, "season_games", rbind(serieA_2019, serieA_2020, serieA_2021, serieA_2022, serieA_2023), APPEND = TRUE)
+dbWriteTable(isa.db, "season_games", rbind(serieA_2019, serieA_2020, serieA_2021, serieA_2022, serieA_2023), APPEND = TRUE)
 
 # Add new data to same table
 ## dbWriteTable(isa.db, "season_games", rbind(#), APPEND = TRUE)
@@ -34,3 +34,7 @@ df.seasons <- dbGetQuery(isa.db, "SELECT * FROM season_games")
 # Close connection
 dbDisconnect(isa.db)
 
+
+df.seasons %>%
+  head(1000)%>%
+write.csv(., "df.seasons.csv", row.names = FALSE)
